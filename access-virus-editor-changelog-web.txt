@@ -1,0 +1,5 @@
+Version 3.0.0 build 8823 / 2022-March-09
+
+* [Fixed] Resolved issue where plugin would crash when clicking "Push Data To HW" in some cases.
+* [Fixed] Resolved issue where plugin would crash when parameter was changed and LED tracking was set for outgoing MIDI data.
+* [Fixed] Resolved issue where Bank Edit Menu button was not functioning under certain circumstances.
