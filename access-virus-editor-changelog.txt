@@ -1,7 +1,8 @@
 Version 3.0.0 build 8825 / 2022-March-10
 
-[new] users with macOS 10.15 and beyond can now connect to
-    "Virus TI USB Plugin I/O" with Virus TI USB.
+[new] Full version now includes USB driver for Virus TI users.
+    Users with macOS 10.15 and beyond can now connect to
+    "Virus TI USB Plugin I/O" with Virus TI.
     (yes, Big Sur and Monterey users as well).
     Audio has to be routed from Virus to sound card or console,
     but we are investigating...
