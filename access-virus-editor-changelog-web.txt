@@ -1,16 +1,9 @@
-Version 3.0.0 build 8830 / 2022-March-21
+Version 3.0.0 build 8832 / 2022-March-22
 
-* [New] Access Virus Editor User Manual included in PDF format.
-* [New] All manual shortcuts are now available in Utilities menu.
-* [New] If debug is enabled, "LOGGING ENABLED" text will appear under the product logo.
+* [New] Added missing Ableton Live guide.
 
-* [Fixed] Resolved issues with Delay, Reverb and Osc Sync parameters across all models.
-* [Fixed] When bank has unsaved changes, it won't change upper bank on part change.
-* [Fixed] Upper bank view won't show unsaved changes unless the bank content is really changed.
-* [Fixed] Mod Matrix and LFO2 destination pop-up menus fixed.
-* [Fixed] Submit Support Ticket now takes user to proper URL.
+* [Fixed] Resolved issue where Sync Data from HW did not work as expected.
+* [Fixed] When using USB on macOS, time out window is longer.
 
-* [Improvement] Changed the way how timeout is handled while waiting for System Exclusive transfers.
-* [Improvement] Cleaned Patch Librarian "other helpful things" -menu.
-
-* [Other] Small Virus TI Snow model specific updates.
+* [Improvement] Data requests work faster.
+* [Improvement] Data sending work faster.
