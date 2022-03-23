@@ -1,9 +1,4 @@
-Version 3.0.0 build 8832 / 2022-March-22
+Version 3.0.0 build 8834 / 2022-March-23
 
-* [New] Added missing Ableton Live guide.
-
-* [Fixed] Resolved issue where Sync Data from HW did not work as expected.
-* [Fixed] When using USB on macOS, time out window is longer.
-
-* [Improvement] Data requests work faster.
-* [Improvement] Data sending work faster.
+* [Fixed] Resolved issue which caused crash when setting MIDI I/O.
+* [Fixed] Resolved issue which caused constant time out messages.
