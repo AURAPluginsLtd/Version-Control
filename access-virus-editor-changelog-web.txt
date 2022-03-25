@@ -1,4 +1,3 @@
-Version 3.0.0 build 8834 / 2022-March-23
+Version 3.0.0 build 8836 / 2022-March-25
 
-* [Fixed] Resolved issue which caused crash when setting MIDI I/O.
-* [Fixed] Resolved issue which caused constant time out messages.
+* [Fixed] Resolved issue where patches were loaded to part 1 only.
