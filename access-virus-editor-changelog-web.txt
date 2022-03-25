@@ -1,3 +1,5 @@
-Version 3.0.0 build 8836 / 2022-March-25
+Version 3.0.0 build 8838 / 2022-March-25
 
-* [Fixed] Resolved issue where patches were loaded to part 1 only.
+* [New] If bank contains data which has Access Virus header in it, but the data is too small per Virus model standards, it will be ignored and initialized for safety reasons.
+    This might remove some patches from the bank, but it allows user to open banks which are corrupted for some reason.
+    Backup your banks before installing!
