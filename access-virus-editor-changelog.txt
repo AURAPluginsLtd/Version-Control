@@ -1,4 +1,5 @@
-Version 3.0.0 build 8841 / 2022-April-08
+Version 3.0.0 build 9001 / 2022-April-13
 
-[fixed] Resolved issue where plugin would crash if LEDs were enabled.
-[improvement] Consuming less CPU when user interface is open.
+IMPORTANT: This version is not backwards compatible. Backup "access virus editor.vst/component/app/exe/vs3/dll" before installing build 9001!
+
+[new] Virus TI users can now use USB Audio stream with macOS. More details here: https://docs.mysteryislands-music.com/knowledge-base/article/virus-ti-usb-audio-with-every-macos/
