@@ -1,4 +1,4 @@
-Version 3.0.0 build 9001 / 2022-April-13
+Version 3.0.0 build 9011 / 2022-April-25
 
 IMPORTANT: This version is not backwards compatible. Backup "access virus editor.vst/component/app/exe/vs3/dll" before installing build 9001!
 
