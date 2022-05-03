@@ -1,6 +1,14 @@
 Version 3.0.0 build 9011 / 2022-April-25
 
-IMPORTANT: This version is not backwards compatible. Backup "access virus editor.vst/component/app/exe/vs3/dll" before installing build 9001!
+IMPORTANT: New data location is ~/Music/AURA Plugins/Access Virus Editor!
+
+* [New] AURA Plugins Ltd is now taking over Mystery Islands Music to continue developing great Editor & Librarian products for years to come. Product URLs will be updated soon.
+* [New] Adjust how many USB output stream Virus TI will output (macOS only).
+* [New] Surround output for TI now includes USB outputs as well (macOS only).
+* [New] Included Guide how to get USB data stream working in macOS 10.12 or greater.
+* [Fixed] Resolved issue where TI with Device ID omni was not found.
+* [Fixed] Resolved issue where TI Delay Time knob was missing when Tape Free or Doppler was chosen.
+* [Fixed] Resolved issues with TI Reverb modes.
 
 * [New] Virus TI users can now use USB Audio stream with macOS. More details here:
     https://docs.mysteryislands-music.com/knowledge-base/article/virus-ti-usb-audio-with-every-macos/
