@@ -1,5 +1,3 @@
-Version 3.0.0 build 9013                                                          2022-May-08
+Version 3.0.0 build 9015                                                          2022-May-12
 
-* [Fixed] Resolved issue where Virus TI was forced to USB mode even when regular MIDI Dins
-    were used.
-* [Fixed] Resolved issue where deviceID scope did not check for omni value.
+* [New] If new update is available, a button is shown above the Logo instead of popup window.
