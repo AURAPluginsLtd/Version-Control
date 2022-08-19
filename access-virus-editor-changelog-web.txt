@@ -1,3 +1,7 @@
-<strong>Version 3.0.0 build 9015 / 2022-May-12</strong>
+<strong>Version 3.0.0 build 9019 / 2022-Aug-18</strong>
 
-* [New] If new update is available, a button is shown above the Logo instead of popup window.
+* [Fixed] USB Audio Mode should be recalled properly now and values set accordingly.
+* [Fixed] Virus TI Reverb was incorrectly set when data was read from patch and when data was sent to hardware.
+* [Fixed] Virus TI Global settings we recalled incorrectly.
+* [Fixed] Windows installer now works as expected even with custom install.
+* [Fixed] macOS installer now works as expected.
