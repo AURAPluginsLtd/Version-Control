@@ -1,22 +1,4 @@
-<strong>Version 3.0.0 build 9022 / 2022-Sep-30</strong>
+<strong>Version 3.0.0 build 9024 / 2022-Oct-07</strong>
 
-* [New] Demo version ships with USB MIDI Driver for macOS Users.
-* [New] Added option in Utilities menu to limit search on active bank.
-* [New] Added option in Utilities menu to show search results containing search term.
-* [New] Added option in Utilities menu to set default skin (use only if you have one Virus).
-* [New] Added option in Utilities menu to set default model (use only if you have one Virus).
-* [New] Added option in Utilities menu to load HiRes graphics if needed - Uses more RAM.
-* [New] Added option in Utilities menu to route all incoming MIDI data to currently active part (when DAW is stopped).
-* [New] Advanced MIDI Filters page has option for Randomizer Target - All / Excluding Pitch.
-* [Fixed] Softknobs were set to global mode - They work again as expected.
-* [Fixed] Pitch Bender, Modulation Wheel and Note input from Virus Keyboard models work as expected.
-* [Fixed] Draw and control issues of Delay and Reverb on Effects #1 sorted.
-* [Fixed] Resolved issue where TI was set to USB mode when MIDI Dins were used.
-* [Fixed] If data was received from channel 1 and part 2-16 had MIDI channel set to 1, data was not processed.
-* [Fixed] Writing Single Patches to hardware works as expected.
-* [Fixed] Bank Edit menu items didn't update accordingly in some cases.
-* [Fixed] FM Amount was recalled to zero in some cases.
-* [Fixed] Search input was not able to take in @ sign.
-* [Fixed] Editor went to Device ID check loop before it was supposed to.
-* [Improvement] Requesting data from hardware takes less time now (with MIDI Din connectors).
-* [Note] Virus TI users: If you use USB connection, it is much slower than using MIDI Dins. We recommend setting up a soundcard and MIDI interface for Editor use.
+* [Fixed] Resolved issue where plugin was not found after updating to build 9022.
+* [Fixed] Resolved issue where predefined model was not applied accordingly.
