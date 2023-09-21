@@ -1,4 +1,4 @@
-Version 2.6.6 | 2020-Nov-05
+<strong>Version 2.6.6 | 2020-Nov-05</strong>
 
 [new] MIDI Learn. User can now map their favorite DAW controller with CC commands to take over the plug-in user interface!
 [new] Automation can now be recorded to DAW while moving hardware knobs.

@@ -1,3 +1,3 @@
-Version 1.4.0 / 2020-Feb-04
+<strong>Version 1.4.0 | 2020-Feb-04</strong>
 
-* [Other] Removed Auto-save MIDI I/O due to errors caused by the device initialization.
+[other] Removed Auto-save MIDI I/O due to errors caused by the device initialization.
