@@ -1,4 +1,8 @@
-Version 3.0.0 build 9024                                                          2022-Oct-07
+Version 2023.10.31                                                                2023-Oct-31
 
-* [Fixed] Resolved issue where plugin was not found after updating to build 9022.
-* [Fixed] Resolved issue where predefined model was not applied accordingly.
+* More than 30 FIXES applied to the previous version
+* More than 20 NEW features and functions added
+* IMPROVED MIDI timing among dozen other small things under the hood!
+
+Read more about the changes from change log page BEFORE updating the Editor.
+
