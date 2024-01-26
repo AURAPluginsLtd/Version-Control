@@ -1,26 +1,42 @@
-<strong>Version 2023.11.16 | 2023-Nov-16</strong>
+<strong>Version 24.01.06 | 2024-Jan-26</strong>
 
-[new] Non-TI models now use MULTI/MULTISINGLE effect by default.
-[new] Add Soft Knobs 1 - 3 to the Editor so that they can be automated.
-[new] Add Pitch Wheel to the Editor so that it can be automated.
+[new] Added green LEDs to mini mixer view indicating if part is enabled or not.
+[new] Category filters has been reworked so that both categories can be set for more precise results.
+[new] Part Enable switch. Each part has switch to enable or disable set channel. This reduces the MIDI and SysEx data flow therefore improving performance.
+[new] Drag'n'drop Patches from librarian to part. Arrow will change to hand tool on top of set part name when drop can be performed.
+[new] Part Select right click menu. User can now select various actions like request and send data, initialize or randomize data and copy & paste data between parts.
+[new] Utilities menu has a new section for MIDI Preferences with Local KBD default and process DAW CC values.
+[new] MIDI clock signal is passed from REMOTE IN port (standalone app) to hardware.
 
-[fixed] Changing the Low and High Key on the hardware is shown in the Editor display (one octave lower than on the hardware) but not reflected in the Multimode Mixer.
-[fixed] Multi data is not requested to UI when Sync Data from HW is clicked.
-[fixed] Multi Editor writes Part range information one octave too low with TI models.
-[fixed] Resolved issue where Editor would crash if Mac didn't have Metal in it. Using OpenGL2 now for drawing elements instead of Metal.
-[fixed] DAW could crash if Editor interface was not opened before program changes.
-[fixed] Editor interface was reset to zero-stage if control changes were made before opening the User Interface.
-[fixed] Section menu didn't appear for parts 2-16 even when arp was toggled on.
-[fixed] Program and Bank menus next to Editor control display did not work as expected.
-[fixed] Effect layers didn't update control visibility properly.
-[fixed] Parameter values were not updated in DAW when patch was changed.
-[fixed] DAW could crash on parameter changes from hardware with DEMO version.
-[fixed] Some parameters were shown in the advanced midi settings page.
-[fixed] Abort Process button didn't work as expected.
-[fixed] Multi overwrite didn't work as expected.
-[fixed] Missing preferences settings would cause crash.
-[fixed] Graphics didn't load properly on macOS and Windows (zoom greater than 100% caused blurry render).
+[fixed] Automation parameter list fixes and cleanup.
+[fixed] Resolved issue where saving Multis to HDD would not work.
+[fixed] Improved patch loading speed.
+[fixed] Improved editor initialization - Editor no longer gets stuck at 88%.
+[fixed] When category mode is set on and - / + sign is clicked, editor crashed.
+[fixed] Resolved issue where enabling section lock lead to locking the whole part.
+[fixed] Resolved issue where Loading UI DATA would sometimes mess up the user interface.
+[fixed] Virus A scheme for EQ section had color mismatch compared to other tabs.
+[fixed] Resolved issue where user could not disable hardware auto-connect.
+[fixed] Resolved issue with Patch Librarian current bank & program selection upon project recall.
+[fixed] Bank was saved under legacy format even when TI patches were present during bank Save As and Overwrite.
+[fixed] Parameter values are restored one value lower than saved. (VST3 issue)
+[fixed] Resolved issue where Filter options were not shown in Mod Matrix dropdown menu.
+[fixed] Resolved issue where Soft Knob assignments got stuck after preset change.
+[fixed] Resolved issue where Mod Wheel was not sent out to hardware when received via DAW port.
+[fixed] Resolved timeout issue when initializing Editor.
+[fixed] Main view URL now points to our website instead of ko-fi.com page.
+[fixed] Release All Locks button no longer flashes when requesting / transmitting data.
+[fixed] Resolved issue where MIDI LEDs triggered twice under certain circumstances.
+[fixed] Total Recall didn't work as expected if DAW playback was hit too early during recall process. Now data is recalled properly and warning is shown to user if the process is interrupted to push the data to hardware again.
+[fixed] Resolved issue where TI would get stuck during initialization.
+[fixed] Resolved issue where wrong part data was modified under certain circumstances.
+[fixed] Resolved issue where chorus mode change wasn't set properly.
+[fixed] Resolved issue where editor could crash during loading.
 
-[other] Notes from hardware are now bypassed by default in Advanced MIDI Settings.
-[other] Control Messages from DAW are now bypassed by default in Advanced MIDI Settings.
-[other] Section menu for User Arp Pattern is now disabled if pattern mode is wrong.
+[improvement] DeviceID probing works faster.
+[improvement] Patch file logging was off. Now works much faster.
+[improvement] Part focus works as expected now.
+[improvement] Made changes to how incoming data is processed, therefore gaining more performance.
+[improvement] When data is sent or received, mouse pointer shows default OS waiting state.
+
+[other] Version numbering changed to simplified yy-mm-dd format.

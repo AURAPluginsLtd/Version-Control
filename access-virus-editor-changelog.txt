@@ -1,32 +1,18 @@
-Version 2023.11.20                                                                2023-Nov-20
+Version    24.01.26                                                                2024-Jan-26
 
-* [New] Non-TI models now use MULTI/MULTISINGLE effect by default.
-* [New] Add Soft Knobs 1 - 3 to the Editor so that they can be automated.
-* [New] Add Pitch Wheel to the Editor so that it can be automated.
+* [New] Added green LEDs to mini mixer view indicating if part is enabled or not.
+* [New] Category filters has been reworked so that both categories can be set for more
+    precise results.
+* [New] Part Enable switch. Each part has switch to enable or disable set channel.
+    This reduces the MIDI and SysEx data flow therefore improving performance.
+* [New] Drag'n'drop Patches from librarian to part. Arrow will change to hand tool on top of
+    set part name when drop can be performed.
+* [New] Part Select right click menu. User can now select various actions like request and
+    send data, initialize or randomize data and copy & paste data between parts.
+* [New] Utilities menu has a new section for MIDI Preferences with Local KBD default and
+    process DAW CC values.
+* [New] MIDI clock signal is passed from REMOTE IN port (standalone app) to hardware.
 
-* [Fixed] Changing the Low and High Key on the hardware is shown in the Editor display
-    (one octave lower than on the hardware) but not reflected in the Multimode Mixer.
-* [Fixed] Multi data is not requested to UI when Sync Data from HW is clicked.
-* [Fixed] Multi Editor writes Part range information one octave too low with TI models.
-* [Fixed] Resolved issue where Editor would crash if Mac didn't have Metal in it.
-    Using OpenGL2 now for drawing elements instead of Metal.
-* [Fixed] DAW could crash if Editor interface was not opened before program changes.
-* [Fixed] Editor interface was reset to zero-stage if control changes were made before
-	opening the User Interface.
-* [Fixed] Section menu didn't appear for parts 2-16 even when arp was toggled on.
-* [Fixed] Program and Bank menus next to Editor control display did not work as expected.
-* [Fixed] Effect layers didn't update control visibility properly.
-* [Fixed] Parameter values were not updated in DAW when patch was changed.
-* [Fixed] DAW could crash on parameter changes from hardware with DEMO version.
-* [Fixed] Some parameters were shown in the advanced midi settings page.
-* [Fixed] Abort Process button didn't work as expected.
-* [Fixed] Multi overwrite didn't work as expected.
-* [Fixed] Missing preferences settings would cause crash.
-* [Fixed] Graphics didn't load properly on macOS and Windows
-    (zoom greater than 100% caused blurry render).
-
-* [Other] Notes from hardware are now bypassed by default in Advanced MIDI Settings.
-* [Other] Control Messages from DAW are now bypassed by default in Advanced MIDI Settings.
-* [Other] Section menu for User Arp Pattern is now disabled if pattern mode is wrong.
+20+ fixes and improvements overall!
 
 Read more about the changes from change log page BEFORE updating the Editor.
