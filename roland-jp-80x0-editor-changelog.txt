@@ -1,3 +1,36 @@
-Version 3.0.0 build 0001 / 2022-March-12
+Version    24.01.27                                                                2024-Jan-27
 
-[new] Completely re-written the code.
+[New] Native Apple Silicon support on all plug-in formats and standalone app.
+[New] Requires macOS 10.12 / Windows 7 or greater.
+[New] Standalone Application.
+[New] VST3 plug-in.
+[New] AAX plug-in.
+[New] Freely resizable graphics.
+[New] HD / UHD / 4K user interface.
+[New] Onscreen keyboard, pitch bender and modulation wheel.
+[New] Automatically connect to hardware upon MIDI port selection.
+[New] Tooltips. Assigned from Roland JP-8080 user manual per parameter.
+[New] Part / Panel focus. If onscreen keyboard is toggled on, all incoming MIDI data is
+    forced to active panel if DAW playback is NOT running.
+[New] Drag'n'drop from Patches from librarian to part. Arrow will change to hand tool on top
+    of set part name when drop can be performed.
+[New] Voice Modulator parameters are now included with the Editor.
+[New] If velocity or control assigns are active, red LED is lit next to the morphing buttons.
+[New] Incoming MIDI clock signal received by Remote Input port is now passed to hardware.
+[New] Experimental clock follows Editor and DAW tempo information.
+[New] Right Click menu for Lower and Upper panel select buttons. Initialize, Randomize,
+    Copy / Paste etc.
+[New] Section Menus with various functions like randomize, save / load section data.
+[New] Import Roland SH-201 librarian / sysex files to JP-80x0 Librarian.
+[New] Import Roland SH-01 GAIA SVD / sysex files to JP-80x0 Librarian.
+[New] MIDI Learn and ability to store / load MIDI mappings.
+[New] When data is sent or received, mouse pointer shows default OS waiting state.
+[New] Patch / Performance data transmission is much faster to hardware.
+[New] Save your settings as defaults.
+[New] Save / Load UI data to recall your favorite patches / performances without going through 
+    the librarian.
+
+[NOTE] This is not backwards compatible!
+
+[todo] User Manual. Refer to online manual (docs.auraplugins.com) until full release comes 
+    out.
