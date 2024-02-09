@@ -1,20 +1,13 @@
-<strong>Version 24.01.30 | 2024-Jan-30</strong>
+<strong>Version 24.02.09 | 2024-Feb-09</strong>
 
-[new] Global Settings panel has been expanded with some missing system parameters which caused the synth to go out of tune during data recall.
+[fixed] Resolved issue where Patch Velocity values were not sent properly to hardware.
+[fixed] Resolved issue where Global Data was not sent to hardware on Total Recall.
+[fixed] Resolved issue where librarian view would show wrong banks after Total Recall.
+[fixed] Resolved issue where SysEx controls would not work after patch change in some cases.
+[fixed] Resolved inaccurate control link issues.
+[fixed] Built-in MIDI clock is more accurate now and follow tempo change from DAW.
 
-[fixed] Resolved issue where JP-8000 patch or performance data was not processed in librarian when Save Data To Slot was clicked.
-[fixed] Resolved issue where some popup menus caused DAW to crash while playback was on.
-[fixed] Resolved issue where MIDI data was duplicated while layers shared the same MIDI channel.
-[fixed] Resolved issue where Performance or Patch sending got stuck.
-[fixed] Resolved issue where Panel MIDI channel setting didn't work as expected.
-[fixed] About this Editor layer content corrected!
-
-[other] LED's now blink even when DAW playback is on.
-[other] General settings lock is off by default.
-[other] DAW CC passthrough is enabled by default.
-[other] Hardware Program Changes are enabled by default.
-[other] Removed PDFs from the installers. Up-to-date manual will be available online.
-
-[improvement] Graphics exported again due to faulty color codes.
+[other] Improved Editor loading process.
+[other] Updated installer scripts on macOS.
 
 [todo] User Manual. Once Manual is done, it will be available via https://docs.auraplugins.com only!
