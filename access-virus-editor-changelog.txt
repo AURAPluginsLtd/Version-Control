@@ -1,18 +1,26 @@
-Version    24.01.26                                                                2024-Jan-26
+Version    24.02.17                                                                2024-Feb-17
 
-* [New] Added green LEDs to mini mixer view indicating if part is enabled or not.
-* [New] Category filters has been reworked so that both categories can be set for more
-    precise results.
-* [New] Part Enable switch. Each part has switch to enable or disable set channel.
-    This reduces the MIDI and SysEx data flow therefore improving performance.
-* [New] Drag'n'drop Patches from librarian to part. Arrow will change to hand tool on top of
-    set part name when drop can be performed.
-* [New] Part Select right click menu. User can now select various actions like request and
-    send data, initialize or randomize data and copy & paste data between parts.
-* [New] Utilities menu has a new section for MIDI Preferences with Local KBD default and
-    process DAW CC values.
-* [New] MIDI clock signal is passed from REMOTE IN port (standalone app) to hardware.
-
-20+ fixes and improvements overall!
+* [New] Filter Bank frequency and resonance values are reflected from hardware values.
+* [New] Added Defaults for Advanced MIDI Settings to Utilities menu.
+* [New] Added Defaults for AutoSave, Show Bubble, LEDs Off and Tooltips to Utilities menu.
+ 
+* [Fixed] Resolved issue where registration failed under certain circumstances.
+* [Fixed] Resolved issue where SysEx parameters were stuck after total recall / when program
+    was sent to hardware.
+* [Fixed] Resolved issue where Time parameter of Envelopes 3 and 4 was not saved.
+* [Fixed] Resolved issue where part selector returned to default value when right click was
+    performed immediately after left clicking part selector.
+* [Fixed] Resolved issue where Keyboard Local was not toggled on / off as per Utilities menu
+    default setting.
+* [Fixed] Built-in MIDI clock is more accurate and follows tempo change from DAW.
+ 
+* [Improvement] Send all notes off only when SysEx packages and/or program changes are sent to
+    hardware.
+* [Improvement] Removed Total Recall interrupted display. If sounds are not recalled properly,
+    open Patch Librarian TAB and click PUSH DATA TO HW.
+ 
+* [Other] Removed user manuals from package and change their menus address to URLs.
+* [Other] Improved Editor loading process.
+* [Other] Updated installer scripts on macOS.
 
 Read more about the changes from change log page BEFORE updating the Editor.

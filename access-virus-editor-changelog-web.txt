@@ -1,42 +1,19 @@
-<strong>Version 24.01.06 | 2024-Jan-26</strong>
+<strong>Version 24.02.17 | 2024-Feb-17</strong>
 
-[new] Added green LEDs to mini mixer view indicating if part is enabled or not.
-[new] Category filters has been reworked so that both categories can be set for more precise results.
-[new] Part Enable switch. Each part has switch to enable or disable set channel. This reduces the MIDI and SysEx data flow therefore improving performance.
-[new] Drag'n'drop Patches from librarian to part. Arrow will change to hand tool on top of set part name when drop can be performed.
-[new] Part Select right click menu. User can now select various actions like request and send data, initialize or randomize data and copy & paste data between parts.
-[new] Utilities menu has a new section for MIDI Preferences with Local KBD default and process DAW CC values.
-[new] MIDI clock signal is passed from REMOTE IN port (standalone app) to hardware.
-
-[fixed] Automation parameter list fixes and cleanup.
-[fixed] Resolved issue where saving Multis to HDD would not work.
-[fixed] Improved patch loading speed.
-[fixed] Improved editor initialization - Editor no longer gets stuck at 88%.
-[fixed] When category mode is set on and - / + sign is clicked, editor crashed.
-[fixed] Resolved issue where enabling section lock lead to locking the whole part.
-[fixed] Resolved issue where Loading UI DATA would sometimes mess up the user interface.
-[fixed] Virus A scheme for EQ section had color mismatch compared to other tabs.
-[fixed] Resolved issue where user could not disable hardware auto-connect.
-[fixed] Resolved issue with Patch Librarian current bank & program selection upon project recall.
-[fixed] Bank was saved under legacy format even when TI patches were present during bank Save As and Overwrite.
-[fixed] Parameter values are restored one value lower than saved. (VST3 issue)
-[fixed] Resolved issue where Filter options were not shown in Mod Matrix dropdown menu.
-[fixed] Resolved issue where Soft Knob assignments got stuck after preset change.
-[fixed] Resolved issue where Mod Wheel was not sent out to hardware when received via DAW port.
-[fixed] Resolved timeout issue when initializing Editor.
-[fixed] Main view URL now points to our website instead of ko-fi.com page.
-[fixed] Release All Locks button no longer flashes when requesting / transmitting data.
-[fixed] Resolved issue where MIDI LEDs triggered twice under certain circumstances.
-[fixed] Total Recall didn't work as expected if DAW playback was hit too early during recall process. Now data is recalled properly and warning is shown to user if the process is interrupted to push the data to hardware again.
-[fixed] Resolved issue where TI would get stuck during initialization.
-[fixed] Resolved issue where wrong part data was modified under certain circumstances.
-[fixed] Resolved issue where chorus mode change wasn't set properly.
-[fixed] Resolved issue where editor could crash during loading.
-
-[improvement] DeviceID probing works faster.
-[improvement] Patch file logging was off. Now works much faster.
-[improvement] Part focus works as expected now.
-[improvement] Made changes to how incoming data is processed, therefore gaining more performance.
-[improvement] When data is sent or received, mouse pointer shows default OS waiting state.
-
-[other] Version numbering changed to simplified yy-mm-dd format.
+[new] Filter Bank frequency and resonance values are reflected from hardware values.
+[new] Added Defaults for Advanced MIDI Settings to Utilities menu.
+[new] Added Defaults for AutoSave, Show Bubble, LEDs Off and Tooltips to Utilities menu.
+ 
+[fixed] Resolved issue where registration failed under certain circumstances.
+[fixed] Resolved issue where SysEx parameters were stuck after total recall / when program was sent to hardware.
+[fixed] Resolved issue where Time parameter of Envelopes 3 and 4 was not saved.
+[fixed] Resolved issue where part selector returned to default value when right click was performed immediately after left clicking part selector.
+[fixed] Resolved issue where Keyboard Local was not toggled on / off as per Utilities menu default setting.
+[fixed] Built-in MIDI clock is more accurate and follows tempo change from DAW.
+ 
+[improvement] Send all notes off only when SysEx packages and/or program changes are sent to hardware.
+[improvement] Removed Total Recall interrupted display. If sounds are not recalled properly, open Patch Librarian TAB and click PUSH DATA TO HW.
+ 
+[other] Removed user manuals from package and change their menus address to URLs.
+[other] Improved Editor loading process.
+[other] Updated installer scripts on macOS.
