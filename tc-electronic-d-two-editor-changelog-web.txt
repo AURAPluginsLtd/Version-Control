@@ -1,0 +1,6 @@
+<strong>Version 24.02.19 | 2024-Feb-19</strong>
+
+[new] Preorder Release
+
+[other] TODO: Tooltips.
+[other] TODO: User Manual (online).
