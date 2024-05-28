@@ -1,19 +1,68 @@
-<strong>Version 24.02.17 | 2024-Feb-17</strong>
+<strong>Version 24.05.28 | 2024-May-28</strong>
 
-[new] Filter Bank frequency and resonance values are reflected from hardware values.
-[new] Added Defaults for Advanced MIDI Settings to Utilities menu.
-[new] Added Defaults for AutoSave, Show Bubble, LEDs Off and Tooltips to Utilities menu.
+[new] macOS GPU now uses Metal framework. Mac minimum requirements: https://support.apple.com/en-us/102894
+[new] Arpeggiator tab redesigned with User Pattern XY-controls.
+[new] Last loaded value is shown in bubble control and editor value display with [*value] marker.
+[new] Double click to reset parameter with last loaded value or default value. Option can be toggled from Utilities menu -> User Interface.
+[new] Section Menu and Part Edit menu now has items to revert section or part to last loaded values.
+[new] Control Display shows time remaining when data is requested or sent.
+[new] If user has specified default Model and/or Skin, a dialog will appear upon Model / Skin selection asking to update preferences file or not.
+[new] Soft Knob name and function menus are now grouped just like mod matrix menus.
+[new] Reworked User Manual and pointed URLs to main store pages.
+[new] Added option in Utilities menu to bypass DAW MIDI CC processing and pass it directly to MIDI output port.
+[new] Added XY pad controls for Arpeggiator Pattern Editor.
+[new] Randomizer buttons for Arpeggiator Pattern Step, Velocity and Length.
+[new] Arpeggiator Pattern nudge left & right buttons.
+[new] Copy Arpeggiator Patterns to User Pattern Editor (Virus TI).
+[new] Added Easy / Advanced Views to Patch Librarian with Quick Edit controls.
+[new] If Editor detects Virus single mode messages, Editor will disable multi functions and displays button to enable multitimbral mode.
+[new] Librarian category filters are now set individually per part.
+[new] Librarian search is now set individually per part.
+[new] Randomizer can be set to exclude Type/Mode menus.
+[new] Added Part Note Velocity detection & meters.
+
+[fixed] Resolved issue where speedclicking the UI would crash the editor
+[fixed] Resolved issue where bubble control value was not lined up with control display value.
+[fixed] Resolved issue where Editor would crash on DAW sample rate change.
+[fixed] Resolved issue where Virus TI was stuck when MODE was changed from hardware.
+[fixed] Resolved issue where Bank and Program selection menus didn't work as expected.
+[fixed] Resolved issue where Soft Knobs didn't follow master Control changes.
+[fixed] Resolved issue where Virus TI users were unable to set default MULTI / SEQ MODE.
+[fixed] Resolved issue where data was not properly handled when requesting Arrangement to user interface.
+[fixed] Resolved issue where Abort Process button didn't work after clicking it once during session.
+[fixed] Resolved issue where automation didn't work as expected after data request from hardware.
+[fixed] Program + / - buttons work as expected.
+[fixed] Program and Bank menus and displays update accordingly even when requests are disabled.
+[fixed] Added missing Global ARP switch for Legacy models in Global & Multi Settings -> MIDI tab.
+[fixed] (Windows) Resolved issue where Tooltips were not showing correct data.
+[fixed] Vocoder and Envelope Follower HUD is now working as expected.
+[fixed] Arpeggiator Pattern can be randomized even if 3 out of 4 section locks are toggled on.
+[fixed] Some layers were shown in wrong views.
+[fixed] Quick Mixer view didn't update part patch name properly in some cases.
+[fixed] Section Randomizer action didn't respect Randomizer settings from Utilities menu.
+[fixed] Librarian bank and patch number selections follow part change properly.
+[fixed] Part / Program changes would crash the Editor.
+
+[improvement] Added a bit more delay to randomizer so that it won't flood the hardware buffer.
+[improvement] Re-opening Plug-in takes less time now.
+[improvement] Requesting Data from hardware works much faster.
+[improvement] Sending Data to hardware works much faster.
+[improvement] Section Locks data send back works much faster now.
+[improvement] Bank menus updated for Virus TI Snow users. Renamed to RAM 1-2, 3-4 etc.
+[improvement] Added RAM / ROM separator to Bank selection menus for easier readout.
+[improvement] Added more safety checks to prevent crashes.
+[improvement] Parameter processing rewritten. Near zero CPU load when tweaking parameters!
+[improvement] If Vocoder is on, Filter controls are disabled.
+[improvement] If Envelope Follower is on, Filter Envelope controls are disabled.
+[improvement] Completely rewrote SysEx parameters. Now taking less CPU to process.
+[improvement] Completely rewrote Randomizer function.
+[improvement] Patch up and down buttons respond faster.
+[improvement] Control Display shows control values when mouse is over a parameter. Disable or Enable from Utilities -> User Interface menu.
  
-[fixed] Resolved issue where registration failed under certain circumstances.
-[fixed] Resolved issue where SysEx parameters were stuck after total recall / when program was sent to hardware.
-[fixed] Resolved issue where Time parameter of Envelopes 3 and 4 was not saved.
-[fixed] Resolved issue where part selector returned to default value when right click was performed immediately after left clicking part selector.
-[fixed] Resolved issue where Keyboard Local was not toggled on / off as per Utilities menu default setting.
-[fixed] Built-in MIDI clock is more accurate and follows tempo change from DAW.
- 
-[improvement] Send all notes off only when SysEx packages and/or program changes are sent to hardware.
-[improvement] Removed Total Recall interrupted display. If sounds are not recalled properly, open Patch Librarian TAB and click PUSH DATA TO HW.
- 
-[other] Removed user manuals from package and change their menus address to URLs.
-[other] Improved Editor loading process.
-[other] Updated installer scripts on macOS.
+[other] Removed unused entities from Bank Edit and Utilities menus.
+[other] Fixed Some Bank Edit and Utilities menu naming schemes.
+[other] Editor log file renamed to Access Virus Editor.log
+[other] SysEx data sending now follows Access' spec. This means data transfers might take a bit longer, but this ensures data is processed properly in hardware.
+[other] Librarian view is no longer reset when request is cancelled.
+[other] Request Interval items in Utilities menu affects to Virus TI requests only.
+[other] Removed spinning ball and windows cursor mods when data is processing.
