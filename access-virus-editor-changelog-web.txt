@@ -1,68 +1,51 @@
-<strong>Version 24.05.28 | 2024-May-28</strong>
+<strong>Version 24.10.15 | 2024-Oct-15</strong>
 
-[new] macOS GPU now uses Metal framework. Mac minimum requirements: https://support.apple.com/en-us/102894
-[new] Arpeggiator tab redesigned with User Pattern XY-controls.
-[new] Last loaded value is shown in bubble control and editor value display with [*value] marker.
-[new] Double click to reset parameter with last loaded value or default value. Option can be toggled from Utilities menu -> User Interface.
-[new] Section Menu and Part Edit menu now has items to revert section or part to last loaded values.
-[new] Control Display shows time remaining when data is requested or sent.
-[new] If user has specified default Model and/or Skin, a dialog will appear upon Model / Skin selection asking to update preferences file or not.
-[new] Soft Knob name and function menus are now grouped just like mod matrix menus.
-[new] Reworked User Manual and pointed URLs to main store pages.
-[new] Added option in Utilities menu to bypass DAW MIDI CC processing and pass it directly to MIDI output port.
-[new] Added XY pad controls for Arpeggiator Pattern Editor.
-[new] Randomizer buttons for Arpeggiator Pattern Step, Velocity and Length.
-[new] Arpeggiator Pattern nudge left & right buttons.
-[new] Copy Arpeggiator Patterns to User Pattern Editor (Virus TI).
-[new] Added Easy / Advanced Views to Patch Librarian with Quick Edit controls.
-[new] If Editor detects Virus single mode messages, Editor will disable multi functions and displays button to enable multitimbral mode.
-[new] Librarian category filters are now set individually per part.
-[new] Librarian search is now set individually per part.
-[new] Randomizer can be set to exclude Type/Mode menus.
-[new] Added Part Note Velocity detection & meters.
+[new] If host Tempo is above 190BPM, then hardware tempo value is divided by two. This allows tempo sync for projects with higher than 190BPM.
+[new] various keyboard shortcuts added [quick mixer area (Q), main edit tab (M) and patch librarian (L)]:
+ - ctrl/cmd + c = copy part (Q, L)
+ - ctrl/cmd + v = paste data (Q, L)
+ - ctrl/cmd + i = initialize part (Q, L)
+ - ctrl/cmd + r = randomize part (Q)
+ - ctrl/cmd + g = get part from hardware (Q)
+ - ctrl/cmd + p = push part to hardware (Q)
+ - ctrl/cmd + l = lock part (Q)
+ - ctrl/cmd + r = rename librarian slot (L)
+ - arrow left = previous edit tab (M)
+ - arrow right = next edit tab (M)
+ - arrow up = previous part (Q)
+ - arrow down = next part (Q)
+[new] Quick Edit View accessible via Multimode Mixer as well.
+[new] When Osc 1 Shape/Osc 2 Shape value is modified, Wave Select and Pulse Width are grayed out based on Shape value.
+[new] When Sub Osc Level is at 0, Sub Waveform is grayed out.
+[new] When Osc 3 Level is at 0, Osc 3 controls are grayed out.
+[new] When Noise Level is at 0, Noise Color is grayed out.
 
-[fixed] Resolved issue where speedclicking the UI would crash the editor
-[fixed] Resolved issue where bubble control value was not lined up with control display value.
-[fixed] Resolved issue where Editor would crash on DAW sample rate change.
-[fixed] Resolved issue where Virus TI was stuck when MODE was changed from hardware.
-[fixed] Resolved issue where Bank and Program selection menus didn't work as expected.
-[fixed] Resolved issue where Soft Knobs didn't follow master Control changes.
-[fixed] Resolved issue where Virus TI users were unable to set default MULTI / SEQ MODE.
-[fixed] Resolved issue where data was not properly handled when requesting Arrangement to user interface.
-[fixed] Resolved issue where Abort Process button didn't work after clicking it once during session.
-[fixed] Resolved issue where automation didn't work as expected after data request from hardware.
-[fixed] Program + / - buttons work as expected.
-[fixed] Program and Bank menus and displays update accordingly even when requests are disabled.
-[fixed] Added missing Global ARP switch for Legacy models in Global & Multi Settings -> MIDI tab.
-[fixed] (Windows) Resolved issue where Tooltips were not showing correct data.
-[fixed] Vocoder and Envelope Follower HUD is now working as expected.
-[fixed] Arpeggiator Pattern can be randomized even if 3 out of 4 section locks are toggled on.
-[fixed] Some layers were shown in wrong views.
-[fixed] Quick Mixer view didn't update part patch name properly in some cases.
-[fixed] Section Randomizer action didn't respect Randomizer settings from Utilities menu.
-[fixed] Librarian bank and patch number selections follow part change properly.
-[fixed] Part / Program changes would crash the Editor.
+[fixed] Refresh folders now works as expected.
+[fixed] X & Y Pad menu triggers swapped in quick edit view.
+[fixed] Mod Wheel automation works as expected.
+[fixed] Skin changes work as expected even when defaults are written.
+[fixed] Model changes work as expected even when defaults are written.
+[fixed] Search results and Category limit list content was reset after selecting preset from the list.
+[fixed] Tape Delay Feedback values now showing proper value (0%-200%).
+[fixed] FM Mode now works as expected.
+[fixed] Global Data is now recalled properly.
+[fixed] Incoming SysEx data handling works faster now.
+[fixed] Part Lock toggles work as expected.
+[fixed] Global Soft Knobs work as expected.
+[fixed] Input Mode and Input Selection lists were misplaced in fx #1 tab.
+[fixed] Editor would crash if part that was disabled got selected via the hardware.
+[fixed] Editor would crash if part was locked and set part would receive CC / SysEx data to it.
+[fixed] Filter Section Lock now locks Vocoder and vice versa. These parameters are tied together, therefore locking both makes sense.
+[fixed] Knob Display is disabled for legacy Virus users. Value is shown after globals has been received.
+[fixed] Part LEDs would not blink if playback was on.
 
-[improvement] Added a bit more delay to randomizer so that it won't flood the hardware buffer.
-[improvement] Re-opening Plug-in takes less time now.
-[improvement] Requesting Data from hardware works much faster.
-[improvement] Sending Data to hardware works much faster.
-[improvement] Section Locks data send back works much faster now.
-[improvement] Bank menus updated for Virus TI Snow users. Renamed to RAM 1-2, 3-4 etc.
-[improvement] Added RAM / ROM separator to Bank selection menus for easier readout.
-[improvement] Added more safety checks to prevent crashes.
-[improvement] Parameter processing rewritten. Near zero CPU load when tweaking parameters!
-[improvement] If Vocoder is on, Filter controls are disabled.
-[improvement] If Envelope Follower is on, Filter Envelope controls are disabled.
-[improvement] Completely rewrote SysEx parameters. Now taking less CPU to process.
-[improvement] Completely rewrote Randomizer function.
-[improvement] Patch up and down buttons respond faster.
-[improvement] Control Display shows control values when mouse is over a parameter. Disable or Enable from Utilities -> User Interface menu.
- 
-[other] Removed unused entities from Bank Edit and Utilities menus.
-[other] Fixed Some Bank Edit and Utilities menu naming schemes.
-[other] Editor log file renamed to Access Virus Editor.log
-[other] SysEx data sending now follows Access' spec. This means data transfers might take a bit longer, but this ensures data is processed properly in hardware.
-[other] Librarian view is no longer reset when request is cancelled.
-[other] Request Interval items in Utilities menu affects to Virus TI requests only.
-[other] Removed spinning ball and windows cursor mods when data is processing.
+[improvement] Utilities menu now has option to show warning in Editor display if incoming MIDI is not processed due to Advanced MIDI Settings options.
+[improvement] When the editor was loaded, master volume was maxed out. Utilities menu now has option to bypass master volume changes during editor load.
+[improvement] Multimode Settings Tempo knob now displays BPM when tempo is adjusted.
+[improvement] MIDI CC is no longer processed if value hasn't changed since last send.
+
+[other] If Application user adds Remote MIDI Input port without MIDI I/O set in preferences, popup will be shown to use prefs for hardware connection.
+[other] User has option to ”Set HW to SINGLE MODE on exit” if chosen so via Utilities menu.
+[other] When DAW playback was on, Editor LEDs didn't react to incoming control changes.
+[other] When Virus TI is selected as current model, parts 5-16 are no longer disabled.
+[other] Alan Marcero's Virus TI Soundset removed from the package. You can download it from his website.

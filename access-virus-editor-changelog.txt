@@ -1,8 +1,8 @@
-Version    24.05.28                                                                2024-May-28
+Version    24.10.15                                                                2024-Oct-15
 
-* 20 NEW features including quick edit with x/y pad, arp pattern editor rework etc.
-* 21+ FIXES for issues found and reported to our Discord community.
-* 15+ IMPROVEMENTS for various functions.
+* 7 NEW features including copy / paste, keyboard shortcuts and many more.
+* 18+ FIXES for issues found and reported to our Discord community.
+* 4+ IMPROVEMENTS for various functions.
 
 Special shoutout to our Discord community members for participating and suggesting new
 features and improvements to our Editor.
