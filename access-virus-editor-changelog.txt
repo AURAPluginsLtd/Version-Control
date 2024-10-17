@@ -1,4 +1,4 @@
-Version    24.10.15                                                                2024-Oct-15
+Version    24.10.15                                                               2024-Oct-15
 
 * 7 NEW features including copy / paste, keyboard shortcuts and many more.
 * 18+ FIXES for issues found and reported to our Discord community.
