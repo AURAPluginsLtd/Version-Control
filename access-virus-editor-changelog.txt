@@ -1,4 +1,12 @@
-Version    24.10.15                                                               2024-Oct-15
+Version    24.10.18                                                               2024-Oct-18
+
+Oct-18 hotfix:
+
+[Fixed] Channel and Poly Aftertouch values were not passed through the Editor.
+[Fixed] Update Available button didn't react to mouse clicks.
+[Fixed] Request Interval setting in Utilities menu was ignored during initialization.
+
+Oct-15 release:
 
 * 7 NEW features including copy / paste, keyboard shortcuts and many more.
 * 18+ FIXES for issues found and reported to our Discord community.
