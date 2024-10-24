@@ -1,13 +1,69 @@
-<strong>Version 24.02.09 | 2024-Feb-09</strong>
+<strong>Version 24.10.22 | 2024-Oct-22</strong>
 
-[fixed] Resolved issue where Patch Velocity values were not sent properly to hardware.
-[fixed] Resolved issue where Global Data was not sent to hardware on Total Recall.
-[fixed] Resolved issue where librarian view would show wrong banks after Total Recall.
-[fixed] Resolved issue where SysEx controls would not work after patch change in some cases.
-[fixed] Resolved inaccurate control link issues.
-[fixed] Built-in MIDI clock is more accurate now and follow tempo change from DAW.
+[new] Last loaded value is shown in bubble control and editor value display with [*value] marker.
+[new] Double click to reset parameter with last loaded value or default value. Option can be toggled from Utilities menu -> User Interface.
+[new] Section Menu and Layer Edit menu now has items to revert section or layer to last loaded values.
+[new] Smart Media Patches and Performances now available for JP-8080 users via the Editor.
+[new] Added Adv MIDI Settings override function to Utilities MIDI Preferences menu.
+[new] Added AutoSave, Show Bubble, LEDs Off and Tooltips override function to Utilities MIDI Preferences menu.
+[new] Reworked User Manual and pointed URLs to main store pages.
+[new] Finished Voice Modulator layer.
+[new] macOS GPU now uses Metal framework. Mac minimum requirements: https://support.apple.com/en-us/102894
+[new] Control Display shows time remaining when data is requested or sent.
+[new] Added option in Utilities menu to bypass DAW MIDI CC processing and pass it directly to MIDI output port.
+[new] Easy / Advanced Views to Patch Librarian with Quick Edit controls.
+[new] Librarian search is now set individually per layer.
+[new] Librarian search works with Performances as well.
+[new] Randomizer can be set to exclude Type/Mode menus.
+[new] various keyboard shortcuts added [panel select area (Q) and patch librarian (L)]:
+ - ctrl/cmd + c = copy part (Q, L)
+ - ctrl/cmd + v = paste data (Q, L)
+ - ctrl/cmd + i = initialize part (Q, L)
+ - ctrl/cmd + r = randomize part (Q)
+ - ctrl/cmd + g = get part from hardware (Q)
+ - ctrl/cmd + p = push part to hardware (Q)
+ - ctrl/cmd + l = lock part (Q)
+ - ctrl/cmd + r = rename librarian slot (L)
 
-[other] Improved Editor loading process.
-[other] Updated installer scripts on macOS.
+[fixed] Resolved issue where bubble control value was not lined up with control display value.
+[fixed] Resolved issue where Editor would crash on DAW sample rate change.
+[fixed] Resolved issue where Bank and Program selection menus didn't work as expected.
+[fixed] Resolved issue where data was not properly handled when requesting Arrangement to user interface.
+[fixed] Resolved issue where automation didn't work as expected after data request from hardware.
+[fixed] (Windows) Resolved issue where Tooltips were not showing correct data.
+[fixed] Mod Wheel automation works as expected.
+[fixed] Model changes work as expected even when defaults are written.
+[fixed] Search results content was reset after selecting preset from the list.
+[fixed] Some layers were shown in wrong views.
+[fixed] Section Randomizer action didn't respect Randomizer settings from Utilities menu.
+[fixed] Librarian bank and patch number selections follow part change properly.
+[fixed] Part / Program changes would crash the Editor.
+[fixed] AutoSave, Show Bubble, LEDs Off and Tooltips override works as expected.
+[fixed] Solo Mode menu works as expected.
+[fixed] Env Type in Solo menu in General Settings view now responds to Layer changes.
+[fixed] Using Split Point menu no longer crashes the Editor.
+[fixed] Resolved issues with some layers parameter access.
+[fixed] Oscillator 2 External Waveform for JP-8080 works as expected.
+[fixed] Resolved issue where Abort Process button didn't work after clicking it once during session.
+[fixed] Layer right click menu now sends layer to hardware as expected.
+[fixed] Program and Bank menus and displays update accordingly even when requests are disabled.
+[fixed] Resolved issue where Requests didn't work as expected with both models.
+[fixed] Librarian left and right arrow keys work as expected.
 
-[todo] User Manual. Once Manual is done, it will be available via https://docs.auraplugins.com only!
+[improvement] Re-opening Plug-in takes less time now.
+[improvement] Requesting Data from hardware works much faster.
+[improvement] Sending Data to hardware works much faster.
+[improvement] Section Locks data send back works much faster now.
+[improvement] Added more safety checks to prevent crashes.
+[improvement] Parameter processing rewritten. Near zero CPU load when tweaking parameters!
+[improvement] Completely rewrote SysEx parameters. Now taking less CPU to process.
+[improvement] Completely rewrote Randomizer function.
+[improvement] Patch up and down buttons respond faster.
+[improvement] Control Display shows control values when mouse is over a parameter. Disable or Enable from Utilities -> User Interface menu.
+
+[other] Removed unused entities from Bank Edit and Utilities menus.
+[other] Fixed Bank Edit and Utilities menu naming schemes.
+[other] Editor log file renamed to Roland JP-80x0 Editor.log
+[other] SysEx data sending now follows Roland spec. This means data transfers might take a bit longer, but this ensures data is processed properly in hardware.
+[other] Librarian view is no longer reset when request is cancelled.
+[other] Removed spinning ball and windows cursor mods when data is processing.

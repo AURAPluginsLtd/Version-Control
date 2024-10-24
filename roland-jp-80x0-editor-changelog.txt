@@ -1,13 +1,10 @@
-Version    24.02.09                                                                2024-Feb-09
+Version    24.10.22                                                               2024-Oct-22
 
-[Fixed] Resolved issue where Patch Velocity values were not sent properly to hardware.
-[Fixed] Resolved issue where Global Data was not sent to hardware on Total Recall.
-[Fixed] Resolved issue where librarian view would show wrong banks after Total Recall.
-[Fixed] Resolved issue where SysEx controls would not work after patch change in some cases.
-[Fixed] Resolved inaccurate control link issues.
-[Fixed] Built-in MIDI clock is more accurate now and follow tempo change from DAW.
+* 16 new features including Voice Mod edit, copy / paste data, keycommands and much more.
+* 24 Fixes to issues reported and found in-house.
+* 16+ Improvements and other changes to make the Editor better.
 
-[Other] Improved Editor loading process.
-[Other] Updated installer scripts on macOS.
+Special shoutout to our Discord community members for participating and suggesting new
+features and improvements to our Editor.
 
-[todo] User Manual. Once Manual is done, it will be available via https://docs.auraplugins.com
+Read more about the changes from change log page BEFORE updating the Editor.
