@@ -1,4 +1,4 @@
-<strong>Version 24.10.22 | 2024-Oct-22</strong>
+<strong>Version 24.10.23 | 2024-Oct-23</strong>
 
 [new] Last loaded value is shown in bubble control and editor value display with [*value] marker.
 [new] Double click to reset parameter with last loaded value or default value. Option can be toggled from Utilities menu -> User Interface.
