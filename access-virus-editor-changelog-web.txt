@@ -1,4 +1,8 @@
-<strong>Version 24.10.18 | 2024-Oct-18 Hot Fix</strong>
+<strong>Version 24.10.22 |2024-Oct-22 Hot Fix</strong>
+
+[fixed] AAX failed to load.
+
+<strong>Version 24.10.18 |2024-Oct-18 Hot Fix</strong>
 
 [fixed] Channel and Poly Aftertouch values were not passed through the Editor.
 [fixed] Update Available button didn't react to mouse clicks.

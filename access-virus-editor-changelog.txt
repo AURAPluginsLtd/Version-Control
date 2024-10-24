@@ -1,4 +1,8 @@
-Version    24.10.18                                                               2024-Oct-18
+Version    24.10.22                                                               2024-Oct-22
+
+Oct-22 hotfix:
+
+[Fixed] AAX failed to load.
 
 Oct-18 hotfix:
 
