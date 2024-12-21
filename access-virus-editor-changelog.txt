@@ -1,22 +1,17 @@
-Version    24.10.22                                                               2024-Oct-22
+Version    24.12.21                                                               2024-Dec-21
 
-Oct-22 hotfix:
+[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
+[fixed] Resolved issue where Logic failed to validate Audio Unit.
+[fixed] Some parameters didn't show proper values in control display.
+[fixed] Fixed issue where regular knob automation was stepped.
+[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
+[fixed] Fixed issue where Editor could not remember last window view after reopening it.
+[fixed] Fixed issue where bubble control would not work unless defaulted was on.
+[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+[fixed] Fixed issues with graphical glitches.
+ - If interface scaling is set to auto, then editor remembers your window size per session.
+ - Any other interface scaling value is recalled when editor is opened.
 
-[Fixed] AAX failed to load.
-
-Oct-18 hotfix:
-
-[Fixed] Channel and Poly Aftertouch values were not passed through the Editor.
-[Fixed] Update Available button didn't react to mouse clicks.
-[Fixed] Request Interval setting in Utilities menu was ignored during initialization.
-
-Oct-15 release:
-
-* 7 NEW features including copy / paste, keyboard shortcuts and many more.
-* 18+ FIXES for issues found and reported to our Discord community.
-* 4+ IMPROVEMENTS for various functions.
-
-Special shoutout to our Discord community members for participating and suggesting new
-features and improvements to our Editor.
-
-Read more about the changes from change log page BEFORE updating the Editor.
+[other] Removed total recall interrupted notification as it didn't work out as expected.
+[other] Dropdown menus how show proper location on User Interface.
+[other] Some random graphics stuff here and there.

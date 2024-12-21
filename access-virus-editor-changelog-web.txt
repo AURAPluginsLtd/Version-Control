@@ -1,61 +1,17 @@
-<strong>Version 24.10.22 |2024-Oct-22 Hot Fix</strong>
+<strong>Version 24.12.21</strong>
 
-[fixed] AAX failed to load.
+[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
+[fixed] Resolved issue where Logic failed to validate Audio Unit.
+[fixed] Some parameters didn't show proper values in control display.
+[fixed] Fixed issue where regular knob automation was stepped.
+[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
+[fixed] Fixed issue where Editor could not remember last window view after reopening it.
+[fixed] Fixed issue where bubble control would not work unless defaulted was on.
+[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+[fixed] Fixed issues with graphical glitches.
+ - If interface scaling is set to auto, then editor remembers your window size per session.
+ - Any other interface scaling value is recalled when editor is opened.
 
-<strong>Version 24.10.18 |2024-Oct-18 Hot Fix</strong>
-
-[fixed] Channel and Poly Aftertouch values were not passed through the Editor.
-[fixed] Update Available button didn't react to mouse clicks.
-[fixed] Request Interval setting in Utilities menu was ignored during initialization.
-
-<strong>Version 24.10.15 | 2024-Oct-15</strong>
-
-[new] If host Tempo is above 190BPM, then hardware tempo value is divided by two. This allows tempo sync for projects with higher than 190BPM.
-[new] various keyboard shortcuts added [quick mixer area (Q), main edit tab (M) and patch librarian (L)]:
- - ctrl/cmd + c = copy part (Q, L)
- - ctrl/cmd + v = paste data (Q, L)
- - ctrl/cmd + i = initialize part (Q, L)
- - ctrl/cmd + r = randomize part (Q)
- - ctrl/cmd + g = get part from hardware (Q)
- - ctrl/cmd + p = push part to hardware (Q)
- - ctrl/cmd + l = lock part (Q)
- - ctrl/cmd + r = rename librarian slot (L)
- - arrow left = previous edit tab (M)
- - arrow right = next edit tab (M)
- - arrow up = previous part (Q)
- - arrow down = next part (Q)
-[new] Quick Edit View accessible via Multimode Mixer as well.
-[new] When Osc 1 Shape/Osc 2 Shape value is modified, Wave Select and Pulse Width are grayed out based on Shape value.
-[new] When Sub Osc Level is at 0, Sub Waveform is grayed out.
-[new] When Osc 3 Level is at 0, Osc 3 controls are grayed out.
-[new] When Noise Level is at 0, Noise Color is grayed out.
-
-[fixed] Refresh folders now works as expected.
-[fixed] X & Y Pad menu triggers swapped in quick edit view.
-[fixed] Mod Wheel automation works as expected.
-[fixed] Skin changes work as expected even when defaults are written.
-[fixed] Model changes work as expected even when defaults are written.
-[fixed] Search results and Category limit list content was reset after selecting preset from the list.
-[fixed] Tape Delay Feedback values now showing proper value (0%-200%).
-[fixed] FM Mode now works as expected.
-[fixed] Global Data is now recalled properly.
-[fixed] Incoming SysEx data handling works faster now.
-[fixed] Part Lock toggles work as expected.
-[fixed] Global Soft Knobs work as expected.
-[fixed] Input Mode and Input Selection lists were misplaced in fx #1 tab.
-[fixed] Editor would crash if part that was disabled got selected via the hardware.
-[fixed] Editor would crash if part was locked and set part would receive CC / SysEx data to it.
-[fixed] Filter Section Lock now locks Vocoder and vice versa. These parameters are tied together, therefore locking both makes sense.
-[fixed] Knob Display is disabled for legacy Virus users. Value is shown after globals has been received.
-[fixed] Part LEDs would not blink if playback was on.
-
-[improvement] Utilities menu now has option to show warning in Editor display if incoming MIDI is not processed due to Advanced MIDI Settings options.
-[improvement] When the editor was loaded, master volume was maxed out. Utilities menu now has option to bypass master volume changes during editor load.
-[improvement] Multimode Settings Tempo knob now displays BPM when tempo is adjusted.
-[improvement] MIDI CC is no longer processed if value hasn't changed since last send.
-
-[other] If Application user adds Remote MIDI Input port without MIDI I/O set in preferences, popup will be shown to use prefs for hardware connection.
-[other] User has option to ”Set HW to SINGLE MODE on exit” if chosen so via Utilities menu.
-[other] When DAW playback was on, Editor LEDs didn't react to incoming control changes.
-[other] When Virus TI is selected as current model, parts 5-16 are no longer disabled.
-[other] Alan Marcero's Virus TI Soundset removed from the package. You can download it from his website.
+[other] Removed total recall interrupted notification as it didn't work out as expected.
+[other] Dropdown menus how show proper location on User Interface.
+[other] Some random graphics stuff here and there.
