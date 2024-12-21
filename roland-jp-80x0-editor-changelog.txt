@@ -1,10 +1,20 @@
-Version    24.10.23                                                               2024-Oct-23
+Version    24.12.21                                                               2024-Dec-21
 
-* 16 new features including Voice Mod edit, copy / paste data, keycommands and much more.
-* 24 Fixes to issues reported and found in-house.
-* 16+ Improvements and other changes to make the Editor better.
+[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
+[fixed] Resolved issue where Logic failed to validate Audio Unit.
+[fixed] Some parameters didn't show proper values in control display.
+[fixed] Patch Init was not initialized properly.
+[fixed] Fixed issue where regular knob automation was stepped.
+[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
+[fixed] Fixed issue where DAW would crash when hiding / showing Editor UI.
+[fixed] Fixed issue where Utilities Menu Load 4K/8K Graphics was stuck on.
+[fixed] Fixed issue where Editor could not remember last window view after reopening it.
+[fixed] Fixed issue where bubble control would not work unless defaulted was on.
+[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+[fixed] Fixed issues with graphical glitches.
+ - If interface scaling is set to auto, then editor remembers your window size per session.
+ - Any other interface scaling value is recalled when editor is opened.
 
-Special shoutout to our Discord community members for participating and suggesting new
-features and improvements to our Editor.
-
-Read more about the changes from change log page BEFORE updating the Editor.
+[other] Removed total recall interrupted notification as it didn't work out as expected.
+[other] Dropdown menus how show proper location on User Interface.
+[other] Some random graphics stuff fixed here and there.
