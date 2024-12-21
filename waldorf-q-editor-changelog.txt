@@ -1,4 +1,4 @@
-<strong>Version 24.12.21 | 2024-Dec-21</strong>
+Version    24.12.21                                                               2024-Dec-21
 
 [fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
 [fixed] Randomizer works as expected.
@@ -11,7 +11,7 @@
 [other] Dropdown menus how show proper location on User Interface.
 [other] Some random graphics stuff here and there.
 
-<strong>Version 24.12.03</strong>
+Version 24.12.03
 
 [fixed] Fixed issue where regular knob automation was stepped.
 [fixed] Fixed issue where LEDs would be stuck until playback was stopped.
@@ -20,7 +20,7 @@
  - If interface scaling is set to auto, then editor remembers your window size per session.
  - Any other interface scaling value is recalled when editor is opened.
 
-<strong>Version 24.12.02</strong>
+Version 24.12.02
 
 [new] all new plugin and standalone app for pre-release testing.
 note that some functions might not work as expected.
