@@ -1,28 +1,15 @@
-Version    24.12.21                                                               2024-Dec-21
+Version    25.01.09                                                               2025-Jan-09
 
-[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
-[fixed] Randomizer works as expected.
-[fixed] Resolved issue where Logic failed to validate Audio Unit.
-[fixed] Some parameters didn't show proper values in control display.
-[fixed] Fixed issue where bubble control would not work unless defaulted was on.
-[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+[new] Arpeggiator Nudge buttons work as expected.
+[new] Sequencer Nudge buttons work as expected.
+[new] If filters are set to bypass, all controls are disabled.
+[new] Oscillator, Filter and LFO can be set by clicking the "value" text in UI.
+[new] When effect mode is changed, effect parameters are sent to hardware.
 
-[other] Oscillator Pulse Width levels now default to 127.
-[other] Dropdown menus how show proper location on User Interface.
-[other] Some random graphics stuff here and there.
+[fixed] Resolved issue where Librarian Data menu came visible after search was closed.
+[fixed] Resolved issue where Controls didn't send out values in some cases.
 
-Version 24.12.03
-
-[fixed] Fixed issue where regular knob automation was stepped.
-[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
-[fixed] Fixed issue where Editor could not remember last window view after reopening it.
-[fixed] Fixed issues with graphical glitches.
- - If interface scaling is set to auto, then editor remembers your window size per session.
- - Any other interface scaling value is recalled when editor is opened.
-
-Version 24.12.02
-
-[new] all new plugin and standalone app for pre-release testing.
-note that some functions might not work as expected.
+[other] Improved librarian requests.
+[other] Improved parameter drawing when controls are adjusted.
 
 please report your findings in our discord server so we can work them through!
