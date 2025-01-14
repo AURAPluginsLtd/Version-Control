@@ -1,6 +1,25 @@
-<strong>Version 24.02.19 | 2024-Feb-19</strong>
+<strong>Version 25.01.14 | 2025-Jan-14</strong>
 
-[new] Preorder Release
+[fixed] Several fixes here and there.
 
-[other] TODO: Tooltips.
-[other] TODO: User Manual (online).
+<strong>Version 24.12.21</strong>
+
+[fixed] Resolved issue where scrolling with Magic Mouse didn't work.
+
+<strong>Version 24.12.19</strong>
+
+[fixed] Resolved issue where Processing window was stuck on.
+
+<strong>Version 24.12.18</strong>
+
+[fixed] Improved librarian behavior.
+[fixed] Data TX/RX shouldn't take as long anymore.
+[fixed] Resolved some minor issues here and there.
+
+<strong>Version 24.12.16</strong>
+
+[new] Initial Pre-Release.
+
+- This version does not have User Manual with it.
+- Tooltips are missing assignments.
+- Some functions might not work as expected. If you find anything out of ordinary, please use the link above to join our Discord server and let us know how!
