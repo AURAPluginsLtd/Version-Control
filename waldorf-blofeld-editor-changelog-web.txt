@@ -1,8 +1,39 @@
-<strong>Version 1.2.3 | 2020-Oct-10</strong>
+strong>Version 25.01.15</strong>
 
-[new] Open Support Ticket Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
-[new] Check for Updates Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
-[new] DAW User Guides Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
-[fixed] Resolved issue where plug-in scan could potentially hang.
-[fixed] Resolved issue where Register Plug-in dialog would not open from Patch Librarian -> Bank Edit -> Register Plug-in.
-[fixed] Resolved issue where newly added files didn't appear in the main User Interface menus after refreshing folders.
+[new] Multimode Mixer view controls are defaulted to READ ONLY state. Users are advised to change the parameter values from the hardware and then requesting data back to User Interface.
+
+[fixed] Resolved issue where Editor could crash if USB connection was lost.
+[fixed] Resolved issue where controls didn't respond under certain circumstances.
+[fixed] Resolved issue where "No Search Results" caused endless loop and crash (Windows.
+[fixed] Resolved issue where Filter mode change from Oscillators tab didn't reflect changes in Filters & Envelopes tab.
+[fixed] Resolved issue where Envelope Triggers and Mode changes didn't work as expected.
+[fixed] Resolved issue where URL links were hardly visible.
+
+[improvement] Editor loads up a bit faster now.
+
+[other] Multimode Mixer Transpose and Detune knobs swapped to smaller knobs for better UI feel.
+
+<strong>Version 25.01.07</strong>
+
+[fixed] Arpeggiator nudge buttons work as expected.
+[fixed] Filter Link works as expected. Utilities menu has an option to use knob offset value for linking. If toggled off, direct value will be cloned between Filter parameters.
+[other] Don't request Arrangement data if Global data fails to be received.
+[other] Improvements to Librarian requests.
+
+<strong>Version 25.01.05</strong>
+
+[fixed] Resolved issue where Audio Unit validation failed.
+[fixed] Librarian unsaved changes indicator [!] was misplaced.
+[fixed] Resolved issue where Librarian froze after renaming patch.
+[fixed] Resolved issue where Librarian froze after drag and drop action was taken.
+[fixed] Data type control was enabled after exiting search / category view in librarian even when bank had unsaved changes.
+[fixed] Category Filtering in Patch Librarian works as expected.
+[fixed] If hardware is in Single mode, Multi functions will be disabled.
+[fixed] Utilities menu -> Editor Preferences now respects Multi / Single mode options.
+[other] Improved Oscillator 1 & 2 Shape memory when reloading a project.
+[other] Improvements to how Multi & Global control sending works.
+
+<strong>Version 25.01.04</strong>
+
+[new] all new plugin and standalone app for pre-release testing.
+note that some functions might not work as expected.

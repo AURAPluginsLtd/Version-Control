@@ -1,0 +1,21 @@
+Version    25.01.15                                                               2025-Jan-15
+
+[New] Multimode Mixer view controls are defaulted to READ ONLY state.
+      Users are advised to change the parameter values from the hardware
+      and then requesting data back to User Interface.
+
+[Fixed] Resolved issue where Editor could crash if USB connection was lost.
+[Fixed] Resolved issue where controls didn't respond under certain circumstances.
+[Fixed] Resolved issue where "No Search Results" caused endless loop and crash (Windows.
+[Fixed] Resolved issue where Filter mode change from Oscillators tab didn't reflect changes
+        in Filters & Envelopes tab.
+[Fixed] Resolved issue where Envelope Triggers and Mode changes didn't work as expected.
+[Fixed] Resolved issue where URL links were hardly visible.
+
+[Improvement] Editor loads up a bit faster now.
+
+[Other] Multimode Mixer Transpose and Detune knobs swapped to smaller knobs.
+
+note that some functions might not work as expected.
+
+please report your findings in our discord server so we can work them through!
