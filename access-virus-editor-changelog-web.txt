@@ -1,17 +1,18 @@
-<strong>Version 24.12.21</strong>
+<strong>Version 25.01.24</strong>
 
-[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
-[fixed] Resolved issue where Logic failed to validate Audio Unit.
-[fixed] Some parameters didn't show proper values in control display.
-[fixed] Fixed issue where regular knob automation was stepped.
-[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
-[fixed] Fixed issue where Editor could not remember last window view after reopening it.
-[fixed] Fixed issue where bubble control would not work unless defaulted was on.
-[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
-[fixed] Fixed issues with graphical glitches.
- - If interface scaling is set to auto, then editor remembers your window size per session.
- - Any other interface scaling value is recalled when editor is opened.
+[new] Atomizer Mode control now available for Virus TI users in FX / SETTINGS #2 tab.
+[new] When Filter, LFO or Vocoder Link is toggled on, linked parameters are set in parallel or offset from each other. Offset option can be set via Utilities menu.
+[new] If Hypersaw is selected in Osc 1 or Osc 2, ”sync 2>1” text changes to ”x-sync”.
+[new] Added X-Sync Frequency controller for Osc 1 when Hypersaw is selected.
+[new] MIDI ports are checked frequently to detect connection status.
 
-[other] Removed total recall interrupted notification as it didn't work out as expected.
-[other] Dropdown menus how show proper location on User Interface.
-[other] Some random graphics stuff here and there.
+[fixed] If Device ID is set manually from Multimode Settings before settings MIDI ports, hardware detection works as expected.
+[fixed] Resolved issue where Delay Clock mode didn’t draw layers correctly.
+[fixed] Resolved issue where Librarian Data button came visible after search was closed.
+[fixed] Resolved issue where Controls didn't send out values in some cases.
+[fixed] Resolved issue where Solo and Mute toggles didn't work as expected.
+[fixed] Resolved issue where Layers were shown even when they were not supposed to.
+
+[other] Improved librarian requests.
+[other] Improved parameter drawing when controls are adjusted.
+[other] Various performance improvements.
