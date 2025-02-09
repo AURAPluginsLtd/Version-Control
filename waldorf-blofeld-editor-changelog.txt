@@ -1,4 +1,4 @@
-Version    25.01.15                                                               2025-Jan-15
+Version    25.01.24                                                               2025-Jan-24
 
 [New] Multimode Mixer view controls are defaulted to READ ONLY state.
       Users are advised to change the parameter values from the hardware

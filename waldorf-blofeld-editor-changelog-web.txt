@@ -1,4 +1,4 @@
-strong>Version 25.01.15</strong>
+<strong>Version 25.01.24</strong>
 
 [new] Multimode Mixer view controls are defaulted to READ ONLY state. Users are advised to change the parameter values from the hardware and then requesting data back to User Interface.
 
@@ -8,6 +8,7 @@ strong>Version 25.01.15</strong>
 [fixed] Resolved issue where Filter mode change from Oscillators tab didn't reflect changes in Filters & Envelopes tab.
 [fixed] Resolved issue where Envelope Triggers and Mode changes didn't work as expected.
 [fixed] Resolved issue where URL links were hardly visible.
+[fixed] Resolved issue where Layers were shown even when they were not supposed to.
 
 [improvement] Editor loads up a bit faster now.
 
