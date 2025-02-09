@@ -1,4 +1,4 @@
-Version    25.01.09                                                               2025-Jan-09
+Version    25.01.24                                                               2025-Jan-24
 
 [new] Arpeggiator Nudge buttons work as expected.
 [new] Sequencer Nudge buttons work as expected.
@@ -6,8 +6,11 @@ Version    25.01.09                                                             
 [new] Oscillator, Filter and LFO can be set by clicking the "value" text in UI.
 [new] When effect mode is changed, effect parameters are sent to hardware.
 
+[fixed] When Filter Link is toggled on, Filter 1 & 2 are set in parallel or offset from each
+    other. Offset option can be set via Utilities menu.
 [fixed] Resolved issue where Librarian Data menu came visible after search was closed.
 [fixed] Resolved issue where Controls didn't send out values in some cases.
+[fixed] Resolved issue where Layers were shown even when they were not supposed to.
 
 [other] Improved librarian requests.
 [other] Improved parameter drawing when controls are adjusted.
