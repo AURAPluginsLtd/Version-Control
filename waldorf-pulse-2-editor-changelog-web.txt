@@ -1,3 +1,7 @@
+<strong>Version 25.03.17</strong>
+
+[fixed] Potential crash fixed while using mouse wheel to adjust parameter values.
+
 <strong>Version 25.03.16</strong>
 
 [new] Complete overhaul of the Pulse 2 Editor with Apple Silicon support.
