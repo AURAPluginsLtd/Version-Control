@@ -1,4 +1,4 @@
-<strong>Version 25.03.17</strong>
+Version    25.03.17                                                               2025-Mar-17
 
 [new] Complete overhaul of the Pulse Editor with Apple Silicon support.
 [new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
@@ -20,11 +20,15 @@
 [new] Show tooltips on mouse hover.
 [new] Show Bubble control of current parameter when adjusting value.
 [new] Show parameter values on Editor display when mouse is over the control.
-[new] Quick Edit view in Patch Librarian to adjust critical parameters while browsing the library.
+[new] Quick Edit view in Patch Librarian to adjust critical parameters while browsing
+    the library.
 [new] Improved Pulse 2 import function.
 
 [fixed] All previous bugs with the Editor should be cleared now.
 
-[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory. 
-[other] Windows: Our signing certificate expired, so use right click -> open to install. This might affect to AAX compatibility on Windows as well. We will build new installers when we get a signing certificate.
+[other] User Manual is not yet available. Use tooltips to show function purpose.
+    Most are self-explanatory. 
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+    This might affect to AAX compatibility on Windows as well.
+    We will build new installers when we get a signing certificate.
 [other] Join our amazing Discord community! At the time of this release, we have 1100+ users!
