@@ -1,40 +1,45 @@
-<strong>Version 25.01.24</strong>
+<strong>Version 25.04.20</strong>
 
-[new] Multimode Mixer view controls are defaulted to READ ONLY state. Users are advised to change the parameter values from the hardware and then requesting data back to User Interface.
+[new] Section save as has part program name as a prefix.
+[new] Option in Utilities menu for Send All Notes Off on program change command.
+[new] Editor has Undo/Redo/History with 20, 35 or 50 steps.
+[new] Librarian has Undo/Redo/History with 20, 35 or 50 steps.
+[new] Indicator is shown next to parameter name if MIDI Learn has assignment set to it.
+[new] Quick Edit view added to Librarian view so user can adjust critical parameters without the need of leaving Librarian.
+[new] Rename button added for Sample OSC mode to open Sample list for editing list names.
+[new] Refresh button added for Sample OSC mode to refresh Sample menu names.
+[new] Added ability to upload custom wavetables to Blofeld user slots. See Wavetables folder for additional wavetables! This action can be done when OSC 1 or 2 is set to Wavetable. Arrow up will appear next to Wavetable label for upload. Multi-slot Wavetables not supported (as of now).
+[new] Randomizer Dice added to quickly randomize section with one-click.
+[new] Improved menu icons for buttons and UI where menu will be opened.
+[new] MIDI Learn can now be toggle on with right click on Sliders & Knobs with right click.
+[new] Tooltips added for every parameter.
+[new] Multi-select items in Patch Librarian for copy / paste / drag'n'drop.
+[new] Added option to disable program sending via Librarian when using arrow keys.
+[new] Master Section Lock and Randomizer Dice added for Mod Matrix slots 1-8 and 9-16.
+[new] Panning and Volume can be excluded from Randomizer.
 
-[fixed] Resolved issue where Editor could crash if USB connection was lost.
-[fixed] Resolved issue where controls didn't respond under certain circumstances.
-[fixed] Resolved issue where "No Search Results" caused endless loop and crash (Windows.
-[fixed] Resolved issue where Filter mode change from Oscillators tab didn't reflect changes in Filters & Envelopes tab.
-[fixed] Resolved issue where Envelope Triggers and Mode changes didn't work as expected.
-[fixed] Resolved issue where URL links were hardly visible.
-[fixed] Resolved issue where Layers were shown even when they were not supposed to.
+[fixed] Randomizer works better for parameters with more than 2 values.
+[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
+[fixed] Some User Interface elements were off like Modifier titles.
+[fixed] Some User Interface elements were drawn with wrong curve.
+[fixed] Some Section Locks didn't release "Release All Locks" for user.
+[fixed] Controls could have been stuck after hardware data was received.
+[fixed] Tempo sync from Standalone App should work better now.
+[fixed] XY Pad could potentially cause crash under certain circumstances.
+[fixed] Data is now properly written to hardware memory.
+[fixed] Parameter SysEx is now properly assigned.
+[fixed] MIDI port assignments should now work as expected.
+[fixed] Limit WT LED status was shown incorrectly.
+[fixed] AAX will now load in Windows.
 
+[improvement] Layers drawing priorities reworked.
+[improvement] Reworked Utilities menu. Librarian related items moved to Bank Edit menu.
+[improvement] Reworked Bank Edit menu. Non-librarian items moved to Utilities menu.
+[improvement] Adjusted SysEx transmission speeds to match with Hardware speeds.
+[improvement] Category filtering works much better now.
 [improvement] Editor loads up a bit faster now.
 
-[other] Multimode Mixer Transpose and Detune knobs swapped to smaller knobs for better UI feel.
+[note] If you had Editor defaults written previously, it might be worth deleting the file before applying this update.
 
-<strong>Version 25.01.07</strong>
-
-[fixed] Arpeggiator nudge buttons work as expected.
-[fixed] Filter Link works as expected. Utilities menu has an option to use knob offset value for linking. If toggled off, direct value will be cloned between Filter parameters.
-[other] Don't request Arrangement data if Global data fails to be received.
-[other] Improvements to Librarian requests.
-
-<strong>Version 25.01.05</strong>
-
-[fixed] Resolved issue where Audio Unit validation failed.
-[fixed] Librarian unsaved changes indicator [!] was misplaced.
-[fixed] Resolved issue where Librarian froze after renaming patch.
-[fixed] Resolved issue where Librarian froze after drag and drop action was taken.
-[fixed] Data type control was enabled after exiting search / category view in librarian even when bank had unsaved changes.
-[fixed] Category Filtering in Patch Librarian works as expected.
-[fixed] If hardware is in Single mode, Multi functions will be disabled.
-[fixed] Utilities menu -> Editor Preferences now respects Multi / Single mode options.
-[other] Improved Oscillator 1 & 2 Shape memory when reloading a project.
-[other] Improvements to how Multi & Global control sending works.
-
-<strong>Version 25.01.04</strong>
-
-[new] all new plugin and standalone app for pre-release testing.
-note that some functions might not work as expected.
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
