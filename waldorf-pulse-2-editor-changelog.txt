@@ -1,3 +1,26 @@
-Version    25.03.17                                                               2025-Mar-17
+Version    25.04.20                                                               2025-Apr-20
 
+[New] Section save as has program name as a prefix.
+[New] Option in Utilities menu for Send All Notes Off on program change command.
+[New] VCA Panning and Volume can be excluded from Randomizer.
+
+[Fixed] Resolved issue where Device ID couldn't be set.
+[Fixed] Improved UI loading time.
+[Fixed] UI zoom settings work as expected.
+[Fixed] Randomizer works better for parameters with more than 2 values.
+[Fixed] Librarian drag'n'drop could potentially cause a crash.
+[Fixed] Patch History could potentially cause a crash.
+[Fixed] Controls could have been stuck after hardware data was received.
+[Fixed] Tempo sync from Standalone App should work better now.
+[Fixed] XY Pad could potentially cause crash under certain circumstances.
+[Fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by 
+    default.
+[Fixed] MIDI port assignments should now work as expected.
 [Fixed] Potential crash fixed while using mouse wheel to adjust parameter values.
+[Fixed] AAX will now load in Windows.
+
+[Improvement] Layers drawing priorities reworked.
+
+[Other] User Manual is not yet available. Use tooltips to show function purpose.
+    Most are self-explanatory.
+[Other] Windows: Our signing certificate expired, so use right click -> open to install.

@@ -1,33 +1,24 @@
-<strong>Version 25.03.17</strong>
+<strong>Version 25.04.20</strong>
 
+[new] Section save as has program name as a prefix.
+[new] Option in Utilities menu for Send All Notes Off on program change command.
+[new] VCA Panning and Volume can be excluded from Randomizer.
+
+[fixed] Resolved issue where Device ID couldn't be set.
+[fixed] Improved UI loading time.
+[fixed] UI zoom settings work as expected.
+[fixed] Randomizer works better for parameters with more than 2 values.
+[fixed] Librarian drag'n'drop could potentially cause a crash.
+[fixed] Patch History could potentially cause a crash.
+[fixed] Controls could have been stuck after hardware data was received.
+[fixed] Tempo sync from Standalone App should work better now.
+[fixed] XY Pad could potentially cause crash under certain circumstances.
+[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
+[fixed] MIDI port assignments should now work as expected.
 [fixed] Potential crash fixed while using mouse wheel to adjust parameter values.
+[fixed] AAX will now load in Windows.
 
-<strong>Version 25.03.16</strong>
+[improvement] Layers drawing priorities reworked.
 
-[new] Complete overhaul of the Pulse 2 Editor with Apple Silicon support.
-[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
-[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
-[new] User Interface redesign with two skins: Black or Limited.
-[new] Realtime resizable graphics.
-[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] MIDI Learn per CC control can be defined with right clicking on parameter.
-[new] Green LED is lit next to parameter name if MIDI CC is assigned.
-[new] Randomizer dice to randomize each section with one click.
-[new] Section controls to allow Section based presets and functions.
-[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
-[new] Copy and Paste items with normal copy / paste commands.
-[new] Onscreen Keyboard to trigger notes.
-[new] MIDI mappings can be loaded or saved to hdd.
-[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
-[new] Show tooltips on mouse hover.
-[new] Show Bubble control of current parameter when adjusting value.
-[new] Show parameter values on Editor display when mouse is over the control.
-[new] Quick Edit view in Patch Librarian to adjust critical parameters while browsing the library.
-[new] Improved Pulse 1 import function.
-
-[fixed] All previous bugs with the Editor should be cleared now.
-
-[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory. 
-[other] Windows: Our signing certificate expired, so use right click -> open to install. This might affect to AAX compatibility on Windows as well. We will build new installers when we get a signing certificate.
-[other] Join our amazing Discord community! At the time of this release, we have 1100+ users!
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
