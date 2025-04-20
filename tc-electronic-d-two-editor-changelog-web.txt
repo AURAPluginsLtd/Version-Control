@@ -1,6 +1,16 @@
-<strong>Version 25.03.18</strong>
+<strong>Version 25.04.20</strong>
 
-[new] Initial Pre-Release.
+[new] Section preset save as has a preset name in prefix.
+[new] Volume can be excluded from Randomizer.
 
-- This version does not have User Manual with it.
-- Some functions might not work as expected. If you find anything out of ordinary, please use the link above to join our Discord server and let us know how!
+[fixed] Controls were stuck after data was received from hardware.
+[fixed] Sync To Host button now works with standalone application.
+[fixed] Randomizer works better for parameters with more than 2 values.
+[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
+[fixed] Delay / Tempo values could not be input by user input.
+[fixed] Rhythm On/Off toggle is excluded from rhythm randomizer.
+[fixed] XY Pad could potentially cause crash under certain circumstances.
+[fixed] AAX will now load in Windows.
+
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
