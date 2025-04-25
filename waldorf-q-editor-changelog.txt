@@ -1,87 +1,17 @@
-Version    25.04.20                                                               2025-Apr-20
+Version    25.04.25                                                               2025-Apr-25
 
-[New] Section save as has part program name as a prefix.
-[New] Option in Utilities menu for Send All Notes Off on program change command.
-[New] Bank Init function reworked. Now when triggered, user is prompted for new name.
-    Once name is typed, Initialized bank is created.
-[New] Quick Edit View for Patch Librarian to allow quick editing of program without having
-    to leave the Librarian tab.
-[New] 20/35/50 step Undo/Redo/History for Patch Librarian.
-[New] 20/35/50 step Undo/Redo/History for Editor.
-[New] Set Program Category from Librarian with Right Click menu.
-[New] Added ability to select and manage multiple items in librarian view at once.
-    Use shift + arrow keys or shift + mouse to select range.
-[New] User can now choose if Program is sent to hardware from librarian when using arrow
-    keys. Option can be found from Utilities menu -> Librarian Preferences.
-[New] Enter key sends Program from Librarian to hardware.
-[New] Librarian key commands: Cmd/Ctrl + Z triggers Undo. Cmd/Ctrl + shift + Z triggers Redo.
-[New] Librarian key command: TAB now switches between list views.
-[New] Randomizer DICE to engage with Randomizer per section with single click.
-[New] Panning and Volume can be excluded from Randomizer.
-[New] MIDI Mapping menu and assigned CC shown with right click atop of parameter.
-[New] If Parameter has MIDI CC assigned to it, a little LED is shown before the param name.
-[New] Bank Edit menu has options to request and write Drum programs.
-[New] Multimode Mixer -> Global view has option to request or dump Global and Multi Settings.
-[New] Ctrl Delay and Ctrl Delay Amount added to Effects / Arp tab due to lack of available
-    space.
-
-[Fixed] Librarian drag'n'drop could potentially cause a crash.
-[Fixed] Controls could have been stuck after hardware data was received.
-[Fixed] Tempo sync from Standalone App should work better now.
-[Fixed] VST3 MIDI data was double processed in some cases.
-[Fixed] Control Display shows Control Values even when playback is on.
-[Fixed] When CC parameter is active, Control Display indicates "CC|number" instead of just
-    "number".
-[Fixed] Control display and Popup window displayed wrong information about drag'n'drop 
-    functions.
-[Fixed] Resolved issue where Editor would crash while closing window under certain 
-    circumstances.
-[Fixed] Copy & Paste functions work as expected.
-[Fixed] Saving and Loading section data work as expected.
-[Fixed] Release all locks button had to be clicked twice after engaging the button once.
-[Fixed] Bubble Controller was deactivated when different tab was chosen.
-[Fixed] Category Filtering glitch when browsing banks and several other flickering effects 
-    removed.
-[Fixed] Section Presets work now as expected.
-[Fixed] Patch Librarian didn't retain selected patch slot.
-[Fixed] Resolved issue where Editor crashed on Utilities -> Initialize Active Program.
-[Fixed] Bottom bar toggles were not performing as expected.
-[Fixed] UI view is recalled properly after window is reopened.
-[Fixed] If Advanced MIDI Settings window was open when Editor was closed, button state was 
-    left on.
-[Fixed] Requests to hardware respond much quicker reducing overall request times.
-[Fixed] microQ and Blofeld bank conversion is more realistic now.
-[Fixed] Checksum was not calculated properly for Globals.
-[Fixed] MIDI Learn works as expected.
-[Fixed] Part change works a lot smoother now.
-
-[Improvement] Layers drawing priorities reworked.
-
-[Other] Modified type menu exclusion list from randomizer. Osc and LFO shapes, Filter types, 
-    Glide mode, Arp Mode & Status and Envelope Looping are in the exclusion list.
-[Other] Clicking Parameter LED (osc sync, mono, lfo clock etc) now makes the control hot for 
-    DAW for automation & discovery.
-[Other] Toggles with menu function has a new indicator stating it opens a menu.
-[Other] If MIDI Learn is active and user clicks non-programmable parameter, a warning dialog 
-    will be shown.
-[Other] If Pulse 1 / Pulse 2 Bank Import fails, a warning dialog will be shown.
-[Other] Improved Utilities menu structures. Obsolete items are removed for clarity.
-[Other] UI DATA Load & Save functions moved to Utilities Menu.
-[Other] MIDI Mapping functions moved to Utilities Menu.
-[Other] Bank Edit Menu non-bank related stuff moved to Utilities Menu.
-[Other] Categories system simplified and Category filtering works much precisely now.
-[Other] Color changed for Librarian Unsaved Changes notifier (!).
-[Other] Rephrased Renaming box in Patch Librarian to avoid confusion.
-[Other] Advanced MIDI Settings text entity modified for LED tracking.
-[Other] Changelog background image update.
-[Other] Reworked all Modulation Matrix sections to be more clear.
-[Other] Renamed Utilities -> Initialize Active Program TO Utilities -> Initialize Program.
-[Other] Initializing Editor works a lot smoother now.
-[Other] Renamed Bank selection entities.
-[Other] Removed unused graphics.
-[Other] Updated graphics with new knobs and background colors.
-[Other] Adjusted LOGGING HUD position.
+[Fixed] Requesting Data to Librarian didn't work as expected.
+[Fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
+[Fixed] Discard changes button was not visible after librarian requests.
 
 [Other] User Manual is not yet available. Use tooltips to show function purpose.
     Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[Note] If you had Editor defaults written previously, delete the file before 
+    applying this update.
+    Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default
+    -file.
+
+Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://ko-fi.com/auraplugins

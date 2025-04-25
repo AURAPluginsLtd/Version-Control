@@ -1,3 +1,18 @@
+<strong>Version 25.04.25</strong>
+
+[fixed] Requesting Data to Librarian didn't work as expected.
+[fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
+[fixed] Discard changes button was not visible after librarian requests.
+
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[note] If you had Editor defaults written previously, delete the file before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
+
+Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://ko-fi.com/auraplugins
+
 <strong>Version 25.04.20</strong>
 
 [new] Section save as has part program name as a prefix.
@@ -70,5 +85,45 @@
 [other] Updated graphics with new knobs and background colors.
 [other] Adjusted LOGGING HUD position.
 
-[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+<strong>Version 25.01.24</strong>
+
+[new] Arpeggiator Nudge buttons work as expected.
+[new] Sequencer Nudge buttons work as expected.
+[new] If filters are set to bypass, all controls are disabled.
+[new] Oscillator, Filter and LFO can be set by clicking the "value" text in UI.
+[new] When effect mode is changed, effect parameters are sent to hardware.
+
+[fixed] When Filter Link is toggled on, Filter 1 & 2 are set in parallel or offset from each other. Offset option can be set via Utilities menu.
+[fixed] Resolved issue where Librarian Data menu came visible after search was closed.
+[fixed] Resolved issue where Controls didn't send out values in some cases.
+[fixed] Resolved issue where Layers were shown even when they were not supposed to.
+
+[other] Improved librarian requests.
+[other] Improved parameter drawing when controls are adjusted.
+
+<strong>Version 24.12.21</strong>
+
+[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
+[fixed] Randomizer works as expected.
+[fixed] Resolved issue where Logic failed to validate Audio Unit.
+[fixed] Some parameters didn't show proper values in control display.
+[fixed] Fixed issue where bubble control would not work unless defaulted was on.
+[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+
+[other] Oscillator Pulse Width levels now default to 127.
+[other] Dropdown menus how show proper location on User Interface.
+[other] Some random graphics stuff here and there.
+
+<strong>Version 24.12.03</strong>
+
+[fixed] Fixed issue where regular knob automation was stepped.
+[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
+[fixed] Fixed issue where Editor could not remember last window view after reopening it.
+[fixed] Fixed issues with graphical glitches.
+ - If interface scaling is set to auto, then editor remembers your window size per session.
+ - Any other interface scaling value is recalled when editor is opened.
+
+<strong>Version 24.12.02</strong>
+
+[new] all new plugin and standalone app for pre-release testing.
+note that some functions might not work as expected.
