@@ -1,45 +1,12 @@
-<strong>Version 25.04.20</strong>
+<strong>Version 25.04.25</strong>
 
-[new] Section save as has part program name as a prefix.
-[new] Option in Utilities menu for Send All Notes Off on program change command.
-[new] Editor has Undo/Redo/History with 20, 35 or 50 steps.
-[new] Librarian has Undo/Redo/History with 20, 35 or 50 steps.
-[new] Indicator is shown next to parameter name if MIDI Learn has assignment set to it.
-[new] Quick Edit view added to Librarian view so user can adjust critical parameters without the need of leaving Librarian.
-[new] Rename button added for Sample OSC mode to open Sample list for editing list names.
-[new] Refresh button added for Sample OSC mode to refresh Sample menu names.
-[new] Added ability to upload custom wavetables to Blofeld user slots. See Wavetables folder for additional wavetables! This action can be done when OSC 1 or 2 is set to Wavetable. Arrow up will appear next to Wavetable label for upload. Multi-slot Wavetables not supported (as of now).
-[new] Randomizer Dice added to quickly randomize section with one-click.
-[new] Improved menu icons for buttons and UI where menu will be opened.
-[new] MIDI Learn can now be toggle on with right click on Sliders & Knobs with right click.
-[new] Tooltips added for every parameter.
-[new] Multi-select items in Patch Librarian for copy / paste / drag'n'drop.
-[new] Added option to disable program sending via Librarian when using arrow keys.
-[new] Master Section Lock and Randomizer Dice added for Mod Matrix slots 1-8 and 9-16.
-[new] Panning and Volume can be excluded from Randomizer.
-
-[fixed] Randomizer works better for parameters with more than 2 values.
-[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
-[fixed] Some User Interface elements were off like Modifier titles.
-[fixed] Some User Interface elements were drawn with wrong curve.
-[fixed] Some Section Locks didn't release "Release All Locks" for user.
-[fixed] Controls could have been stuck after hardware data was received.
-[fixed] Tempo sync from Standalone App should work better now.
-[fixed] XY Pad could potentially cause crash under certain circumstances.
-[fixed] Data is now properly written to hardware memory.
-[fixed] Parameter SysEx is now properly assigned.
-[fixed] MIDI port assignments should now work as expected.
-[fixed] Limit WT LED status was shown incorrectly.
-[fixed] AAX will now load in Windows.
-
-[improvement] Layers drawing priorities reworked.
-[improvement] Reworked Utilities menu. Librarian related items moved to Bank Edit menu.
-[improvement] Reworked Bank Edit menu. Non-librarian items moved to Utilities menu.
-[improvement] Adjusted SysEx transmission speeds to match with Hardware speeds.
-[improvement] Category filtering works much better now.
-[improvement] Editor loads up a bit faster now.
-
-[note] If you had Editor defaults written previously, it might be worth deleting the file before applying this update.
+[fixed] Requesting Data to Librarian didn't work as expected.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[note] If you had Editor defaults written previously, delete the file before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
+
+Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://ko-fi.com/auraplugins
