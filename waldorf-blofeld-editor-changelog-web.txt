@@ -1,8 +1,6 @@
-<strong>Version 25.04.25</strong>
+<strong>Version 25.04.26</strong>
 
-[fixed] Requesting Data to Librarian didn't work as expected.
-[fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
-[fixed] Adjusted SysEx timer to ensure data is processed properly.
+[fixed] Editor Preferences in Utilities menu were off.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.

@@ -1,8 +1,6 @@
-Version    25.04.25                                                               2025-Apr-25
+Version    25.04.26                                                               2025-Apr-26
 
-[Fixed] Requesting Data to Librarian didn't work as expected.
-[Fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
-[Fixed] Adjusted SysEx timer to ensure data is processed properly.
+[Fixed] Editor Preferences in Utilities menu were off.
 
 [Other] User Manual is not yet available. Use tooltips to show function purpose.
     Most are self-explanatory.
