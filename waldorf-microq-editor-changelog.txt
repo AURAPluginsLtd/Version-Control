@@ -1,31 +1,19 @@
-Version    25.04.20                                                               2025-Apr-20
+Version    25.04.27                                                               2025-Apr-27
 
-[New] Complete overhaul of the microQ Editor with Apple Silicon support.
-[New] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
-[New] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
-[New] User Interface redesign.
-[New] Realtime resizable graphics.
-[New] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
-[New] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
-[New] MIDI Learn per CC control can be defined with right clicking on parameter.
-[New] LED is lit next to parameter name if MIDI CC is assigned.
-[New] Randomizer dice to randomize each section with one click.
-[New] Section controls to allow Section based presets and functions.
-[New] Multi selection of items in librarian with shift+click or shift+arrow keys.
-[New] Copy and Paste items with normal copy / paste commands.
-[New] Onscreen Keyboard to trigger notes.
-[New] MIDI mappings can be loaded or saved to hdd.
-[New] Saving and Loading UI DATA which is essentially all parameters of the instance.
-[New] Show tooltips on mouse hover *.
-[New] Show Bubble control of current parameter when adjusting value.
-[New] Show parameter values on Editor display when mouse is over the control.
-[New] Quick Edit view in Patch Librarian to adjust critical parameters while browsing the 
-    library.
-[New] Improved Pulse and Pulse 2 import function.
+[New] Tooltips included. Tooltip text copied from microQ User Manual.
 
-[Fixed] All previous bugs with the Editor should be cleared now.
+[Fixed] Requesting Data to Librarian didn't work as expected.
+[Fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
+[Fixed] Discard changes button was not visible after librarian requests.
 
-[Other] User Manual is not yet available. Use tooltips to show function purpose.
-    Most are self-explanatory. (*tooltips coming soon!)
+[Other] User Manual is not yet available. Use tooltips to show function purpose. 
+    Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
-[Other] Join our amazing Discord community! At the time of this release, we have 1100+ users!
+
+[Note] If you had Editor defaults written previously, delete the file 
+    before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove 
+    editor.default -file.
+
+Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://ko-fi.com/auraplugins
