@@ -1,17 +1,15 @@
-Version    25.04.25                                                               2025-Apr-25
+Version    25.04.27                                                               2025-Apr-27
 
-[Fixed] Requesting Data to Librarian didn't work as expected.
-[Fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
-[Fixed] Discard changes button was not visible after librarian requests.
+[New] Tooltips included. Tooltip text copied from Q User Manual.
 
-[Other] User Manual is not yet available. Use tooltips to show function purpose.
+[Other] User Manual is not yet available. Use tooltips to show function purpose. 
     Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-[Note] If you had Editor defaults written previously, delete the file before 
-    applying this update.
-    Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default
-    -file.
+[Note] If you had Editor defaults written previously, delete the file 
+    before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove 
+    editor.default -file.
 
 Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
 Want to support our development and free updates? https://ko-fi.com/auraplugins
