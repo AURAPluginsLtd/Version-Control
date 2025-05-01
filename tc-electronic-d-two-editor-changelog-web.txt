@@ -1,16 +1,12 @@
-<strong>Version 25.04.20</strong>
+<strong>Version 25.05.01</strong>
 
-[new] Section preset save as has a preset name in prefix.
-[new] Volume can be excluded from Randomizer.
-
-[fixed] Controls were stuck after data was received from hardware.
-[fixed] Sync To Host button now works with standalone application.
-[fixed] Randomizer works better for parameters with more than 2 values.
-[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
-[fixed] Delay / Tempo values could not be input by user input.
-[fixed] Rhythm On/Off toggle is excluded from rhythm randomizer.
-[fixed] XY Pad could potentially cause crash under certain circumstances.
-[fixed] AAX will now load in Windows.
+[fixed] Loading UI Data now allows to select td2 files.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[note] If you had Editor defaults written previously, delete the file before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
+
+Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://ko-fi.com/auraplugins
