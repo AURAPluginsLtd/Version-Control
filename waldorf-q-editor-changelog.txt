@@ -1,15 +1,39 @@
-Version    25.04.27                                                               2025-Apr-27
+Version    25.08.28                                                               2025-Aug-28
 
-[New] Tooltips included. Tooltip text copied from Q User Manual.
+[New] Enable Automatic Update check from Utilities -> Editor Preferences menu.
+[New] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
+[New] Librarian now supports multi selection write and requests to and from hardware.
+[New] Warning message will appear if program and bank is allocated by any other part
+    previously.
+[New] Disable Buffer overwrite warnings via Patch Librarian -> Bank Edit -> Librarian 
+    Preferences menu.
+[New] Librarian Search function extended to all file types.
+[New] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user 
+    attempts to click -/+ buttons.
+[New] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
+[New] Logging Enabled HUD now shows Editor transfer statuses.
+[New] Single, Multi and Pattern data can be requested from UI to Librarian with 
+    'Save Data to Slot' button.
+[New] Randomizer Settings are now stored in PREFS file.
+
+[Fixed] Resolved issue where Enable Multimode button didn't work.
+[Fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
+[Fixed] Resolved issue where Category and Search files were not copied properly from lower 
+    to upper list.
+[Fixed] Quick Edit view was stuck on when entering Multimode Mixer view.
+[Fixed] Quick Mixer Part Focus indicator was stuck on when entering Sequencer tab.
+[Fixed] Release All Locks button is no longer hidden from the view.
+[Fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
+[Fixed] Resolved issue where MIDI velocity meters crashed Editor under certain conditions.
+
+[Improvement] Ensure all parts are received before requesting multi data in.
+[Improvement] Librarian 'Save Part to Slot' button renamed to 'Save Data to Slot'.
+[Improvement] Part change works a bit faster.
+[Improvement] Loading data via librarian works a bit faster.
 
 [Other] User Manual is not yet available. Use tooltips to show function purpose. 
     Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
-
-[Note] If you had Editor defaults written previously, delete the file 
-    before applying this update.
-Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove 
-    editor.default -file.
 
 Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
 Want to support our development and free updates? https://ko-fi.com/auraplugins
