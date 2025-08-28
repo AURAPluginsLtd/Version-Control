@@ -1,22 +1,9 @@
-<strong>Version 25.08.23</strong>
+<strong>Version 25.08.28</strong>
 
-[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
-[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
-[new] Warning message will appear if program and bank is allocated by any other part previously.
-[new] Disable Buffer overwrite warnings via Patch Librarian -> Bank Edit -> Librarian Preferences menu.
-[new] Librarian Search function extended to all file types.
-[new] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user attempts to click -/+ buttons.
-[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
-[new] Logging Enabled HUD now shows Editor transfer statuses.
-[new] Randomizer Settings are now stored in PREFS file.
+[new] Librarian now supports multi selection write and requests to and from hardware.
 
-[fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
-[fixed] Multi data can now be stored to librarian, however, this method doesn't store parts.
-[fixed] Resolved issue where Category and Search files were not copied properly from lower to upper list.
-[fixed] Quick Edit view was stuck on when entering Multimode Mixer view.
-[fixed] Release All Locks button is no longer hidden from the view.
-[fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
-[fixed] Resolved issue where MIDI velocity meters crashed Editor under certain conditions.
+[improvement] Ensure all parts are received before requesting multi data in.
+[improvement] Loading data via librarian works a bit faster.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
