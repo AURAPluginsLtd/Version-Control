@@ -1,33 +1,17 @@
-<strong>Version 25.08.28</strong>
+<strong>Version 25.08.30</strong>
 
-[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
-[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
-[new] Librarian now supports multi selection write and requests to and from hardware.
-[new] Warning message will appear if program and bank is allocated by any other part previously.
-[new] Disable Buffer overwrite warnings via Patch Librarian -> Bank Edit -> Librarian Preferences menu.
-[new] Librarian Search function extended to all file types.
-[new] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user attempts to click -/+ buttons.
-[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
-[new] Logging Enabled HUD now shows Editor transfer statuses.
-[new] Single, Multi and Pattern data can be requested from UI to Librarian with 'Save Data to Slot' button.
-[new] Randomizer Settings are now stored in PREFS file.
+[new] Librarian Multi select read / write support added. Works with right click actions too.
 
-[fixed] Resolved issue where Enable Multimode button didn't work.
-[fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
-[fixed] Resolved issue where Category and Search files were not copied properly from lower to upper list.
-[fixed] Quick Edit view was stuck on when entering Multimode Mixer view.
-[fixed] Quick Mixer Part Focus indicator was stuck on when entering Sequencer tab.
-[fixed] Release All Locks button is no longer hidden from the view.
-[fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
-[fixed] Resolved issue where MIDI velocity meters crashed Editor under certain conditions.
-
-[improvement] Ensure all parts are received before requesting multi data in.
-[improvement] Librarian 'Save Part to Slot' button renamed to 'Save Data to Slot'.
-[improvement] Part change works a bit faster.
-[improvement] Loading data via librarian works a bit faster.
+[improvement] Rewording of Bank Edit menu items in Librarian.
+[improvement] Bank and Program display in Editor shows better feedback of current mode.
+&nbsp&nbsp&nbsp&nbspi.e. Multimode Mixer = MULTI M/X.
+&nbsp&nbsp&nbsp&nbspLibrarian = MULTI M/X, PATTERN or SINGLE A,B,C,X based on edit mode.
+&nbsp&nbsp&nbsp&nbspSequencer tab = PATTERN
+&nbsp&nbsp&nbsp&nbspOther tabs = SINGLE A,B,C,X
+[improvement] Other small performance tweaks.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues, praises, suggestions? Join our Discord <a href="https://discord.gg/TeG7ukYcVW">https://discord.gg/TeG7ukYcVW</a>
+Want to support our development and free updates? <a href="https://ko-fi.com/auraplugins">https://ko-fi.com/auraplugins</a>

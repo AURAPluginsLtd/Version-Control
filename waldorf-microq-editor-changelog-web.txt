@@ -1,12 +1,16 @@
-<strong>Version 25.08.28</strong>
+<strong>Version 25.08.30</strong>
 
-[new] Librarian now supports multi selection write and requests to and from hardware.
+[new] Librarian Multi select read / write support added. Works with right click actions too.
 
-[improvement] Ensure all parts are received before requesting multi data in.
-[improvement] Loading data via librarian works a bit faster.
+[improvement] Rewording of Bank Edit menu items in Librarian.
+[improvement] Bank and Program display in Editor shows better feedback of current mode.
+&nbsp&nbsp&nbsp&nbspi.e. Multimode Mixer = MULTI.
+&nbsp&nbsp&nbsp&nbspLibrarian = MULTI or SINGLE A...H based on edit mode.
+&nbsp&nbsp&nbsp&nbspOther tabs = SINGLE A...H
+[improvement] Other small performance tweaks.
 
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[other] Windows: Our signing certificate expired, so use right click -&gt; open to install.
 
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues, praises, suggestions? Join our Discord <a href="https://discord.gg/TeG7ukYcVW">https://discord.gg/TeG7ukYcVW</a>
+Want to support our development and free updates? <a href="https://ko-fi.com/auraplugins">https://ko-fi.com/auraplugins</a>
