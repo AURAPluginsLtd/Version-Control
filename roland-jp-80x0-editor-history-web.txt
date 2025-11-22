@@ -1,0 +1,227 @@
+<strong>Version 25.01.24</strong>
+
+[new] When Panel Link is toggled on, Panel 1 & 2 are set in parallel or offset from each other. Offset option can be set via Utilities menu..
+[new] Oscillator 1 and 2 Mode changes now show ie ”Osc 1 Supersaw Detune” in the Control Display.
+
+[fixed] Resolved issue where Librarian Data menu came visible after search was closed.
+[fixed] Resolved issue where Controls didn't send out values in some cases.
+[fixed] Resolved issue where Librarian froze after renaming patch.
+[fixed] Resolved issue where Layers were shown even when they were not supposed to.
+[fixed] Repositioned Rename Librarian slot panel. Quick Edit view blocked the visibility.
+[fixed] Resolved issue where Connection was not made when user manually changed Device ID from Editor before setting MIDI ports.
+
+[other] Don't request Performance data if Global data fails to be received.
+[other] Improvements to Librarian requests.
+[other] Improved parameter drawing when controls are adjusted.
+
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 24.12.21</strong>
+
+[fixed] Resolved issue where Magic Mouse scrolling macOS didn't work on some parameters.
+[fixed] Resolved issue where Logic failed to validate Audio Unit.
+[fixed] Some parameters didn't show proper values in control display.
+[fixed] Patch Init was not initialized properly.
+[fixed] Fixed issue where regular knob automation was stepped.
+[fixed] Fixed issue where LEDs would be stuck until playback was stopped.
+[fixed] Fixed issue where DAW would crash when hiding / showing Editor UI.
+[fixed] Fixed issue where Utilities Menu Load 4K/8K Graphics was stuck on.
+[fixed] Fixed issue where Editor could not remember last window view after reopening it.
+[fixed] Fixed issue where bubble control would not work unless defaulted was on.
+[fixed] Fixed issue where Editor would crash when data from librarian was dropped to part.
+[fixed] Fixed issues with graphical glitches.
+ - If interface scaling is set to auto, then editor remembers your window size per session.
+ - Any other interface scaling value is recalled when editor is opened.
+
+[other] Removed total recall interrupted notification as it didn't work out as expected.
+[other] Dropdown menus how show proper location on User Interface.
+[other] Some random graphics stuff here and there.
+
+<strong>Version 24.10.23</strong>
+
+[new] Last loaded value is shown in bubble control and editor value display with [*value] marker.
+[new] Double click to reset parameter with last loaded value or default value. Option can be toggled from Utilities menu -> User Interface.
+[new] Section Menu and Layer Edit menu now has items to revert section or layer to last loaded values.
+[new] Smart Media Patches and Performances now available for JP-8080 users via the Editor.
+[new] Added Adv MIDI Settings override function to Utilities MIDI Preferences menu.
+[new] Added AutoSave, Show Bubble, LEDs Off and Tooltips override function to Utilities MIDI Preferences menu.
+[new] Reworked User Manual and pointed URLs to main store pages.
+[new] Finished Voice Modulator layer.
+[new] macOS GPU now uses Metal framework. Mac minimum requirements: https://support.apple.com/en-us/102894
+[new] Control Display shows time remaining when data is requested or sent.
+[new] Added option in Utilities menu to bypass DAW MIDI CC processing and pass it directly to MIDI output port.
+[new] Easy / Advanced Views to Patch Librarian with Quick Edit controls.
+[new] Librarian search is now set individually per layer.
+[new] Librarian search works with Performances as well.
+[new] Randomizer can be set to exclude Type/Mode menus.
+[new] various keyboard shortcuts added [panel select area (Q) and patch librarian (L)]:
+ - ctrl/cmd + c = copy part (Q, L)
+ - ctrl/cmd + v = paste data (Q, L)
+ - ctrl/cmd + i = initialize part (Q, L)
+ - ctrl/cmd + r = randomize part (Q)
+ - ctrl/cmd + g = get part from hardware (Q)
+ - ctrl/cmd + p = push part to hardware (Q)
+ - ctrl/cmd + l = lock part (Q)
+ - ctrl/cmd + r = rename librarian slot (L)
+
+[fixed] Resolved issue where bubble control value was not lined up with control display value.
+[fixed] Resolved issue where Editor would crash on DAW sample rate change.
+[fixed] Resolved issue where Bank and Program selection menus didn't work as expected.
+[fixed] Resolved issue where data was not properly handled when requesting Arrangement to user interface.
+[fixed] Resolved issue where automation didn't work as expected after data request from hardware.
+[fixed] (Windows) Resolved issue where Tooltips were not showing correct data.
+[fixed] Mod Wheel automation works as expected.
+[fixed] Model changes work as expected even when defaults are written.
+[fixed] Search results content was reset after selecting preset from the list.
+[fixed] Some layers were shown in wrong views.
+[fixed] Section Randomizer action didn't respect Randomizer settings from Utilities menu.
+[fixed] Librarian bank and patch number selections follow part change properly.
+[fixed] Part / Program changes would crash the Editor.
+[fixed] AutoSave, Show Bubble, LEDs Off and Tooltips override works as expected.
+[fixed] Solo Mode menu works as expected.
+[fixed] Env Type in Solo menu in General Settings view now responds to Layer changes.
+[fixed] Using Split Point menu no longer crashes the Editor.
+[fixed] Resolved issues with some layers parameter access.
+[fixed] Oscillator 2 External Waveform for JP-8080 works as expected.
+[fixed] Resolved issue where Abort Process button didn't work after clicking it once during session.
+[fixed] Layer right click menu now sends layer to hardware as expected.
+[fixed] Program and Bank menus and displays update accordingly even when requests are disabled.
+[fixed] Resolved issue where Requests didn't work as expected with both models.
+[fixed] Librarian left and right arrow keys work as expected.
+
+[improvement] Re-opening Plug-in takes less time now.
+[improvement] Requesting Data from hardware works much faster.
+[improvement] Sending Data to hardware works much faster.
+[improvement] Section Locks data send back works much faster now.
+[improvement] Added more safety checks to prevent crashes.
+[improvement] Parameter processing rewritten. Near zero CPU load when tweaking parameters!
+[improvement] Completely rewrote SysEx parameters. Now taking less CPU to process.
+[improvement] Completely rewrote Randomizer function.
+[improvement] Patch up and down buttons respond faster.
+[improvement] Control Display shows control values when mouse is over a parameter. Disable or Enable from Utilities -> User Interface menu.
+
+[other] Removed unused entities from Bank Edit and Utilities menus.
+[other] Fixed Bank Edit and Utilities menu naming schemes.
+[other] Editor log file renamed to Roland JP-80x0 Editor.log
+[other] SysEx data sending now follows Roland spec. This means data transfers might take a bit longer, but this ensures data is processed properly in hardware.
+[other] Librarian view is no longer reset when request is cancelled.
+[other] Removed spinning ball and windows cursor mods when data is processing.
+
+<strong>Version 24.02.09</strong>
+
+[fixed] Resolved issue where Patch Velocity values were not sent properly to hardware.
+[fixed] Resolved issue where Global Data was not sent to hardware on Total Recall.
+[fixed] Resolved issue where librarian view would show wrong banks after Total Recall.
+[fixed] Resolved issue where SysEx controls would not work after patch change in some cases.
+[fixed] Resolved inaccurate control link issues.
+[fixed] Built-in MIDI clock is more accurate now and follow tempo change from DAW.
+[other] Improved Editor loading process.
+[other] Updated installer scripts on macOS.
+
+<strong>Version 24.01.30</strong>
+
+[new] Global Settings panel has been expanded with some missing system parameters which caused the synth to go out of tune during data recall.
+
+[fixed] Resolved issue where JP-8000 patch or performance data was not processed in librarian when Save Data To Slot was clicked.
+[fixed] Resolved issue where some popup menus caused DAW to crash while playback was on.
+[fixed] Resolved issue where MIDI data was duplicated while layers shared the same MIDI channel.
+[fixed] Resolved issue where Performance or Patch sending got stuck.
+[fixed] Resolved issue where Panel MIDI channel setting didn't work as expected.
+[fixed] About this Editor layer content corrected!
+
+[other] LED's now blink even when DAW playback is on.
+[other] General settings lock is off by default.
+[other] DAW CC passthrough is enabled by default.
+[other] Hardware Program Changes are enabled by default.
+[other] Removed PDFs from the installers. Up-to-date manual will be available online.
+
+[improvement] Graphics exported again due to faulty color codes.
+
+<strong>Version 24.01.25</strong>
+
+[fixed] Resolved issue where Performance selection in library view changed back to the first item after data was sent.
+[fixed] Automation parameter list fixes and cleanup.
+
+<strong>Version 24.01.24</strong>
+
+[fixed] Performance and Patch loading time improvements.
+
+<strong>Version 24.01.23</strong>
+
+[fixed] Resolved issue where save as would write bank in classic format even when JP-8080 presets was in the bank.
+[fixed] Resolved issue where Audio Unit and VST3 would not load.
+[fixed] Resolved issue where values would be recalled wrong on VST3.
+[fixed] Resolved issue where locking one section would lock the entire layer.
+[fixed] Resolved issue where loading UI DATA now keeps the model unchanged.
+[fixed] Resolved issue where user could not disable hardware auto-connect.
+[fixed] Resolved issue where user would see wrong bank names in Browser after recalling a project.
+
+[other] GAIA, SH-201 and WinJPLib import is disabled while rewriting the functions.
+[other] Changed version numbering to more simplified yy-mm-ddd format.
+
+<strong>Version 24.01.19</strong>
+
+[new] Tooltips assigned from Roland JP-8080 user manual per parameter.
+[new] If voice modulator is on, blue LED is lit next to the voice modulator button.
+[new] If velocity or control assigns are active, red LED is lit next to the morphing buttons.
+
+[fixed] Resolved issue where Control and Velocity morphing didn't work properly for Osc 2 Fine and Range knobs.
+[fixed] Parameter values now show correct values in the Editor control display while adjusting values.
+[fixed] Default "init patch" parameter values applied during initialization.
+[fixed] Panel Unison Detune works as expected.
+[fixed] Panel Transpose works as expected.
+[fixed] Installer scripts revised to avoid errors.
+
+<strong>Version 24.01.18</strong>
+
+[fixed] Resolved issue where Panel button could be toggled off manually.
+[fixed] Resolved issue where controls were not processed after requesting data to librarian.
+
+<strong>Version 24.01.15</strong>
+
+[new] Incoming MIDI clock signal received by Remote Input port is now passed to hardware.
+[new] Experimental clock follows Editor and DAW tempo information.
+[new] Drag'n'drop from Patches from librarian to part. Arrow will change to hand tool on top of set part name when drop can be performed.
+[new] Right Click menu for Lower and Upper panel select buttons. Initialize, Randomize, Copy / Paste etc.
+
+[fixed] Utilities manual links were broken. Now if file is found, it will open it properly.
+[fixed] Resolved issue where MIDI LEDs triggered twice under certain circumstances.
+[fixed] Total Recall didn't work as expected if DAW playback was hit too early during recall process. Now data is recalled properly and warning is shown to user if the process is interrupted to push the data to hardware again.
+[fixed] Resolved issue where MIDI I/O sate was recalled incorrectly.
+[fixed] Resolved issue where editor could crash during loading.
+[fixed] Performance Requests to librarian work as expected.
+[fixed] Editor Performance Mode state saved with Editor save state.
+[fixed] Hardware Program Changes are now processed within Editor.
+[fixed] Osc2 Range and Fine Tune velocity and control morph values work as expected.
+[fixed] Resolved issue where X-MOD velocity morph change didn't work as expected.
+
+[improvement] Disabled Upper and Lower panel switches while Panel Link is toggled on.
+[improvement] MIDI channel changes are sent to hardware after Performance request is completed.
+[improvement] DeviceID probing works better.
+[improvement] Patch file logging was off. Now works much faster.
+[improvement] Part focus works as expected now.
+[improvement] Made changes to how incoming data is processed, therefore gaining more performance.
+[improvement] When data is sent or received, mouse pointer shows default OS waiting state.
+[improvement] Patch data transmission is much faster to hardware.
+
+<strong>Version 23.12.30</strong>
+
+[new] WinJPLib import. PRF and PAT files.
+[new] Roland SH-201 import. MID, SHL and SHE files.
+[new] Roland SH-01 GAIA import. SVD files for now.
+
+[fixed] Organized automation parameters into groups (Groups shown at least in Logic Pro).
+[fixed] Importing J8K files is working again.
+[fixed] Some parameter changes caused eternal internal loop causing crash.
+
+<strong>Version 23.12.14</strong>
+
+[new] If MIDI is received from Performance MIDI Channel and Panel Link is on, incoming message is distributed to both layers.
+
+[fixed] When operating in DUAL mode with control for top and bottom banks in LINK, switching to SINGLE mode disables ability to select bank (LINK is still active and cannot be deselected). Switching back to DUAL mode re-enables unlinking.
+[fixed] AMP Section: With LFO1 MOD in OFF, LFO1 DEPTH knob controls manual panning (akin to hardware switch PAN > MANUAL). Was glad the software still supported this, if it was intentional a UI indication of some kind might be nice (changing OFF setting to MANUAL?)
+[fixed] In DUAL mode with top + bottom in LINK, most controls I tested only work for one bank at a time, "remembering" which bank was selected before LINK-ing. At one point I got them both to control at once but appears mostly to just control one bank at a time.
+[fixed] Loading user performances (PATCH / PERF button lit and clicking/selecting from dropdown PROG) .. Had many small issues.
+[fixed] Resolved issue where Voice Assign values didn't match between hardware and software with JP-8080.
+[fixed] Resolved issue where Solo SW values didn't match between hardware and software with JP-8080.

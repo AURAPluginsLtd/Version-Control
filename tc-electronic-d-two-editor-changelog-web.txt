@@ -8,5 +8,5 @@
 [note] If you had Editor defaults written previously, delete the file before applying this update.
 Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
 
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!

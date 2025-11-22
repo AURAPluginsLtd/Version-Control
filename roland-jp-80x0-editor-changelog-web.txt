@@ -13,3 +13,6 @@
 [other] Don't request Performance data if Global data fails to be received.
 [other] Improvements to Librarian requests.
 [other] Improved parameter drawing when controls are adjusted.
+
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!

@@ -1,0 +1,74 @@
+<strong>Version 25.08.30</strong>
+
+[new] Librarian Multi select read / write support added. Works with right click actions too.
+
+[improvement] Rewording of Bank Edit menu items in Librarian.
+[improvement] Bank and Program display in Editor shows better feedback of current mode.
+&nbsp&nbsp&nbsp&nbspi.e. Multimode Mixer = MULTI.
+&nbsp&nbsp&nbsp&nbspLibrarian = MULTI or SINGLE A...H based on edit mode.
+&nbsp&nbsp&nbsp&nbspOther tabs = SINGLE A...H
+[improvement] Other small performance tweaks.
+
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 25.08.28</strong>
+
+[new] Librarian now supports multi selection write and requests to and from hardware.
+
+[improvement] Ensure all parts are received before requesting multi data in.
+[improvement] Loading data via librarian works a bit faster.
+
+<strong>Version 25.08.23</strong>
+
+[new] Enable Automatic Update check from Utilities -&gt; Editor Preferences menu.
+[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
+[new] Warning message will appear if program and bank is allocated by any other part previously.
+[new] Disable Buffer overwrite warnings via Patch Librarian -&gt; Bank Edit -&gt; Librarian Preferences menu.
+[new] Librarian Search function extended to all file types.
+[new] Editor now shows a message if Lib Control is on &amp; Librarian is in Multimode and user attempts to click -/+ buttons.
+[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
+[new] Logging Enabled HUD now shows Editor transfer statuses.
+[new] Randomizer Settings are now stored in PREFS file.
+
+[fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
+[fixed] Multi data can now be stored to librarian, however, this method doesn't store parts.
+[fixed] Resolved issue where Category and Search files were not copied properly from lower to upper list.
+[fixed] Quick Edit view was stuck on when entering Multimode Mixer view.
+[fixed] Release All Locks button is no longer hidden from the view.
+[fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
+[fixed] Resolved issue where MIDI velocity meters crashed Editor under certain conditions.
+
+<strong>Version 25.04.27</strong>
+
+[new] Tooltips included. Tooltip text copied from microQ User Manual.
+
+[fixed] Requesting Data to Librarian didn't work as expected.
+[fixed] Setting Device ID before setting MIDI I/O didn't work as expected.
+[fixed] Discard changes button was not visible after librarian requests.
+
+<strong>Version 25.04.20</strong>
+
+[new] Complete overhaul of the microQ Editor with Apple Silicon support.
+[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
+[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
+[new] User Interface redesign.
+[new] Realtime resizable graphics.
+[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] MIDI Learn per CC control can be defined with right clicking on parameter.
+[new] LED is lit next to parameter name if MIDI CC is assigned.
+[new] Randomizer dice to randomize each section with one click.
+[new] Section controls to allow Section based presets and functions.
+[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
+[new] Copy and Paste items with normal copy / paste commands.
+[new] Onscreen Keyboard to trigger notes.
+[new] MIDI mappings can be loaded or saved to hdd.
+[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
+[new] Show tooltips on mouse hover *.
+[new] Show Bubble control of current parameter when adjusting value.
+[new] Show parameter values on Editor display when mouse is over the control.
+[new] Quick Edit view in Patch Librarian to adjust critical parameters while browsing the library.
+[new] Improved Pulse and Pulse 2 import function.
+
+[fixed] All previous bugs with the Editor should be cleared now.

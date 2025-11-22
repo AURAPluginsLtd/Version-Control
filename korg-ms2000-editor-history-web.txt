@@ -1,10 +1,14 @@
-<strong>Version 2.0.8 | 2020-Oct-10</strong>
+<strong>LEGACY Version 2.0.8 | 2020-Oct-10</strong>
 
 [new] Open Support Ticket Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
 [new] Check for Updates Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
 [new] DAW User Guides Menu item added to Patch Librarian -> Bank Edit -> Other Helpful Things..
 [fixed] Resolved issue where plug-in scan could potentially hang.
 [fixed] Resolved issue where Register Plug-in dialog would not open from Patch Librarian -> Bank Edit -> Register Plug-in.
+
+- - -
+
+[note] We are updating this Editor in 2026 Q1 to new framework with Standalone App, AAX, VST3 and macOS Silicon support!
 
 Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!

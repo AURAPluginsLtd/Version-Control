@@ -1,0 +1,96 @@
+<strong>Version 25.05.01</strong>
+
+[fixed] Loading UI Data now allows to select td2 files.
+
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[note] If you had Editor defaults written previously, delete the file before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
+
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 25.04.20</strong>
+
+[new] Section preset save as has a preset name in prefix.
+[new] Volume can be excluded from Randomizer.
+
+[fixed] Controls were stuck after data was received from hardware.
+[fixed] Sync To Host button now works with standalone application.
+[fixed] Randomizer works better for parameters with more than 2 values.
+[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
+[fixed] Delay / Tempo values could not be input by user input.
+[fixed] Rhythm On/Off toggle is excluded from rhythm randomizer.
+[fixed] XY Pad could potentially cause crash under certain circumstances.
+[fixed] AAX will now load in Windows.
+
+<strong>Version 25.03.18</strong>
+
+[new] Public Release.
+
+<strong>Version 25.03.10</strong>
+
+[fixed] Control display and Popup window displayed wrong information about drag'n'drop functions.
+[fixed] Drag'n'drop history is not cleared if MIDI I/O is not set prior to action.
+
+[other] Added MIDI Port checks to ensure data is not handled until synth is connected.
+
+<strong>Version 25.03.09</strong>
+
+[new] Added ability to select and manage multiple items in librarian view at once. Use shift + arrow keys or shift + mouse to select range.
+[new] 20 step Undo/Redo/History for Patch Librarian.
+[new] User can now choose if Program is sent to hardware from librarian when using arrow keys.
+    Option can be found from Utilities menu -> Librarian Preferences.
+[new] Enter key sends Program from Librarian to hardware.
+[new] Librarian key commands: Cmd/Ctrl + Z triggers Undo. Cmd/Ctrl + shift + Z triggers Redo.
+[new] Librarian key command: TAB now switches between list views.
+[new] Bank Init function reworked. Now when triggered, user is prompted for new name. Once name is typed, Initialized bank is created.
+[new] UI can be set to load in HD resolution by default.
+
+[fixed] Copy & Paste functions work as expected.
+[fixed] Saving and Loading section data work as expected.
+[fixed] Release all locks button had to be clicked twice after engaging the button once.
+[fixed] Bubble Controller was deactivated when different tab was chosen.
+[fixed] VST3 MIDI data was double processed in some cases.
+[fixed] Control Display shows Control Values even when playback is on.
+[fixed] UI toggles now hold their position after UI is reopened.
+[fixed] MIDI Learn works as expected.
+[fixed] MIDI Activity LED responds much faster now.
+[fixed] Parameter ranges are now displayed properly.
+[fixed] Librarian Tab is no longer stuck open when selecting programs in Librarian.
+[fixed] Renamed menu titles in Librarian Bank Edit menu.
+[fixed] Resolved issue where Load UI Data reset MIDI port assignments.
+[fixed] Double Clicking item didn't reset to Editor defaults even when mode was chosen in Utilities menu.
+
+[other] Various under the hood improvements to Librarian entity renaming and Save Data to Slot functions.
+[other] Various under the hood improvements to Program copy and paste functions.
+[other] Removed unused menu titles and made those unavailable which are not relevant.
+[other] Renamed Utilities -> Initialize Active Program TO Utilities -> Initialize Program.
+[other] Minor update to graphics for better readout.
+
+<strong>Version 25.01.15</strong>
+
+[fixed] Several layer drawing issues sorted.
+
+<strong>Version 25.01.14</strong>
+
+[fixed] Several fixes here and there.
+
+<strong>Version 24.12.21</strong>
+
+[fixed] Resolved issue where scrolling with Magic Mouse didn't work.
+
+<strong>Version 24.12.19</strong>
+
+[fixed] Resolved issue where Processing window was stuck on.
+
+<strong>Version 24.12.18</strong>
+
+[fixed] Improved librarian behavior.
+[fixed] Data TX/RX shouldn't take as long anymore.
+[fixed] Resolved some minor issues here and there.
+
+<strong>Version 24.12.16</strong>
+
+[new] Initial Pre-Release.

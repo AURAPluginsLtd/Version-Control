@@ -1,0 +1,145 @@
+<strong>Version 25.04.20</strong>
+
+[new] Section save as has program name as a prefix.
+[new] Option in Utilities menu for Send All Notes Off on program change command.
+[new] VCA Panning and Volume can be excluded from Randomizer.
+
+[fixed] Resolved issue where Device ID couldn't be set.
+[fixed] Improved UI loading time.
+[fixed] UI zoom settings work as expected.
+[fixed] Randomizer works better for parameters with more than 2 values.
+[fixed] Librarian drag'n'drop could potentially cause a crash.
+[fixed] Patch History could potentially cause a crash.
+[fixed] Controls could have been stuck after hardware data was received.
+[fixed] Tempo sync from Standalone App should work better now.
+[fixed] XY Pad could potentially cause crash under certain circumstances.
+[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
+[fixed] MIDI port assignments should now work as expected.
+[fixed] AAX will now load in Windows.
+
+[improvement] Layers drawing priorities reworked.
+
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 25.03.17</strong>
+
+[new] Complete overhaul of the Pulse Editor with Apple Silicon support.
+[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
+[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
+[new] User Interface redesign.
+[new] Support for Russian Filter Mod.
+[new] Realtime resizable graphics.
+[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] MIDI Learn per CC control can be defined with right clicking on parameter.
+[new] Green LED is lit next to parameter name if MIDI CC is assigned.
+[new] Randomizer dice to randomize each section with one click.
+[new] Section controls to allow Section based presets and functions.
+[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
+[new] Copy and Paste items with normal copy / paste commands.
+[new] Onscreen Keyboard to trigger notes.
+[new] MIDI mappings can be loaded or saved to hdd.
+[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
+[new] Show tooltips on mouse hover.
+[new] Show Bubble control of current parameter when adjusting value.
+[new] Show parameter values on Editor display when mouse is over the control.
+[new] Quick Edit view in Patch Librarian to adjust critical parameters while browsing the library.
+[new] Improved Pulse 2 import function.
+
+[fixed] All previous bugs with the Editor should be cleared now.
+
+[other] Windows: Our signing certificate expired, so use right click -> open to install. This might affect to AAX compatibility on Windows as well. We will build new installers when we get a signing certificate.
+
+<strong>Version 25.03.15</strong>
+
+[new] 20-50-step UNDO / REDO / History for Editor functions.
+[new] MIDI Mapping menu and assigned CC shown with right click atop of parameter.
+[new] If Parameter has MIDI CC assigned to it, a little green LED is shown before the param name.
+[new] Tooltips included. Tooltip text copied from Pulse User Manual.
+
+[fixed] MIDI CC is now sent to hardware even when Show Keyboard is toggled on.
+[fixed] Writing Programs to hardware didn't work properly.
+[fixed] Requesting Programs from hardware didn't work properly.
+[fixed] Advanced MIDI Settings text entity modified for LED tracking.
+[fixed] When CC parameter is active, Control Display indicates "CC|number" instead of just "number".
+[fixed] Program Names for Pulse 1 formatted files are titled "PULSE IMPORT" instead "INIT".
+[fixed] If Advanced MIDI Settings window was open when Editor was closed, button state was left on.
+
+[other] Librarian History can be set between 20-50-steps.
+[other] Clicking Keytracking or Osc Sync LED now makes the control hot for DAW for automation & discovery.
+[other] Rephrased Renaming box in Patch Librarian to avoid confusion.
+[other] Cleaned bottom bar and made room for future updates.
+[other] UI DATA Load & Save functions moved to Utilities Menu.
+[other] MIDI Mapping functions moved to Utilities Menu.
+[other] Bank Edit Menu non-bank related stuff moved to Utilities Menu.
+[other] Changelog background image update.
+[other] Advanced Edit button labels and colors changed.
+[other] Toggles with menu function has a new indicator stating it opens a menu.
+[other] If MIDI Learn is active and user clicks non-programmable parameter, a warning dialog will be shown.
+[other] If Pulse 2 Bank Import fails, a warning dialog will be shown.
+[other] Cleaned up unused image resources.
+
+<strong>Version 25.03.10</strong>
+
+[fixed] Control display and Popup window displayed wrong information about drag'n'drop functions.
+[fixed] Drag'n'drop history is not cleared if MIDI I/O is not set prior to action.
+
+[other] Added MIDI Port checks to ensure data is not handled until synth is connected.
+
+<strong>Version 25.03.08</strong>
+
+[new] Added ability to select and manage multiple items in librarian view at once. Use shift + arrow keys or shift + mouse to select range.
+
+[fixed] Russian filter mode was not stored / sent properly for FM modes.
+[fixed] Category and Search filter status was not properly reset during Bank Edit Discard function.
+
+[other] If undo / redo history has steps it can take, librarian changes has to be saved or discarded in order to change left bank selection.
+[other] Various under the hood improvements to Librarian entity renaming and Save Data to Slot functions.
+[other] Various under the hood improvements to Program copy and paste functions.
+
+<strong>Version 25.03.06</strong>
+
+[new] Bank Init function reworked. Now when triggered, user is prompted for new name. Once name is typed, Initialized bank is created.
+[new] Quick Edit View for Patch Librarian to allow quick editing of program without having to leave the Librarian tab.
+[new] 20 step Undo/Redo/History for Patch Librarian.
+[new] Set Program Category from Librarian with Right Click menu.
+[new] User can now choose if Program is sent to hardware from librarian when using arrow keys.
+    Option can be found from Utilities menu -> Librarian Preferences.
+[new] Enter key sends Program from Librarian to hardware.
+[new] Librarian key commands: Cmd/Ctrl + Z triggers Undo. Cmd/Ctrl + shift + Z triggers Redo.
+[new] Librarian key command: TAB now switches between list views.
+[new] Randomizer DICE to engage with Randomizer per section with single click.
+
+[fixed] Renamed Russian Filter modes. Get Filter Mod from https://www.virtual-music.at/en/waldorf-zone/
+[fixed] VST3 MIDI data was double processed in some cases.
+[fixed] Control Display shows Control Values even when playback is on.
+[fixed] Resolved issue where Editor would crash while closing window under certain circumstances.
+[fixed] Copy & Paste functions work as expected.
+[fixed] Saving and Loading section data work as expected.
+[fixed] Release all locks button had to be clicked twice after engaging the button once.
+[fixed] Bubble Controller was deactivated when different tab was chosen.
+[fixed] Renamed UI Filter titles to VCF as per Hardware specs.
+[fixed] Category Filtering glitch when browsing banks and several other flickering effects removed.
+[fixed] Section Presets work now as expected.
+[fixed] Patch Librarian didn't retain selected patch slot.
+[fixed] Resolved issue where Editor crashed on Utilities -> Initialize Active Program.
+[fixed] Bottom bar toggles were not performing as expected.
+[fixed] UI view is recalled properly after window is reopened.
+
+[other] Modified type menu exclusion list from randomizer. Osc and LFO shapes, Filter types, Glide mode, Arp Mode & Status and Envelope Looping are in the exclusion list.
+[other] Renamed Env 1 .. param names to Envelope 1 .. - Same with Env 2.
+[other] Improved Utilities menu structures. Obsolete items are removed for clarity.
+[other] Categories system simplified and Category filtering works much precisely now.
+[other] Color changed for Librarian Unsaved Changes notifier (!).
+[other] Reworked all Modulation Matrix sections to be more clear.
+[other] Renamed Utilities -> Initialize Active Program TO Utilities -> Initialize Program.
+
+<strong>Version 25.02.21</strong>
+
+[new] all new framework build with new features and improved stability.
+
+* note that some functions might not work as expected.
