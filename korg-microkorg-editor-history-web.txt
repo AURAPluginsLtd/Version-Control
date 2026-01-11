@@ -6,5 +6,6 @@
 
 [note] We are updating this Editor in 2026 Q1 to new framework with Standalone App, AAX, VST3 and macOS Silicon support!
 
-Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our Korg microKorg Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!

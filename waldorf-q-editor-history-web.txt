@@ -13,7 +13,8 @@
 [other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our Waldorf Q Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 25.08.28</strong>

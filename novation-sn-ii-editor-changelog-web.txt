@@ -2,5 +2,6 @@
 
 [other] Blocked outgoing midi stream while device initialization is in progress.
 
-Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our Novation Nova II / Supernova II Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!

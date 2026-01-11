@@ -16,8 +16,9 @@
 [other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? Join our Discord <a href="https://discord.gg/TeG7ukYcVW">https://discord.gg/TeG7ukYcVW</a>
-Want to support our development and free updates? <a href="https://ko-fi.com/auraplugins">https://ko-fi.com/auraplugins</a>
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our Waldorf Pulse 2 Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 25.04.20</strong>
 
