@@ -1,25 +1,21 @@
-Version    25.04.20                                                               2025-Apr-20
+Version    26.01.11                                                               2026-Jan-11
 
-[New] Section save as has program name as a prefix.
-[New] Option in Utilities menu for Send All Notes Off on program change command.
-[New] VCA Panning and Volume can be excluded from Randomizer.
+[New] Multi select read and write options added to librarian bank edit menu
+    and right click menu.
+[New] MIDI I/O can be stored as defaults in PREFS file via Utilities menu.
+[New] Randomizer settings are stored in the PREFS file upon closing Advanced MIDI
+    Settings view.
+[New] Automatic Update check can be enabled/disabled via Utilities menu.
+[New] LOG status display now shows Editor status, ie. Ready, Hardware not detected etc.
 
-[Fixed] Resolved issue where Device ID couldn't be set.
-[Fixed] Improved UI loading time.
-[Fixed] UI zoom settings work as expected.
-[Fixed] Randomizer works better for parameters with more than 2 values.
-[Fixed] Librarian drag'n'drop could potentially cause a crash.
-[Fixed] Patch History could potentially cause a crash.
-[Fixed] Controls could have been stuck after hardware data was received.
-[Fixed] Tempo sync from Standalone App should work better now.
-[Fixed] XY Pad could potentially cause crash under certain circumstances.
-[Fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by 
-    default.
-[Fixed] MIDI port assignments should now work as expected.
-[Fixed] AAX will now load in Windows.
+[Fixed] MIDI Channel change didn't route MIDI to hardware as expected.
+[Fixed] Resolved an issue where Editor would crash opening the UI while DAW playback was on.
 
-[Improvement] Layers drawing priorities reworked.
+[Improvement] License system re-worked - no action needed from users.
+[Improvement] Drawing the UI elements re-worked a bit to reduce drawing issues on
+    certain setups.
+[Improvement] Double click setting via Utilities menu is now working much better.
 
-[Other] User Manual is not yet available. Use tooltips to show function purpose.
-    Most are self-explanatory.
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[Other] Product URLs updated to support upcoming User Manual update.
+    Use tooltips to show function purpose. Most are self-explanatory.
+[Other] Windows: Our signing certificate expired, so use right click -> open to install.
