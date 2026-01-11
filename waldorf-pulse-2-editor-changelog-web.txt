@@ -1,27 +1,20 @@
-<strong>Version 25.04.20</strong>
+<strong>Version 26.01.11</strong>
 
-[new] Section save as has program name as a prefix.
-[new] Option in Utilities menu for Send All Notes Off on program change command.
-[new] VCA Panning and Volume can be excluded from Randomizer.
+[new] Multi select read and write options added to librarian bank edit menu and right click menu.
+[new] MIDI I/O can be stored as defaults in PREFS file via Utilities menu.
+[new] Randomizer settings are stored in the PREFS file upon closing Advanced MIDI Settings view.
+[new] Automatic Update check can be enabled/disabled via Utilities menu.
+[new] LOG status display now shows Editor status, ie. Ready, Hardware not detected etc.
 
-[fixed] Resolved issue where Device ID couldn't be set.
-[fixed] Improved UI loading time.
-[fixed] UI zoom settings work as expected.
-[fixed] Randomizer works better for parameters with more than 2 values.
-[fixed] Librarian drag'n'drop could potentially cause a crash.
-[fixed] Patch History could potentially cause a crash.
-[fixed] Controls could have been stuck after hardware data was received.
-[fixed] Tempo sync from Standalone App should work better now.
-[fixed] XY Pad could potentially cause crash under certain circumstances.
-[fixed] Quick Edit view can be toggled on / off when defaults are set to show Quick Edit by default.
-[fixed] MIDI port assignments should now work as expected.
-[fixed] Potential crash fixed while using mouse wheel to adjust parameter values.
-[fixed] AAX will now load in Windows.
+[fixed] MIDI Channel change didn't route MIDI to hardware as expected.
+[fixed] Resolved an issue where Editor would crash opening the UI while DAW playback was on.
 
-[improvement] Layers drawing priorities reworked.
+[improvement] License system re-worked - no action needed from users.
+[improvement] Drawing the UI elements re-worked a bit to reduce drawing issues on certain setups.
+[improvement] Double click setting via Utilities menu is now working much better.
 
-[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a> or <a href="https://discord.gg/TeG7ukYcVW">Join our Discord</a>
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+Issues, praises, suggestions? Join our Discord <a href="https://discord.gg/TeG7ukYcVW">https://discord.gg/TeG7ukYcVW</a>
+Want to support our development and free updates? <a href="https://ko-fi.com/auraplugins">https://ko-fi.com/auraplugins</a>
