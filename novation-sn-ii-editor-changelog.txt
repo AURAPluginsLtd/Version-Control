@@ -1,0 +1,34 @@
+Version    26.01.10                                                               2026-Jan-10
+
+[new] Complete overhaul of the SN II Editor with Apple Silicon support.
+[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
+[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
+[new] User Interface redesign.
+[new] Realtime resizable graphics.
+[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] MIDI Learn per CC control can be defined with right clicking on parameter.
+[new] LED is lit below the parameter name if MIDI CC is assigned.
+[new] Randomizer dice to randomize each section with one click.
+[new] Section controls to allow Section based presets and functions.
+[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
+[new] Copy and Paste items with normal copy / paste commands.
+[new] Onscreen Keyboard to trigger notes.
+[new] MIDI mappings can be loaded or saved to hdd.
+[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
+[new] Show Bubble control of current parameter when adjusting value.
+[new] Show parameter values on Editor display when mouse is over the control.
+[new] Adjust parameter modulation with shift + mouse. Reset modulation to default / last 
+    loaded value with shift + double click.
+[new] Quick Edit mode in Librarian view with assignable XY Pad and essential controls.
+[new] Tooltips included from Nova II / Supernova II User Manual.
+[new] Top bar has indicator for data transmission back and forth.
+
+[fixed] All previous bugs with the Editor should be cleared now.
+
+[note] Performance mode is required.
+[note] Global MIDI Channel should be set to 16.
+
+[other] User Manual is not yet available.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[other] Join our amazing Discord community! At the time of this release, we have 1300+ users!
