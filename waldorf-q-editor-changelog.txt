@@ -1,18 +1,11 @@
-Version    25.08.30                                                               2025-Aug-30
+Version    26.01.12                                                               2026-Jan-12
 
-[New] Librarian Multi select read / write support added. Works with right click actions too.
+[Improvement] Prevented some failing conditions to occur while Editor UI was reloaded.
 
-[Improvement] Rewording of Bank Edit menu items in Librarian.
-[Improvement] Bank and Program display in Editor shows better feedback of current mode.
-    i.e. Multimode Mixer = MULTI M/X.
-    Librarian = MULTI M/X, PATTERN or SINGLE A,B,C,X based on edit mode.
-    Sequencer tab = PATTERN
-    Other tabs = SINGLE A,B,C,X
-[Improvement] Other small performance tweaks.
-
-[Other] User Manual is not yet available. Use tooltips to show function purpose. 
-    Most are self-explanatory.
+[Other] Product URLs updated to support upcoming User Manual update.
+    Use tooltips to show function purpose. Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Waldorf Q Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
