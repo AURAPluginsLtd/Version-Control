@@ -1,17 +1,27 @@
-Version    25.08.30                                                               2025-Aug-30
+Version    26.01.25                                                               2026-Jan-25
 
-[New] Librarian Multi select read / write support added. Works with right click actions too.
+[Fixed] Resolved issue where update url was scoped even when the option was disabled from
+    Utilities menu.
+[Fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID,
+    Global MIDI Ch, UI SKIN and Main tab values.
+[Fixed] Resolved issue where double clicking item from the librarian would show a warning
+    message under certain circumstances.
+[Fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical
+    glitches.
+[Fixed] Search results didn't show the entity names properly in the librarian.
+[Fixed] Wrong data install path was shown in librarian if patch files were missing.
+[Fixed] Global Control TX action was addressed to Global Control RX.
+[Fixed] Effect 2 parameters were assigned wrong when changing FX type.
 
-[Improvement] Rewording of Bank Edit menu items in Librarian.
-[Improvement] Bank and Program display in Editor shows better feedback of current mode.
-    i.e. Multimode Mixer = MULTI.
-    Librarian = MULTI or SINGLE A...C based on edit mode.
-    Other tabs = SINGLE A...C
-[Improvement] Other small performance tweaks.
+[Improvement] AAX loads faster with better stability.
+[Improvement] Librarian functions and stability improved.
+[Improvement] XY Pad had wrong defaults set to it.
+[Improvement] Vavra compatibility added for where it was failing.
 
-[Other] User Manual is not yet available. Use tooltips to show function purpose.
-    Most are self-explanatory.
+[Other] Product URLs updated to support upcoming User Manual update.
+    Use tooltips to show function purpose. Most are self-explanatory.
 [Other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Waldorf microQ Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
