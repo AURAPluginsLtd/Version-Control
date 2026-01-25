@@ -1,9 +1,18 @@
-Version    26.01.11                                                               2026-Jan-11
+Version    26.01.25                                                               2026-Jan-25
 
-[Fixed] Wrong data install path was shown in librarian if patch files were missing.
-[Fixed] Resolved an issue where Editor would crash opening the UI while DAW playback was on.
+[Fixed] Resolved issue where update url was scoped even when the option was disabled from
+    Utilities menu.
+[Fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID,
+    Global MIDI Ch, UI SKIN and Main tab values.
+[Fixed] Resolved issue where double clicking item from the librarian would show a warning
+    message under certain circumstances.
+[Fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical
+    glitches.
+[Fixed] Added missing O1&2 Wt/Smp destinations to Modulation Matrix menus.
 
-[Improvement] Prevented some failing conditions to occur while Editor UI was reloaded.
+[Improvement] AAX loads faster with better stability.
+[Improvement] Librarian functions and stability improved.
+[Improvement] XY Pad had wrong defaults set to it.
 
 [Other] Product URLs updated to support upcoming User Manual update.
     Use tooltips to show function purpose. Most are self-explanatory.
