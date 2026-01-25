@@ -1,3 +1,20 @@
+<strong>Version 26.01.25</strong>
+
+[fixed] Resolved issue where update url was scoped even when the option was disabled from Utilities menu.
+[fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID and Main tab values.
+[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
+[fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical glitches.
+
+[improvement] AAX loads faster with better stability.
+[improvement] Librarian functions and stability improved.
+
+[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our Waldorf Pulse Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
 <strong>Version 26.01.11</strong>
 
 [new] Multi select read and write options added to librarian bank edit menu and right click menu.
@@ -12,13 +29,6 @@
 [improvement] License system re-worked - no action needed from users.
 [improvement] Drawing the UI elements re-worked a bit to reduce drawing issues on certain setups.
 [improvement] Double click setting via Utilities menu is now working much better.
-
-[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our Waldorf Pulse Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 25.04.20</strong>
 
