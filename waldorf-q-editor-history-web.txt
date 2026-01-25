@@ -1,6 +1,14 @@
-<strong>Version 26.01.12</strong>
+<strong>Version 26.01.25</strong>
 
-[improvement] Prevented some failing conditions to occur while Editor UI was reloaded.
+[fixed] Resolved issue where update url was scoped even when the option was disabled from Utilities menu.
+[fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID, Global MIDI Ch, UI SKIN and Main tab values.
+[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
+[fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical glitches.
+[fixed] Global Control TX action was addressed to Global Control RX.
+
+[improvement] AAX loads faster with better stability.
+[improvement] Librarian functions and stability improved.
+[improvement] XY Pad had wrong defaults set to it.
 
 [other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
@@ -8,6 +16,10 @@
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
 Join our Waldorf Q Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 26.01.12</strong>
+
+[improvement] Prevented some failing conditions to occur while Editor UI was reloaded.
 
 <strong>Version 25.08.30</strong>
 
@@ -20,9 +32,6 @@ Want to support our development and free updates? <a href="https://auraplugins.c
 &nbsp&nbsp&nbsp&nbspSequencer tab = PATTERN
 &nbsp&nbsp&nbsp&nbspOther tabs = SINGLE A,B,C,X
 [improvement] Other small performance tweaks.
-
-[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
 
 <strong>Version 25.08.28</strong>
 

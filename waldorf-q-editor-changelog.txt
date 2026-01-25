@@ -1,6 +1,18 @@
-Version    26.01.12                                                               2026-Jan-12
+Version    26.01.25                                                               2026-Jan-25
 
-[Improvement] Prevented some failing conditions to occur while Editor UI was reloaded.
+[Fixed] Resolved issue where update url was scoped even when the option was disabled from
+    Utilities menu.
+[Fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID,
+    Global MIDI Ch, UI SKIN and Main tab values.
+[Fixed] Resolved issue where double clicking item from the librarian would show a warning
+    message under certain circumstances.
+[Fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical
+    glitches.
+[Fixed] Global Control TX action was addressed to Global Control RX.
+
+[Improvement] AAX loads faster with better stability.
+[Improvement] Librarian functions and stability improved.
+[Improvement] XY Pad had wrong defaults set to it.
 
 [Other] Product URLs updated to support upcoming User Manual update.
     Use tooltips to show function purpose. Most are self-explanatory.
