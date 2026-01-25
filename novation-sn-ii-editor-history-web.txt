@@ -1,11 +1,30 @@
-<strong>LEGACY Version 1.1.4 | 2020-Feb-07</strong>
+<strong>Version 26.01.25</strong>
 
-[other] Blocked outgoing midi stream while device initialization is in progress.
+[new] Complete overhaul of the SN2x Editor with Apple Silicon support.
+[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
+[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
+[new] User Interface redesign - requires macOS with Metal support.
+[new] Realtime resizable graphics.
+[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] MIDI Learn per CC control can be defined with right clicking on parameter.
+[new] LED is lit below the parameter name if MIDI CC is assigned.
+[new] Randomizer dice to randomize each section with one click.
+[new] Section controls to allow Section based presets and functions.
+[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
+[new] Copy and Paste items with normal copy / paste commands.
+[new] Onscreen Keyboard to trigger notes.
+[new] MIDI mappings can be loaded or saved to hdd.
+[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
+[new] Show Bubble control of current parameter when adjusting value.
+[new] Show parameter values on Editor display when mouse is over the control.
+[new] Adjust parameter Mod assignment with shift + mouse. Reset Mod assignment to default / last loaded value with shift + double click.
 
-- - -
+[fixed] All previous bugs with the Editor should be cleared now.
 
-[note] We are updating this Editor in 2026 Q1 to new framework with Standalone App, AAX, VST3 and macOS Silicon support!
+[other] User Manual is not yet available. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -&gt; open to install.
 
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our Novation Nova II / Supernova II Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Join our Novation SN II Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
