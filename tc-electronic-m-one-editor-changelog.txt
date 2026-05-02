@@ -1,3 +1,13 @@
-Version    25.xx.xx                                                               2026-TBA-xx
+Version    26.05.03                                                               2026-May-03
 
-[new] in development
+[New] Initial Release.
+
+[Note] Current version is optimized for M-One XL models.
+[Note] M-One XL Firmware 2.09 was in our lab XL, but Editor should work with firmwares
+    below that.
+[Note] Global MIDI Channel should be set to 1.
+[Note] Device ID should be set to 0.
+
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our TC Electronic M-One Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
