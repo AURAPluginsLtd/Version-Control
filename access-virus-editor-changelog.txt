@@ -1,20 +1,26 @@
-Version    25.01.24                                                               2025-Jan-24
+Version    26.05.03                                                               2026-May-03
 
-[new] Atomizer Mode control now available for Virus TI users in FX / SETTINGS #2 tab.
-[new] When Filter, LFO or Vocoder Link is toggled on, linked parameters are set in
-    parallel or offset from each other. Offset option can be set via Utilities menu.
-[new] If Hypersaw is selected in Osc 1 or Osc 2, ”sync 2>1” text changes to ”x-sync”.
-[new] Added X-Sync Frequency controller for Osc 1 when Hypersaw is selected.
-[new] MIDI ports are checked frequently to detect connection status.
+[new] Velocity Assignment can be added to dedicated controls with shift+mouse drag.
+[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
+[new] Improved menu icons for buttons and UI where menu will be opened.
+[new] MIDI Learn can be activated with right clicking on parameter.
+[new] LED is lit below parameter if MIDI CC is assigned.
+[new] Randomizer dice added to randomize each section with one click.
+[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
+[new] Added option to disable program sending via Librarian when using arrow keys.
+[new] Copy and Paste items with normal copy / paste commands.
+[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
+[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
+[new] Librarian Search function extended to both file types.
+[new] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user attempts to click -/+ buttons.
+[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
+[new] Logging Enabled HUD now shows Editor transfer statuses.
+[new] Filter area has notification shown if Vocoder is active.
+[new] Randomizer Settings are now stored in PREFS file.
+[new] Section save as has part program name as a prefix.
+[new] Option in Utilities menu for Send All Notes Off on program change command.
+[new] Panning and Volume can be excluded from Randomizer.
+[new] All graphics elements had rework done to them.
 
-[fixed] If Device ID is set manually from Multimode Settings before settings MIDI ports,
-    hardware detection works as expected.
-[fixed] Resolved issue where Delay Clock mode didn’t draw layers correctly.
-[fixed] Resolved issue where Librarian Data button came visible after search was closed.
-[fixed] Resolved issue where Controls didn't send out values in some cases.
-[fixed] Resolved issue where Solo and Mute toggles didn't work as expected.
-[fixed] Resolved issue where Layers were shown even when they were not supposed to.
-
-[other] Improved librarian requests.
-[other] Improved parameter drawing when controls are adjusted.
-[other] Various performance improvements.
+20+ Fixes, Improvements and other changes to make the plug-in work more reliably!
