@@ -1,3 +1,50 @@
+<strong>Version 26.05.11</strong>
+
+[new] Librarian Multi select read / write support added. Works with right click actions too.
+[new] Multi-select items in Patch Librarian for copy / paste / drag'n'drop.
+[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
+[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
+[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
+[new] Logging Enabled HUD now shows Editor transfer statuses.
+[new] Librarian will alert if Patches folder is not located.
+[new] Editor now passes audio thru in plug-in chain.
+[new] Request System settings toggle added to SETUP page.
+
+[fixed] Program Changes now work as expected.
+[fixed] Quick Help background image update.
+[fixed] Request Toggle LED removed.
+[fixed] Search function in Librarian works as expected.
+[fixed] Delay Time display is now shown even when RHYTHM mode is toggled on.
+[fixed] Tap 1 -> Tap 10 delay values are now shown properly in RHYTHM mode.
+[fixed] Some control IDs for SysEx controls were off.
+[fixed] Resolved issue where UI would be blocked after tempo change.
+[fixed] Resolved issue where update url was scoped even when the option was disabled from Utilities menu.
+[fixed] Resolved issue where Load UI Data function changed MIDI I/O, SysEx ID, Global MIDI Ch and Main tab values.
+[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
+[fixed] UI Size menu is now set to Normal when loading UI Data to prevent graphical glitches.
+[fixed] Resolved an issue where Editor would crash opening the UI while DAW playback was on.
+[fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
+[fixed] Resolved issue where Search files were not copied properly from right to left list.
+[fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
+[fixed] Editor Preferences in Utilities menu were off.
+[fixed] Tempo sync from Standalone App should work better now.
+
+[improvement] AAX loads faster with better stability.
+[improvement] Librarian functions and stability improved.
+[improvement] Rewording of Bank Edit menu items in Librarian.
+[improvement] Adjusted SysEx timer to ensure data is processed properly.
+[improvement] Editor loads up a bit faster now.
+
+[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+[note] If you had Editor defaults written previously, delete the file before applying this update.
+Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
+
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our TC Electronic D-Two Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
 <strong>Version 25.05.01</strong>
 
 [fixed] Loading UI Data now allows to select td2 files.
@@ -7,10 +54,6 @@
 
 [note] If you had Editor defaults written previously, delete the file before applying this update.
 Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our TC Electronic D-Two Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 25.04.20</strong>
 

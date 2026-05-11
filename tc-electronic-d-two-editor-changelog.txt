@@ -1,6 +1,16 @@
-Version    25.05.01                                                               2025-May-01
+Version    26.05.11                                                               2026-May-11
 
-[Fixed] Loading UI Data now allows to select td2 files.
+[New] Librarian Multi select read / write support added. Works with right click actions too.
+[New] Multi-select items in Patch Librarian for copy / paste / drag'n'drop.
+[New] Enable Automatic Update check from Utilities -> Editor Preferences menu.
+[New] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
+[New] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
+[New] Logging Enabled HUD now shows Editor transfer statuses.
+[New] Librarian will alert if Patches folder is not located.
+[New] Editor now passes audio thru in plug-in chain.
+[New] Request System settings toggle added to SETUP page.
+
+[Fixed] Resolved issues with 15+ cases, read more on our webiste!
 
 [Other] User Manual is not yet available. Use tooltips to show function purpose.
     Most are self-explanatory.
