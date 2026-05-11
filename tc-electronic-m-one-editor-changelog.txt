@@ -1,10 +1,15 @@
-Version    26.05.03                                                               2026-May-03
+Version    26.05.11                                                               2026-May-11
 
-[New] Initial Release.
+[New] M-One standard has been tested and verified to work with this release.
+[New] System setting tab now has a button to request System data.
 
-[Note] Current version is optimized for M-One XL models.
-[Note] M-One XL Firmware 2.09 was in our lab XL, but Editor should work with firmwares
-    below that.
+[Fixed] Editor would crash while setting different model from the User Interface.
+[Fixed] Program is sent to hardware when name is altered.
+
+[Improvement] Graphics flickering reduced.
+[Improvement] Editor initializes a lot faster.
+
+[Note] Tested and verified to work with with M-One Firmware 1.10 and M-One XL Firmware 2.09
 [Note] Global MIDI Channel should be set to 1.
 [Note] Device ID should be set to 0.
 

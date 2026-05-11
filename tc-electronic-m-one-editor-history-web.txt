@@ -1,12 +1,22 @@
-<strong>Version 2026-05-03</strong>
+<strong>Version 2026-05-11</strong>
 
-[new] Initial Release.
+[new] M-One standard has been tested and verified to work with this release.
+[new] System setting tab now has a button to request System data.
 
-[note] Current version is optimized for M-One XL models.
-[note] M-One XL Firmware 2.09 was in our lab XL, but Editor should work with firmwares below that.
+[fixed] Editor would crash while setting different model from the User Interface.
+[fixed] Program is sent to hardware when name is altered.
+
+[improvement] Graphics flickering reduced.
+[improvement] Editor initializes a lot faster.
+
+[note] Tested and verified to work with with M-One Firmware 1.10 and M-One XL Firmware 2.09
 [note] Global MIDI Channel should be set to 1.
 [note] Device ID should be set to 0.
 
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
 Join our TC Electronic M-One Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
 Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
+<strong>Version 2026-05-03</strong>
+
+[new] Initial Release.
