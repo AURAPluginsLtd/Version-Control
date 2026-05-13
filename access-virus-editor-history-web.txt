@@ -1,3 +1,21 @@
+<strong>Version 26.05.13</strong>
+
+[new] Librarian has option to sort Lower list items alphabetically.
+
+[fixed] Bank request and write functions works as expected.
+[fixed] TI Master Volume pot is now available if set from Editor Preferences menu.
+[fixed] TI Atomizer toggle works as expected.
+[fixed] TI Distortion Mix knob was not shown properly.
+
+[improvement] TI Envelope view dropdown area is wider.
+[improvement] User Interface elements are now drawn properly when User Interface is opened.
+
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>
+Join our Access Virus Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>
+
 <strong>Version 26.05.03</strong>
 
 [new] Velocity Assignment can be added to dedicated controls with shift+mouse drag.
@@ -49,10 +67,6 @@
 [other] Quick Edit view removed from Multimode Mixer view.
 [other] Product URLs updated. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>
-Join our Access Virus Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>
 
 <strong>Version 25.01.24</strong>
 

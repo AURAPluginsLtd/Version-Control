@@ -1,53 +1,15 @@
-<strong>Version 26.05.03</strong>
+<strong>Version 26.05.13</strong>
 
-[new] Velocity Assignment can be added to dedicated controls with shift+mouse drag.
-[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Improved menu icons for buttons and UI where menu will be opened.
-[new] MIDI Learn can be activated with right clicking on parameter.
-[new] LED is lit below parameter if MIDI CC is assigned.
-[new] Randomizer dice added to randomize each section with one click.
-[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
-[new] Added option to disable program sending via Librarian when using arrow keys.
-[new] Copy and Paste items with normal copy / paste commands.
-[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
-[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
-[new] Librarian Search function extended to both file types.
-[new] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user attempts to click -/+ buttons.
-[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
-[new] Logging Enabled HUD now shows Editor transfer statuses.
-[new] Filter area has notification shown if Vocoder is active.
-[new] Randomizer Settings are now stored in PREFS file.
-[new] Section save as has part program name as a prefix.
-[new] Option in Utilities menu for Send All Notes Off on program change command.
-[new] Panning and Volume can be excluded from Randomizer.
-[new] All graphics elements had rework done to them.
+[new] Librarian has option to sort Lower list items alphabetically.
 
-[fixed] Resolved issue where Demo Limitation layer was shown incorrectly.
-[fixed] Multi data can now be stored to librarian, however, this method doesn't store parts. Use Save / Load UI Data from Utilities menu instead.
-[fixed] Release All Locks button is no longer hidden from the view.
-[fixed] Controls could have been stuck after hardware data was received.
-[fixed] Resolved issue where Category and Search files were not copied properly from lower to upper list.
-[fixed] Resolved issue where Editor would crash on Program Change messages.
-[fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID, Global MIDI Ch, Hardware Model, UI SKIN and Main tab values.
-[fixed] Resolved issue where Quick Edit view crashed Editor under certain conditions.
-[fixed] Resolved issue where MIDI velocity meters crashed Editor under certain conditions.
-[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
-[fixed] Resolved an issue where Editor would crash opening the UI while DAW playback was on.
-[fixed] Discard changes button was not visible after certain librarian modifications.
-[fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical glitches.
+[fixed] Bank request and write functions works as expected.
+[fixed] TI Master Volume pot is now available if set from Editor Preferences menu.
+[fixed] TI Atomizer toggle works as expected.
+[fixed] TI Distortion Mix knob was not shown properly.
 
-[improvement] AAX loads faster with better stability.
-[improvement] Loading data via librarian works a bit faster.
-[improvement] Librarian functions and stability improved.
-[improvement] Librarian Category filtering can be done with cat 1 or cat 2 individually.
-[improvement] Reworked Utilities menu. Librarian related items moved to Bank Edit menu.
-[improvement] Reworked Bank Edit menu. Non-librarian items moved to Utilities menu.
-[improvement] TUS Osirus / OsTIrus compatibility improved.
-[improvement] Other small performance tweaks.
+[improvement] TI Envelope view dropdown area is wider.
+[improvement] User Interface elements are now drawn properly when User Interface is opened.
 
-[other] Quick Edit view removed from Multimode Mixer view.
-[other] Product URLs updated. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>

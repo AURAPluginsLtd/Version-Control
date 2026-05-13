@@ -1,26 +1,13 @@
-Version    26.05.03                                                               2026-May-03
+Version    26.05.13                                                               2026-May-13
 
-[new] Velocity Assignment can be added to dedicated controls with shift+mouse drag.
-[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Improved menu icons for buttons and UI where menu will be opened.
-[new] MIDI Learn can be activated with right clicking on parameter.
-[new] LED is lit below parameter if MIDI CC is assigned.
-[new] Randomizer dice added to randomize each section with one click.
-[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
-[new] Added option to disable program sending via Librarian when using arrow keys.
-[new] Copy and Paste items with normal copy / paste commands.
-[new] Enable Automatic Update check from Utilities -> Editor Preferences menu.
-[new] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
-[new] Librarian Search function extended to both file types.
-[new] Editor now shows a message if Lib Control is on & Librarian is in Multimode and user attempts to click -/+ buttons.
-[new] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
-[new] Logging Enabled HUD now shows Editor transfer statuses.
-[new] Filter area has notification shown if Vocoder is active.
-[new] Randomizer Settings are now stored in PREFS file.
-[new] Section save as has part program name as a prefix.
-[new] Option in Utilities menu for Send All Notes Off on program change command.
-[new] Panning and Volume can be excluded from Randomizer.
-[new] All graphics elements had rework done to them.
+[new] Librarian has option to sort Lower list items alphabetically.
 
-20+ Fixes, Improvements and other changes to make the plug-in work more reliably!
+[fixed] Bank request and write functions works as expected.
+[fixed] TI Master Volume pot is now available if set from Editor Preferences menu.
+[fixed] TI Atomizer toggle works as expected.
+[fixed] TI Distortion Mix knob was not shown properly.
+
+[improvement] TI Envelope view dropdown area is wider.
+[improvement] User Interface elements are now drawn properly when User Interface is opened.
+
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
