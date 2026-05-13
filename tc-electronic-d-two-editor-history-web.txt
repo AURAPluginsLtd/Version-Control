@@ -1,3 +1,16 @@
+<strong>Version 26.05.13</strong>
+
+[new] Librarian has option to sort right list items alphabetically.
+
+[fixed] Some system parameter request conditions could lead to endless loop.
+
+[improvement] Editor initializes a lot faster (yet again).
+[improvement] Librarian requests are processed faster.
+
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our TC Electronic D-Two Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
 <strong>Version 26.05.11</strong>
 
 [new] Librarian Multi select read / write support added. Works with right click actions too.
@@ -40,10 +53,6 @@
 
 [note] If you had Editor defaults written previously, delete the file before applying this update.
 Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove editor.default -file.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our TC Electronic D-Two Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 25.05.01</strong>
 

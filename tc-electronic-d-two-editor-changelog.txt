@@ -1,25 +1,11 @@
-Version    26.05.11                                                               2026-May-11
+Version    26.05.13                                                               2026-May-13
 
-[New] Librarian Multi select read / write support added. Works with right click actions too.
-[New] Multi-select items in Patch Librarian for copy / paste / drag'n'drop.
-[New] Enable Automatic Update check from Utilities -> Editor Preferences menu.
-[New] Enable to use current MIDI ports as defaults when inserting the Editor (plug-in only).
-[New] Editor now shows a message with instructions, if Librarian data is dragged incorrectly.
-[New] Logging Enabled HUD now shows Editor transfer statuses.
-[New] Librarian will alert if Patches folder is not located.
-[New] Editor now passes audio thru in plug-in chain.
-[New] Request System settings toggle added to SETUP page.
+[New] Librarian has option to sort right list items alphabetically.
 
-[Fixed] Resolved issues with 15+ cases, read more on our webiste!
+[Fixed] Some system parameter request conditions could lead to endless loop.
 
-[Other] User Manual is not yet available. Use tooltips to show function purpose.
-    Most are self-explanatory.
-[Other] Windows: Our signing certificate expired, so use right click -> open to install.
-
-[Note] If you had Editor defaults written previously, delete the file
-    before applying this update.
-Open /{yourusername}/Music/AURA Plugins/{editor name}/UI Data/ and remove
-    editor.default -file.
+[Improvement] Editor initializes a lot faster (yet again).
+[Improvement] Librarian requests are processed faster.
 
 Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
 Want to support our development and free updates? https://ko-fi.com/auraplugins
