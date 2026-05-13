@@ -1,17 +1,12 @@
-Version    26.05.11                                                               2026-May-11
+Version    26.05.13                                                               2026-May-13
 
-[New] M-One standard has been tested and verified to work with this release.
-[New] System setting tab now has a button to request System data.
+[New] Librarian has option to sort right list items alphabetically.
 
-[Fixed] Editor would crash while setting different model from the User Interface.
-[Fixed] Program is sent to hardware when name is altered.
+[Fixed] Some system parameter request conditions could lead to endless loop.
+[Fixed] Resolved issue where search toggle would crash the editor.
 
-[Improvement] Graphics flickering reduced.
-[Improvement] Editor initializes a lot faster.
-
-[Note] Tested and verified to work with with M-One Firmware 1.10 and M-One XL Firmware 2.09
-[Note] Global MIDI Channel should be set to 1.
-[Note] Device ID should be set to 0.
+[Improvement] Editor initializes a lot faster (yet again).
+[Improvement] Librarian requests are processed faster.
 
 Issues with Editor? https://auraplugins.com/my-account/tickets/
 Join our TC Electronic M-One Editor community over at https://discord.gg/TeG7ukYcVW

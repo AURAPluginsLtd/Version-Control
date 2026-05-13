@@ -1,3 +1,17 @@
+<strong>Version 26.05.13</strong>
+
+[new] Librarian has option to sort right list items alphabetically.
+
+[fixed] Some system parameter request conditions could lead to endless loop.
+[fixed] Resolved issue where search toggle would crash the editor.
+
+[improvement] Editor initializes a lot faster (yet again).
+[improvement] Librarian requests are processed faster.
+
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
+Join our TC Electronic M-One Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+
 <strong>Version 2026-05-11</strong>
 
 [new] M-One standard has been tested and verified to work with this release.
@@ -12,10 +26,6 @@
 [note] Tested and verified to work with with M-One Firmware 1.10 and M-One XL Firmware 2.09
 [note] Global MIDI Channel should be set to 1.
 [note] Device ID should be set to 0.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our TC Electronic M-One Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
 
 <strong>Version 2026-05-03</strong>
 
