@@ -1,10 +1,21 @@
-<strong>Version 26.04.02</strong>
+<strong>Version 26.05.14</strong>
 
-[new] Initial Release!
+[new] Librarian has option to sort Lower list items alphabetically.
 
-[other] User Manual is not yet available.
+[improvement] Librarian requests are processed faster.
+
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our Clavia Nord 3 Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>
+Join our Clavia Nord 3 Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>
+Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>
+
+<strong>Version 26.04.02</strong>
+
+[New] Initial Release.
+
+[note] Performance mode is required.
+[note] Global MIDI Channel should be set to 5.
+[note] Device ID should be set to 1.
+
+[other] Join our amazing Discord community! At the time of this release, we have 1400+ users!

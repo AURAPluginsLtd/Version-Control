@@ -1,11 +1,7 @@
-Version    26.04.02                                                               2026-Apr-02
+Version    26.05.14                                                               2026-May-14
 
-[new] Initial Release!
+[new] Librarian has option to sort Lower list items alphabetically.
 
-[note] Performance mode is required.
-[note] Global MIDI Channel should be set to 5.
-[note] Device ID should be set to 1.
+[improvement] Librarian requests are processed faster.
 
-[other] User Manual is not yet available.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
-[other] Join our amazing Discord community! At the time of this release, we have 1400+ users!
