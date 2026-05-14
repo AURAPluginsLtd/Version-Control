@@ -1,7 +1,13 @@
 Version    26.05.14                                                               2026-May-14
 
-[new] Librarian has option to sort Lower list items alphabetically.
+[New] Librarian has option to sort Lower list items alphabetically.
 
-[improvement] Librarian requests are processed faster.
+[Fixed] Resolved issue where MIDI learn didn't work properly.
 
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[Improvement] Librarian requests are processed faster.
+
+[Other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Clavia Nord 3 Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6

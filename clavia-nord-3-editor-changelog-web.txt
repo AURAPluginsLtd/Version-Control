@@ -2,6 +2,8 @@
 
 [new] Librarian has option to sort Lower list items alphabetically.
 
+[fixed] Resolved issue where MIDI learn didn't work properly.
+
 [improvement] Librarian requests are processed faster.
 
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
