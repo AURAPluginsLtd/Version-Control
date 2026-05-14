@@ -1,11 +1,7 @@
-Version    26.05.13                                                               2026-May-13
+Version    26.05.14                                                               2026-May-14
 
-[New] Librarian has option to sort right list items alphabetically.
+[Fixed] Resolved issue where MIDI learn didn't work properly.
 
-[Fixed] Some system parameter request conditions could lead to endless loop.
-
-[Improvement] Editor initializes a lot faster (yet again).
-[Improvement] Librarian requests are processed faster.
-
-Issues, praises, suggestions? Join our Discord https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://ko-fi.com/auraplugins
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our TC Electronic D-Two Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
