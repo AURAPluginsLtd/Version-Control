@@ -1,12 +1,6 @@
-<strong>Version 26.05.13</strong>
+<strong>Version 26.05.14</strong>
 
-[new] Librarian has option to sort right list items alphabetically.
-
-[fixed] Some system parameter request conditions could lead to endless loop.
-[fixed] Resolved issue where search toggle would crash the editor.
-
-[improvement] Editor initializes a lot faster (yet again).
-[improvement] Librarian requests are processed faster.
+[fixed] Resolved issue where MIDI learn didn't work properly.
 
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
 Join our TC Electronic M-One Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
