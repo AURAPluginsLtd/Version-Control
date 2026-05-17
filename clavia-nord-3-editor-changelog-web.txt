@@ -1,4 +1,4 @@
-<strong>Version 26.05.14</strong>
+<strong>Version 26.05.16</strong>
 
 [new] Librarian has option to sort Lower list items alphabetically.
 
