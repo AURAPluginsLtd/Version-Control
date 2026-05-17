@@ -1,40 +1,21 @@
-<strong>Version 25.08.19</strong>
+<strong>Version 26.05.16</strong>
 
-[new] Complete overhaul of the Nord Editor with Apple Silicon support.
-[new] Windows AAX, VST2, VST3 and Standalone Application for Win 7 and greater.
-[new] macOS AU, AAX, VST2, VST3 and Standalone Application for macOS 10.12 and greater.
-[new] User Interface redesign.
-[new] Realtime resizable graphics.
-[new] Editor has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] Librarian has dedicated 20-to-50 step Edit History with Undo and Redo.
-[new] MIDI Learn per CC control can be defined with right clicking on parameter.
-[new] LED is lit below the parameter name if MIDI CC is assigned.
-[new] Randomizer dice to randomize each section with one click.
-[new] Section controls to allow Section based presets and functions.
-[new] Multi selection of items in librarian with shift+click or shift+arrow keys.
-[new] Copy and Paste items with normal copy / paste commands.
-[new] Onscreen Keyboard to trigger notes.
-[new] MIDI mappings can be loaded or saved to hdd.
-[new] Saving and Loading UI DATA which is essentially all parameters of the instance.
-[new] Show Bubble control of current parameter when adjusting value.
-[new] Show parameter values on Editor display when mouse is over the control.
-[new] Adjust parameter morphing with shift + mouse. Reset morphing to default / last loaded value with shift + double click.
-[new] Name length for Performance, Percussion Kit and Programs is now 16 characters.
-[new] Each Program, Percussion Kit and Performance can have category assigned.
-[new] Quick Edit mode in Librarian view with assignable XY Pad and essential controls.
-[new] Tooltips included from Nord 2X User Manual.
-[new] Top bar has indicator for data transmission back and forth.
+[new] Librarian has option to sort right list items alphabetically.
 
-[fixed] All previous bugs with the Editor should be cleared now.
+[fixed] Resolved issue where MIDI learn didn't work properly.
+[fixed] Resolved issue where update url was scoped even when the option was disabled from Utilities menu.
+[fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID, Global MIDI Ch, UI SKIN and Main tab values.
+[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
+[fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical glitches.
 
-[note] Performance mode is required.
-[note] Global MIDI Channel should be set to 16.
-[note] When saving to MIDI format, names & categories are not stored since it is not in Nord specs, but our custom addition.
-[note] Percussion Mode is under investigation to see if we can fully implement it.
+[improvement] AAX loads faster with better stability.
+[improvement] Librarian functions and stability improved.
+[improvement] Librarian requests are processed faster.
+[improvement] Improved compatibility with NodalRed2x.
 
-[other] User Manual is not yet available.
+[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our Clavia Nord (1/2/2X) Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Clavia Nord Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6

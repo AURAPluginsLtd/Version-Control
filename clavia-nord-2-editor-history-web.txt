@@ -1,3 +1,25 @@
+<strong>Version 26.05.16</strong>
+
+[new] Librarian has option to sort right list items alphabetically.
+
+[fixed] Resolved issue where MIDI learn didn't work properly.
+[fixed] Resolved issue where update url was scoped even when the option was disabled from Utilities menu.
+[fixed] Resolved issue where Load UI Data function changed MIDI I/O, DeviceID, Global MIDI Ch, UI SKIN and Main tab values.
+[fixed] Resolved issue where double clicking item from the librarian would show a warning message under certain circumstances.
+[fixed] Show Keyboard toggle is now turned off when loading UI Data to prevent graphical glitches.
+
+[improvement] AAX loads faster with better stability.
+[improvement] Librarian functions and stability improved.
+[improvement] Librarian requests are processed faster.
+[improvement] Improved compatibility with NodalRed2x.
+
+[other] Product URLs updated to support upcoming User Manual update. Use tooltips to show function purpose. Most are self-explanatory.
+[other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Clavia Nord Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
+
 <strong>Version 25.08.19</strong>
 
 [new] Complete overhaul of the Nord Editor with Apple Silicon support.
@@ -34,7 +56,3 @@
 
 [other] User Manual is not yet available.
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
-
-Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>.
-Join our Clavia Nord (1/2/2X) Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>!
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>!
