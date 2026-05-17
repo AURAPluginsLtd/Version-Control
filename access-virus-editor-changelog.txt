@@ -1,13 +1,9 @@
-Version    26.05.13                                                               2026-May-13
+Version    26.05.17                                                               2026-May-17
 
-[new] Librarian has option to sort Lower list items alphabetically.
-
-[fixed] Bank request and write functions works as expected.
-[fixed] TI Master Volume pot is now available if set from Editor Preferences menu.
-[fixed] TI Atomizer toggle works as expected.
-[fixed] TI Distortion Mix knob was not shown properly.
-
-[improvement] TI Envelope view dropdown area is wider.
-[improvement] User Interface elements are now drawn properly when User Interface is opened.
+[fixed] Various fixes to MIDI Learn functions.
 
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
+
+Issues with Editor? https://auraplugins.com/my-account/tickets/
+Join our Access Virus Editor community over at https://discord.gg/TeG7ukYcVW
+Want to support our development and free updates? https://auraplugins.com/?ff_landing=6

@@ -1,14 +1,6 @@
-<strong>Version 26.05.13</strong>
+<strong>Version 26.05.17</strong>
 
-[new] Librarian has option to sort Lower list items alphabetically.
-
-[fixed] Bank request and write functions works as expected.
-[fixed] TI Master Volume pot is now available if set from Editor Preferences menu.
-[fixed] TI Atomizer toggle works as expected.
-[fixed] TI Distortion Mix knob was not shown properly.
-
-[improvement] TI Envelope view dropdown area is wider.
-[improvement] User Interface elements are now drawn properly when User Interface is opened.
+[fixed] Various fixes to MIDI Learn functions.
 
 [other] Windows: Our signing certificate expired, so use right click -> open to install.
 
