@@ -1,9 +1,26 @@
-Version    26.05.17                                                               2026-May-17
+Version    26.09.18                                                               2026-Sep-18
 
-[fixed] Various fixes to MIDI Learn functions.
+[new] Graphics are mostly GPU driven now to save resources and increase the loading time.
+[new] Small displays added to represent Oscillator shapes, Hypersaw and Wavetables.
+[new] Small displays added to represent Filter curves including Filter Bank and Envelopes.
+[new] Small displays added to represent LFO and Chorus / Phaser shapes,
+[new] A larger display to show waterfall view of Wavetables.
+[new] Librarian Database.
+[new] Category results are cached in Database upon activating Category filter(s).
+[new] Set custom Favorite tag to programs in Librarian.
+[new] Favorite tags can be hidden in Librarian view via Bank menu in Librarian view ->
+    Librarian Preferences.
+[new] Show only custom Favorite programs in lower list view
+    (if bank / category / search results have any).
+[new] Import all single programs from selected folder.
+[new] Import Access Virus TI backup data.
+[new] Set default bank for the Librarian from Bank Edit -> Librarian Preferences menu.
+[new] Progress bar is shown at the bottom bar during requests / transmit processes.
 
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[fixed] 14+ issues fixed, see more in changelog page.
+
+[improvement] 11+ improvements to overall usage, including huge performance boost.
 
 Issues with Editor? https://auraplugins.com/my-account/tickets/
 Join our Access Virus Editor community over at https://discord.gg/TeG7ukYcVW
-Want to support our development and free updates? https://auraplugins.com/?ff_landing=6
+Want to support our development? https://auraplugins.com/?ff_landing=6

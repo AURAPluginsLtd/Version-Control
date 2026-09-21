@@ -1,9 +1,66 @@
-<strong>Version 26.05.17</strong>
+<strong>Version 26.09.18</strong>
 
-[fixed] Various fixes to MIDI Learn functions.
+[new] Graphics are mostly GPU driven now to save resources and increase the loading time.
+[new] Small displays added to represent Oscillator shapes, Hypersaw and Wavetables.
+- Pulse Width, Wavetable Index, Oscillator Shape, Hypersaw Detune and Wave PWM now transforms the display outcome.
+[new] Small displays added to represent Filter curves including Filter Bank and Envelopes.
+[new] Small displays added to represent LFO and Chorus / Phaser shapes,
+[new] A larger display to show waterfall view of Wavetables.
+[new] Librarian Database.
+- Editor now scans thru Patches folder for files and adds them to database for faster access.
+- Patches folder is scanned in the background for new / removed files every 4 seconds while playback is off.
+- Database build might be slow, but after that it is faster.
+[new] Category results are cached in Database upon activating Category filter(s).
+- First time might be slow, but next time the same category is chosen, results will appear a lot faster.
+[new] Set custom Favorite tag to programs in Librarian.
+- Star is shown when mouse is hovered near the end of specific program slot. Set / Unset there, or use right click menu for this function.
+- Keyboard shortcut assigned to CTRL/CMD+F, but DAW or OS might hijack the combination.
+[new] Favorite tags can be hidden in Librarian view via Bank menu in Librarian view -> Librarian Preferences.
+[new] Show only custom Favorite programs in lower list view (if bank / category / search results have any).
+[new] Import all single programs from selected folder.
+- If you have a folder full of single programs, use Edit menu in Librarian view -> Import... -> Folder with Single Files...
+- Select one file to open and import will scan thru all files in the folder. Only singles imported.
+[new] Import Access Virus TI backup data.
+- This can be done from Bank menu in Librarian view -> Import... -> Virus TI Backup data.
+[new] Set default bank for the Librarian from Bank Edit -> Librarian Preferences menu.
+[new] Progress bar is shown at the bottom bar during requests / transmit processes.
 
-[other] Windows: Our signing certificate expired, so use right click -> open to install.
+[fixed] Drag'n'Drop gets activated only after dragging the file(s) long enough.
+- This prevents accidental DND actions while double clicking thru programs.
+[fixed] Resolved issue where Distortion Mix was missing when TI model was chosen.
+[fixed] Resolved issue where Editor could crash when Quick Edit view was toggled on.
+[fixed] Resolved issue where parameters sharing the same CC didn’t update properly.
+[fixed] Resolved issue where Multi parameters were not sent to hardware upon total recall.
+[fixed] Resolved issue where MIDI port was stuck on after removing the plug-in or closing the App.
+[fixed] Resolved issue where notes off message was sent even when the option was toggled off from the preferences menu.
+[fixed] When Multi is sent from Librarian to Hardware, part programs are requested per Multi part reference.
+[fixed] Arpeggiator Clock values are now working as expected.
+[fixed] Editor crashed if PREFS file was not found.
+[fixed] Windows data folders / license were not found in some cases.
+[fixed] Installers now has option to choose custom or full install.
+[fixed] Loading UI Data is now working as expected.
+[fixed] Various memory leaks fixed.
+
+[improvement] Checking updates no longer hangs if internet is not connected.
+[improvement] General boost to Performance ~80%.
+- Hardware MIDI and SysEx should no longer affecting playback engine.
+- Virtual Memory reduced due to Librarian Database.
+[improvement] Duplicate Search / Category results are hidden.
+- Data comparison is made during Search / Category sorting. Equal results are cleaned out.
+- This cleans the lower list view and number of popup menu ”folders”.
+[improvement] Discard librarian changes & Undo reset works much faster.
+[improvement] Prevented MIDI loopbacks when using Editor to control OS(T)IRUS.
+[improvement] Controls no longer cause lag when moving them.
+[improvement] Filter Envelope Velocity Depth circles reversed.
+[improvement] User Interface tabs now respond much faster.
+[improvement] Removed 1400+ PNG images that are no longer needed.
+[improvement] History checks are processed smoother.
+[improvement] Sync Data From Hw button function changed.
+- Sync Data from Hw now gets full arrangement data to UI when Main Tab is set to Multimode Mixer or Patch Librarian view.
+- Otherwise it will get current Part data to UI.
+
+[other] Windows: We now have a developer certificate (finally)!
 
 Issues with Editor? <a href="https://auraplugins.com/my-account/tickets/">Open Support Ticket</a>
 Join our Access Virus Editor community over at <a href="https://discord.gg/TeG7ukYcVW">Discord</a>
-Want to support our development and free updates? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>
+Want to support our development? <a href="https://auraplugins.com/?ff_landing=6">Buy us a coffee</a>
