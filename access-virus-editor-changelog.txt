@@ -1,4 +1,4 @@
-Version    26.09.22                                                               2026-Sep-22
+Version    26.09.23                                                               2026-Sep-23
 
 [new] Graphics are mostly GPU driven now to save resources and increase the loading time.
 [new] Small displays added to represent Oscillator shapes, Hypersaw and Wavetables.
