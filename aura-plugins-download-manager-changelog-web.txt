@@ -1,0 +1,9 @@
+<strong>Version 26.10.24</strong>
+
+[new] Initial Release.
+
+
+
+Issues with Download Manager? https://auraplugins.com/my-account/tickets/
+Join our Discord community over at https://discord.gg/TeG7ukYcVW
+Want to support our development? https://auraplugins.com/?ff_landing=6
