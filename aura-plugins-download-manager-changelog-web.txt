@@ -1,8 +1,17 @@
 <strong>Version 26.10.24</strong>
 
 [new] Initial Release.
-
-
+- Browse every AURA Plugins editor in one place, with search, sorting and Synthesizers, Effects and On Sale views.
+- Try any editor with a free demo, or install the full version of the editors you own.
+- Install AAX, Audio Unit, VST2, VST3, the standalone app and the user manual in one go, or pick only the formats you need.
+- Choose the default install formats and locations, and where editor data is installed.
+- Keep your editors up to date: Updates shows what's new, and Install All updates everything at once.
+- Read each editor's changelog and specs, and see current sales and upgrade offers.
+- Write and edit reviews for the editors you own.
+- Open support tickets, read replies and answer them, all inside the app.
+- Stay signed in between launches, and see your registered computers with their last login.
+- Sign out of this computer, or log out from all devices at once.
+- Download Manager updates itself when a new version is available.
 
 Issues with Download Manager? https://auraplugins.com/my-account/tickets/
 Join our Discord community over at https://discord.gg/TeG7ukYcVW
