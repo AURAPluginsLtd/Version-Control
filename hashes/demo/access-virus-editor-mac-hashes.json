@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.09.23", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"3861de27a3a838a8d0eff16fa5c0b6bfad6d4474a04a4d7832cf8f90738b892d","zip_sha256":"d6412c49d648303dc66c00867b52e0c0ec49033f31cba13dd927ed975cbf8df4"},
+      {"slug":"access-virus-editor-mac-app","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"16be3b55dd9d8356e8b9f733d574098fed57fc0e50923b370038f22491087f96","zip_sha256":"b4efeca222c751428e14828f3b1332a8f3940fe3814191901434d6e7aa042079"},
+      {"slug":"access-virus-editor-mac-au","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"f822533b0144dd94c7f06601ba534500b9b95d48a6cdb037bc364666b2273acf","zip_sha256":"e07db149145d008c617e822ece00fc1aba6e36aab0a6390ecd4b9ce45dced990"},
+      {"slug":"access-virus-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"1bf97c9305f9fbbbafae187f68cdc68f4376da22821d006ce60ed1972f0485f8","zip_sha256":"0528f5f52ba48c0fff4cf11614a7f201aea8b5a49dcc786fb2b1f28ad7c034fb"},
+      {"slug":"access-virus-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"06f0286775957717bb4317d2db98d2b28ef9dd6230290f2435f2ff5d93ffe9f9","zip_sha256":"ee0b6686af3e18339456f50c429517089327567c14784b513bf9e37dc8316270"}
+    ]}
+  ]
+}

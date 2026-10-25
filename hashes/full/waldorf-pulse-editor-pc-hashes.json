@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"86d5977c754f5b9b434ff64526ab7049de1852355a853429af16279d9c8f1cf3","zip_sha256":"0151a4fec71060630c2173874577639b38701b105009547a378dc6cbefa5c3f3"},
+      {"slug":"waldorf-pulse-editor-pc-app","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"aa933b59795a1c19f45825b9daccb0ad4ce585c5ded461d26a76c912f8e74c87","zip_sha256":"ddd01ddd1568f71cdb9e7667dfc10b6a1fe08f68b740f0b9a055124a2fa9558f"},
+      {"slug":"waldorf-pulse-editor-pc-vst2","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"474a8116f9b11b8b341274f7521836e487c522705a99ea1a19de6ed705609ff4","zip_sha256":"1e58e2baf8cd34f48bc132543385a3f72e2ab3d2ef125073516b59816358441c"},
+      {"slug":"waldorf-pulse-editor-pc-vst3","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"2dca2674fb74a53922290490bad9c1323a6db04c3eee64d752fd8f5cc5f3e1a2","zip_sha256":"d1b65841d731e181772975d468bd69a8a863ec38205c537c0adf2fe00967445a"}
+    ]}
+  ]
+}

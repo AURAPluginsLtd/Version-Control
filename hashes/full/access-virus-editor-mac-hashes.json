@@ -1,0 +1,19 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.09.23", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"b400f981bd8131af2693783ce2e452812ec0d630195753f1d3dee13339dafb99","zip_sha256":"2a2a31f0b0228cb20f89fe1e07df3fc5152e73f153f89b5531358afd457c45b0"},
+      {"slug":"access-virus-editor-mac-app","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"a8526d4c95f2e4c0784d90686066988a149fa1295716fb5fa8fdb1a765fac409","zip_sha256":"cf857733fb095e4e507ac1d9b47d20dfc6d4c0b9b754feb41814ffce9c8a2042"},
+      {"slug":"access-virus-editor-mac-au","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"a720c0c7c47dcf8ac05c377613e614fb64b80ac7efc2170ac75373257be1d9b9","zip_sha256":"0927094ac065f4c0d56569776a6acb1291daab48f7e51eadcb601ad42f03dd40"},
+      {"slug":"access-virus-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"6b2fa311e69e4d0f0981a706a2de8921c68fd304b0194a902ab645e879ef995a","zip_sha256":"17c017d22df5c649829c813965f0f1e16cac82e9978f0884eb72808f0cbabe8d"},
+      {"slug":"access-virus-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"b3d9d19dca0a1d0e975c6b8bbde0cba5f02c170e9157b723d777f1e20bee6931","zip_sha256":"2ade4a26dd0354f585778ce472fa899b5c582005538378fb0a7afefde97b8140"}
+    ]},
+    { "version": "26.05.17", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-legacy","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"e497f0d76f8a7f663bc088daef1e724f329481b97008a0bdedeea6c46fb8d73e","zip_sha256":"68a1a50bef786ecee3e9043dd8cf357c3e5bd40c4368849c920228ff73d96ab5"},
+      {"slug":"access-virus-editor-mac-app-legacy","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"3bf309b4638e7ccc751ac2ff966bfedba0e809a9ba5b2cd3f4480aa14306c789","zip_sha256":"d2905c1434850f2fb70960c847c8d39e8b70efe653dfa477b34281b2fad579e1"},
+      {"slug":"access-virus-editor-mac-au-legacy","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"bc66ebfe79cae00f92a6713e26ae632c081189a0df23e71192275dd6ad1cd9cf","zip_sha256":"9cf9fec17bd478f3c16a89965e091215f6e61746e52827b6db74146e8cddf955"},
+      {"slug":"access-virus-editor-mac-vst2-legacy","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"423df792075ba1c495e8cad5410e3838df5adfeea3232d71c9bbce978b3cc81d","zip_sha256":"63f51c8926883535be6cadf98223677a4ee0da54e98eebab19fa75d638c5accc"},
+      {"slug":"access-virus-editor-mac-vst3-legacy","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"3178f7c8c52498d636b3e5d1b6a981af6c057883d01c4e388cb0b11ae0a3c45e","zip_sha256":"2fdd93f00becc56f321d29fa5792e4832534ad01b132049718dd42a2598c9781"}
+    ]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"novation-sn-ii-editor-pc-aax","format":"aax","file":"Contents/x64/Novation SNII Editor.aaxplugin","sha256":"ae82853261a3284a0518993ed57ef11b1c01348d9410925a65a703f8286b87ee","zip_sha256":"062f05a0087c35e981dc9255450ff16428c0a9fe0b6c7bd6c630bfc6181c8aad"},
+      {"slug":"novation-sn-ii-editor-pc-app","format":"app","file":"Novation SNII Editor.exe","sha256":"981ebcd8e27e50367c0c8a49302ab18cd23ab0889d2e66cea6a93ff0207e9820","zip_sha256":"58d4686504e863bcc817bcad62ee7c514a08a238769b863b50ea79123a46dd38"},
+      {"slug":"novation-sn-ii-editor-pc-vst2","format":"vst2","file":"Novation SNII Editor.dll","sha256":"4d26327b21b087d0f6725a8515b8714be1f1517ee2ea5e1995fc5f8e3f8aa178","zip_sha256":"b4c11d9faf67a0ded8ec5a246e4f2c97cd1debc7df8cc83f1009b20ebac9754b"},
+      {"slug":"novation-sn-ii-editor-pc-vst3","format":"vst3","file":"Novation SNII Editor.vst3","sha256":"13c6d387bffb16da0a1f61cdb8c0c8aacabf87949d688acc793a918791f9b804","zip_sha256":"2a051db126e1c141f2b986e2699793277668b27021d10089a1ab480ff3d3fdff"}
+    ]}
+  ]
+}

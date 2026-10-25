@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"8e9ed95093781f61be2364a119d6d2dd5a01291dbe90d9678b26c6349b6ad38a","zip_sha256":"36d41d411afed37a5f69d811aa839e5f9028dad0ddfee30292e28f99ec526c53"},
+      {"slug":"waldorf-q-editor-pc-app","format":"app","file":"Waldorf Q Editor.exe","sha256":"69352ea86767e195650a15a5f5933a903957668e15f8ccdca70304e663efdd83","zip_sha256":"a07509cbe5886885b02535440bb1f6ef1d2cbe25d046c38cbd53f6b594f707c3"},
+      {"slug":"waldorf-q-editor-pc-vst2","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"d61aa4cbdf2f2893a49b615f819f94d5f1941d0c0b6be10ee9ac860b351b62a4","zip_sha256":"2ef186aefb8a55f2289da016a9f470549843a70d885dd875692fcc6c852c9358"},
+      {"slug":"waldorf-q-editor-pc-vst3","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"9e57c8df918d97b70ac68be9501346a28cf2f661ad091112342da1cfd4dda761","zip_sha256":"5e10879521a70353fb19e2725996e088a57a58585f53903f63472cf13c152acc"}
+    ]}
+  ]
+}

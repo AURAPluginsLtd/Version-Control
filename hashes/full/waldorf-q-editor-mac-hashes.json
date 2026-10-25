@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.01.25", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"72988a8a1d14891d014af7884b9cecdacef2f7c20246888fdb81cf986faad7b2","zip_sha256":"4b78c068be759968829b7eb42a0b458e91582b5fa76b5ced7e664e04cf0ea634"},
+      {"slug":"waldorf-q-editor-mac-app","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"aeec06b67af0cc743d0ddc26cc16e68bb8f717cf81c4b55b1f31f38c1cd043cd","zip_sha256":"2a39e2da490fd90fdcdb3b6ceee16065f62fea524fe75ef0809acdb408c0ef91"},
+      {"slug":"waldorf-q-editor-mac-au","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"d53d3d56765c9248b904c749318d62861b53e0dbcd055dc1fcf76662992c3690","zip_sha256":"ca56d8e308bcd14017183949b3ffbb352531fb992247ad939c2d3bdf053c5af1"},
+      {"slug":"waldorf-q-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"50211373fa2200a3317bde4c302aa27f0660633e95ac39e5387689be3ba36b81","zip_sha256":"52b5fef1d3cb95b8edc06e4f71788e41125976447675914274892335de016ca4"},
+      {"slug":"waldorf-q-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"8b2bc37228fb6dd80a0826692b38ed76a7f8205fb4d96b91dae2fe09a4396422","zip_sha256":"52073fc359f879b3955d0a11195cbb196bc5f5c501043edd4c48f6fde6552941"}
+    ]}
+  ]
+}

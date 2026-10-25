@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"5e5696b6c5035957e8616dbeb834b839d612ecfa8855e45bbf07af37108be917","zip_sha256":"6b48d82494ce656a8298ee38264efca301a0adca2bda9b21f801fa363a88401f"},
+      {"slug":"tc-electronic-m-one-editor-pc-app","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"e22e39700f1fda106e98a43b25a855f1f0cadbd2f6fa4565f9324e95a798595f","zip_sha256":"1a52739a53cc5fcc77a46438999aaaed4b2892b4717b73c73f8c97d0f7b422ac"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"2cf14e83b6a53e1abd48d69bdcb84aaa7488bc37d49709a382ff32b11e8fbc7d","zip_sha256":"f41fb189c90068b355dfb45c91894948568d1297f1bfe2fd579f265c33ad49b8"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"05be9fad365ffae1e5be3944cf8b844e6a75a5fc231a432d235d1ac708aaf2c5","zip_sha256":"6662bae6b48a407dc5d90c6ad55419b7a2a0268fd34c2defd36a33394e38880e"}
+    ]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"korg-microkorg-editor-pc-vst2","format":"vst2","file":"microKxR Editor x64.dll","sha256":"1bdd1e499c8428c050427c87c1a93a03390f872bcb399690c5c823c4c75f39bb","zip_sha256":"2b937d2ec55110020a8b11e7a63ba2506ef0ba932a63d4783e3233537f054403"}
+    ]}
+  ]
+}

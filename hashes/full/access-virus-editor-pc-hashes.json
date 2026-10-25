@@ -1,0 +1,15 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"b936c003142f4aff595c72880a5bf2b10737a5cb23b4af1ef7d334517fc61527","zip_sha256":"7295a1fc840d126e4f6f00db361de60f4d030779da9c07f0585d2a191921bc20"},
+      {"slug":"access-virus-editor-pc-aax-legacy","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"8b45cc561b97652858a64ec2db65c59bc46ce29f1d1518b4b4d18582a108a675","zip_sha256":"410d4807030ac72e4df1dc7b11d4191151e220f405d7bd5e95c7e198a19e162a"},
+      {"slug":"access-virus-editor-pc-app","format":"app","file":"Access Virus Editor.exe","sha256":"480c0d2534f2a9d5fbcd086daab883643110d3e7c72551c488c536e863435ba8","zip_sha256":"00b33f58d7e168bad35e22462ce78c73af752750d249648a9570e18548d3f977"},
+      {"slug":"access-virus-editor-pc-app-legacy","format":"app","file":"Access Virus Editor.exe","sha256":"357928214313dd72127dac48ab1a10d2335328858045c6bd1e5e61a68517238d","zip_sha256":"904f72e0983edfd49d7b02b5af7f47198b908595f0131fd959b395a17021383e"},
+      {"slug":"access-virus-editor-pc-vst2","format":"vst2","file":"Access Virus Editor.dll","sha256":"9a379d54919de5cbd4598bfa7668fb71d40c5673a1a251ee33b70b3305a164ef","zip_sha256":"99b055580462a0725f307bbd5ba8485dd434077b1544fa167cd57201b6a172a1"},
+      {"slug":"access-virus-editor-pc-vst2-legacy","format":"vst2","file":"Access Virus Editor.dll","sha256":"6e88ce6eb1768a72b86a294213a15c11170b9728165d1faa877ff93b3b814442","zip_sha256":"087605f0a96ed2ae786e7c4d733a4c973375ad9046f0b68ac113456f17082001"},
+      {"slug":"access-virus-editor-pc-vst3","format":"vst3","file":"Access Virus Editor.vst3","sha256":"55a7a18160a02df1f74fa40a976240e2b6eb399b8fafd56296e7f3f6aab59e8c","zip_sha256":"9899bb0367c8169ba0bb7ee409220593ff313ba2569febc81acb553243807898"},
+      {"slug":"access-virus-editor-pc-vst3-legacy","format":"vst3","file":"Access Virus Editor.vst3","sha256":"62af3ec75fab194a31c683d7680fe8265e1dcb429e4183446bdcd6842446d887","zip_sha256":"8d913a47d3561aeb9176fa83328a104596af7db98c37aab9d35bef87aa0b6bcf"}
+    ]}
+  ]
+}

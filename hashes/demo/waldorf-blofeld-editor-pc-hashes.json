@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"f3f61cf89c4f1273d94c48523b3ceec8bc313f1c1f09005f0ae316e5121803b8","zip_sha256":"0538258cfa840db8f80ee6da50828e7df4ccb2eab542819f46a1dc50eca2b9ae"},
+      {"slug":"waldorf-blofeld-editor-pc-app","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"412f7eea102621a06789a2a82ba455fddf06a37d83ec54d8cce3d1b8620c3a27","zip_sha256":"405f00e0f9fd1e41695050970978ee0230151513455670e0bbe78b4c567d724e"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"996a0a6a1a632c264317d8c4b6710fa631b485f2302263e039a2594c5689587f","zip_sha256":"b077edfcaea6d760171bbb56488155a9daa3e891156bc4f2f2c7dde883b94e16"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"a22fc6fff47047634c531f57d66f02d8cca5e071ec0433105cf0507f536840f9","zip_sha256":"066ed4a76f1b0e3c0134f263ac38b57fbb4854a3d707e609104b26e72ecb1300"}
+    ]}
+  ]
+}

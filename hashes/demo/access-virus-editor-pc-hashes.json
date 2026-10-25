@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"0cd8e93e68cce8ca768ddf08cdd4d751c1711c6303ff06385f97262066f99276","zip_sha256":"1999a4cea9c594eeda648a8bf381ddbaa4a87b0784713705b7c6a1a55890bd2a"},
+      {"slug":"access-virus-editor-pc-app","format":"app","file":"Access Virus Editor.exe","sha256":"43f08b1b367f6003ce6318e7a25937940dfb1d26620debcea86a3d51067175a2","zip_sha256":"670073038e9a0c370d1b6f03eef2da4f8ad58859a64afc119e72d62d2861e600"},
+      {"slug":"access-virus-editor-pc-vst2","format":"vst2","file":"Access Virus Editor.dll","sha256":"70596d1cb8937ca7bb2c1ee44193731e50aa12cbb4410e231e873d3370a845df","zip_sha256":"e50a017d22a54fcb4820e1a3a3cab48cdcc3cf09d3cb4ef6e11daa13a600cec2"},
+      {"slug":"access-virus-editor-pc-vst3","format":"vst3","file":"Access Virus Editor.vst3","sha256":"171ccd440af7e5dbe96ea0d4d301e4c9bbd859b318de7728f35322c21371f8c0","zip_sha256":"ee860f7c8400af9ad865ac66744b5e4db490c6ba7efb7b2f092ff99766b71b87"}
+    ]}
+  ]
+}

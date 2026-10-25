@@ -1,0 +1,9 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "1.4.0", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"korg-microkorg-editor-mac-au","format":"au","file":"Contents/MacOS/microKxR Editor x64","sha256":"3c95c2fe307ca0223dcfbfecf93bc72682cf45b8db98c0cd33947a57083eee3f","zip_sha256":"41fe0d940da7ce5a701abc9c0df4cb6b0198fa2b09b1da2905521d103b219a42"},
+      {"slug":"korg-microkorg-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/microKxR Editor x64","sha256":"b75f330512d6ebc1eded768096aeb2b35f7b270afef07c8c01bf922a2e439c08","zip_sha256":"48fee2a0f374b1560d0a866ff52f3e03661f6a5d904ef88d0219a990ae02a1bb"}
+    ]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"korg-ms2000-editor-pc-vst2","format":"vst2","file":"MS2KxR Editor x64.dll","sha256":"bc75a2f4763c9c1ef270273caad5accbee6f514ff999b7a364dcd36585e8f74a","zip_sha256":"a4f1e0723995b9d6791593778a7c5f4dfec376e7912491f241dd0f455ac95335"}
+    ]}
+  ]
+}

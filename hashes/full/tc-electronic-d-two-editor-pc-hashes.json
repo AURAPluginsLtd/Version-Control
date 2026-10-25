@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"dbd0c2e920eb1cd4327b5129bd75bef06ecb048acb8557d129c759c94b01c614","zip_sha256":"d9020980368fe46b57ab5fd9be4fed14142cdfc14890e2b49105b4a294b21cc5"},
+      {"slug":"tc-electronic-d-two-editor-pc-app","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"7969811ecb844ef74955dce1e5314f898942662e0bf268f07e656b312a0774d7","zip_sha256":"4ed47d890d9d29d14069e25cd36370e6cb16c71a8d3c9595d70ba582370cfe6c"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"8849b08791d12ba575b9202dc353a402a74d1aa291a58595c8b275e5a25b1fb5","zip_sha256":"4ed00ca50a382f69d9d38d850a609962fcafee6381154448f8af6fa756d2f8c3"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"f58cfabb828e75c032dc0f94d2e371d3e51867d6cb06a01a862c01d282de3ad3","zip_sha256":"aa1cab42b1afcd6f27783a13154c53fc48198dbcee9815981df1ad57f09c3da0"}
+    ]}
+  ]
+}

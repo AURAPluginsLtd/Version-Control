@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"1c1b232da3246bf5c2a2c9ed03edf5766dd11b65aabb021a9f6fc28feec56c1b","zip_sha256":"0bb305db8b61bf5351de5678a0b089fe3c3ab535cd98508fcb874dabc00082e2"},
+      {"slug":"novation-sn-editor-pc-app","format":"app","file":"Novation SN Editor.exe","sha256":"5317f5a2c91b6e9e0b8d5f974f8662d831a4f9f38c421deae021c1fa3e3ec644","zip_sha256":"58244be88ca0f82dba5602fde3aeaaed71755a0f1e43f3fbb2eb1f91d81bd280"},
+      {"slug":"novation-sn-editor-pc-vst2","format":"vst2","file":"Novation SN Editor.dll","sha256":"4f404857d725cde5ea70747a15de4e2681af236f72c6707edab0043a97a6db02","zip_sha256":"c9c7a94ef5442a098270b713d87c9457eb28fefeb8bdcdbf999aae456b0b6a2a"},
+      {"slug":"novation-sn-editor-pc-vst3","format":"vst3","file":"Novation SN Editor.vst3","sha256":"3a8d058f3b5f3beb2975b9dbcf1bd6c02be44823d2de449cb2fd7f71319ea323","zip_sha256":"2aa494bb892a58c7d92d6032a3bee861b73a256c4513268faa347daf37216635"}
+    ]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.01.25", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"waldorf-microq-editor-mac-aax","format":"aax","file":"Contents/MacOS/Waldorf microQ Editor","sha256":"79d3fea27a96f81d366889887c89041d05a7cb5c3fe9505c92e0c85b66370f2f","zip_sha256":"7ad18e6242a35d55b6c87f38144425463a00480b453d1321b850f5317505d35e"},
+      {"slug":"waldorf-microq-editor-mac-app","format":"app","file":"Contents/MacOS/Waldorf microQ Editor","sha256":"d0994f1fc14fc540d6b1fb7e0029b1a46ab82b5419ae62c2691a1abf01b67b1c","zip_sha256":"db5dd5ebf9a3a9afbea01e87d5677ea3aa4103a0dbbb8ac6987293af4a40ebfe"},
+      {"slug":"waldorf-microq-editor-mac-au","format":"au","file":"Contents/MacOS/Waldorf microQ Editor","sha256":"6cc57f82e1aa820e95705667d703e05aa8f1aac70bcfa5c3f4d8257ede8b07f4","zip_sha256":"b6e65cc26845f76746c424810bff1e2e635a288177b13a805ff51a3e96265e4b"},
+      {"slug":"waldorf-microq-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Waldorf microQ Editor","sha256":"c75cb02adce03daa5b1e2b27807607b6c27882f84c4ce9c6e557dee5ce302fd2","zip_sha256":"60c5e74014e7676944617b79cacf805cc3c729e80f3d399bb508415d9a31b44b"},
+      {"slug":"waldorf-microq-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Waldorf microQ Editor","sha256":"7e8dfee70ac0e3f09da73ba2d870a8b0d63af8fbbc8debe8c4d783a7313b9e87","zip_sha256":"86ec34d8841357e2a79729468c77c2e6ca127623e142a8127ba2455d943603a0"}
+    ]}
+  ]
+}

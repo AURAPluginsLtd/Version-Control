@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.05.14", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-mac-aax","format":"aax","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"e1260a77f0d80dd47d7c0719e73f251aafd9f7af245966b071378663dac10d9f","zip_sha256":"085d333aa8f6b8db76490b6e38f0609d4dbdb114a7244739966adf35054289b3"},
+      {"slug":"tc-electronic-m-one-editor-mac-app","format":"app","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"b3a12d4a0efa8115288b06893e174cb0d83376aa389a5ba3754095a932101a77","zip_sha256":"0cbaaa1983a625676b044c345a344ef88064cff05f347d7ef32a75669342dfd2"},
+      {"slug":"tc-electronic-m-one-editor-mac-au","format":"au","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"7b7dfc621b94f929f0188fb058fdb794b85594821c31b29662af277ef77c0fcb","zip_sha256":"fdbf66a4dfc12771806a86618cd73acff3b1877eae1c77e70a2cddcb94537878"},
+      {"slug":"tc-electronic-m-one-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"05ea4d287f851efa03a16cdad7ee3db64116ef1e702be6a47978186961407dc8","zip_sha256":"8aee002987f9d458b5ecb7b19ba5b4d7ad1a74bb00a8397a27875c37565975db"},
+      {"slug":"tc-electronic-m-one-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"87f5759e86f76143e3921778433558bd4ff76e8f6b34be06cef68b176911c061","zip_sha256":"bd5beaf479b521ba11d71d4effcb14a97431d12364167f31136b00b4d84d0cfc"}
+    ]}
+  ]
+}

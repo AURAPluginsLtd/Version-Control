@@ -1,0 +1,12 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "26.01.25", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"novation-sn-editor-mac-aax","format":"aax","file":"Contents/MacOS/Novation SN Editor","sha256":"371e00b94cff2b2848856dfd0d25d886e980047c5a64084f964efcd88201373d","zip_sha256":"78dbf0fa7b63559e9174d9030bbe63999823066e24c10803742f8cc5dec3ccb5"},
+      {"slug":"novation-sn-editor-mac-app","format":"app","file":"Contents/MacOS/Novation SN Editor","sha256":"08e86fb082a6107920014d8dbccc529b88ab24f52233a4c826bb1d22bd684991","zip_sha256":"001796d1b8f8e0788fdb73c09030e2983911fb756eb7e7a9b8770ba60780e024"},
+      {"slug":"novation-sn-editor-mac-au","format":"au","file":"Contents/MacOS/Novation SN Editor","sha256":"a5ccb87d475547cea708a8b0d45634897c969bb39ea6b2a729b046c5304bc843","zip_sha256":"297a0858c12a9071426e5bb5f369090ffa4e344cf7d2b4abba90fea395756176"},
+      {"slug":"novation-sn-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Novation SN Editor","sha256":"91b36c59db0a744f79c90fd2ce878f38a3cca9805e4c2b2c3f4fbc5be14fcc4e","zip_sha256":"550a1f57a32a449cbf41b65507e771661a9d97aba9cb5a91f6e9a0b9a6b3c4e0"},
+      {"slug":"novation-sn-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Novation SN Editor","sha256":"342c294f28cebf041ceed8599491b7ceb5ae0c69716ea25d86532d2601bd0196","zip_sha256":"6543818eda252e81361e741caf339f94c8bd3faad8cb7ec6ced1f415c9d1bda3"}
+    ]}
+  ]
+}

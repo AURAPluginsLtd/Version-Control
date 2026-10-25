@@ -1,0 +1,9 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "2.0.8", "generated": "2026-10-24T21:26:29Z", "entries": [
+      {"slug":"korg-ms2000-editor-mac-au","format":"au","file":"Contents/MacOS/MS2KxR Editor x64","sha256":"0f818c08d7f5dac8e2db9e04a95960fd08c776a44985ac3aaa5160e192735a24","zip_sha256":"7cfe7c40dcaed815fc83203e1d2f6edd2b713e4aab612906e37e5d3cf1428895"},
+      {"slug":"korg-ms2000-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/MS2KxR Editor x64","sha256":"6677c600cfe04a51e9281f8d94d60692298824555b8ef6e70f7721a696f28bea","zip_sha256":"7bef03f0317738ebf139aa6e10c739d9b8342749cf698348d01d6ae3c470a6a7"}
+    ]}
+  ]
+}

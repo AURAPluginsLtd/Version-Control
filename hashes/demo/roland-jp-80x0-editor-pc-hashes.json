@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"roland-jp-80x0-editor-pc-aax","format":"aax","file":"Contents/x64/Roland JP-80x0 Editor.aaxplugin","sha256":"85fe7eb6c8f5360ecd2450aa83cf3d1beba3e4966bd1d45d1c508dc5cce9ee76","zip_sha256":"b67672d402b16582ac371ca34092ce7cdaf26cc145203f8303bbde66416572ea"},
+      {"slug":"roland-jp-80x0-editor-pc-app","format":"app","file":"Roland JP-80x0 Editor.exe","sha256":"56209ad0e80df9ee89922551380fc73d1ebf7ff1f0a983027beff938a45244c3","zip_sha256":"2057f516a41ebf73deabba79dc0c7124ebc451dc058337aeb4bdf7a3f27de7e8"},
+      {"slug":"roland-jp-80x0-editor-pc-vst2","format":"vst2","file":"Roland JP-80x0 Editor.dll","sha256":"aede633ef3b24b234b631d827dc3e994ab8213e4d281537bdbfcd456b9649aba","zip_sha256":"25e9ade42f5af8953cbe885072765c8d9a91b01c8f1ab604f946053a74a431eb"},
+      {"slug":"roland-jp-80x0-editor-pc-vst3","format":"vst3","file":"Roland JP-80x0 Editor.vst3","sha256":"a867c9e5da4a0053e561e844cf731fad1296f69dccf6edbe485e23ccf95cebb0","zip_sha256":"80b244a392ceee9a70094e97369863923688001caf0731d7798e29d459912348"}
+    ]}
+  ]
+}

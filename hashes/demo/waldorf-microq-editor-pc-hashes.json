@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "builds": [
+    { "version": "3.0.0", "generated": "2026-10-24T21:44:24Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"0e069b3d0b07ccb0daaa94dd02138bfb5d2151678eeb646819df259ff2b638d7","zip_sha256":"87ced4f9a029d74b86efb5c9b34af8cecbca8f4059541df6334a99dfec3f0255"},
+      {"slug":"waldorf-microq-editor-pc-app","format":"app","file":"Waldorf microQ Editor.exe","sha256":"62643820bd204f15ed74d2d988d67f536b3857a7bab1c0f2d86d6808930571e8","zip_sha256":"906b48f910e08117c476f6d1d21531611488e196542f7723d5a245677d047a46"},
+      {"slug":"waldorf-microq-editor-pc-vst2","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"50c87fdfb6980acd30ba538c12b7ab14bb0e41d88a089df4c28dad24c1974cca","zip_sha256":"6c846e05c8ef0957bf27b2860b2b116e36e9d327d388f4cd9cc1a820597e7a20"},
+      {"slug":"waldorf-microq-editor-pc-vst3","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"1aa2a3a833f4616b04c1740178e1bc13c1c2f2cbe619d1c7d8b254f5325aa534","zip_sha256":"be2c709da0e9bbfe9be01d1fa55cfe8175a7a13a6a0670928a3a156771007417"}
+    ]}
+  ]
+}
