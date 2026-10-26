@@ -6,6 +6,24 @@
       {"slug":"roland-jp-80x0-editor-pc-app","format":"app","file":"Roland JP-80x0 Editor.exe","sha256":"56209ad0e80df9ee89922551380fc73d1ebf7ff1f0a983027beff938a45244c3","zip_sha256":"2057f516a41ebf73deabba79dc0c7124ebc451dc058337aeb4bdf7a3f27de7e8"},
       {"slug":"roland-jp-80x0-editor-pc-vst2","format":"vst2","file":"Roland JP-80x0 Editor.dll","sha256":"aede633ef3b24b234b631d827dc3e994ab8213e4d281537bdbfcd456b9649aba","zip_sha256":"25e9ade42f5af8953cbe885072765c8d9a91b01c8f1ab604f946053a74a431eb"},
       {"slug":"roland-jp-80x0-editor-pc-vst3","format":"vst3","file":"Roland JP-80x0 Editor.vst3","sha256":"a867c9e5da4a0053e561e844cf731fad1296f69dccf6edbe485e23ccf95cebb0","zip_sha256":"80b244a392ceee9a70094e97369863923688001caf0731d7798e29d459912348"}
+    ]},
+    { "version": "26.06.06", "generated": "2026-10-26T13:12:40Z", "entries": [
+      {"slug":"roland-jp-80x0-editor-pc-aax-v26.06.06","format":"aax","file":"Contents/x64/Roland JP-80x0 Editor.aaxplugin","sha256":"f780fcb9aefaa35f12ef47d709354d0d7f81cc030f46f8745cf092e8a0375925"},
+      {"slug":"roland-jp-80x0-editor-pc-app-v26.06.06","format":"app","file":"Roland JP-80x0 Editor.exe","sha256":"4280ecbf7fe0f53fa79ea2d28aa022eb7e052bfcf52758d3893f542d403cca98"},
+      {"slug":"roland-jp-80x0-editor-pc-vst2-v26.06.06","format":"vst2","file":"Roland JP-80x0 Editor.dll","sha256":"73c885167ec7b7c19a384f6a7efe7fa92b0603b22ba1b906e6bc6e5fc40d8de6"},
+      {"slug":"roland-jp-80x0-editor-pc-vst3-v26.06.06","format":"vst3","file":"Roland JP-80x0 Editor.vst3","sha256":"e46e9dcc3ac0509f745e076c8cc54437502795b6be4796645f08a553310d6e25"}
+    ]},
+    { "version": "24.12.21", "generated": "2026-10-26T13:12:40Z", "entries": [
+      {"slug":"roland-jp-80x0-editor-pc-aax-v24.12.21","format":"aax","file":"Contents/x64/Roland JP-80x0 Editor.aaxplugin","sha256":"873923d8e29c880fcdd98b5affb290f0e1b310dee15b7216c9be7c8b63d2aee2"},
+      {"slug":"roland-jp-80x0-editor-pc-app-v24.12.21","format":"app","file":"Roland JP-80x0 Editor.exe","sha256":"9df3a2afc4add718436c04412e22a5e2df9137dbf301fe07a0f9afcdcbc9441c"},
+      {"slug":"roland-jp-80x0-editor-pc-vst2-v24.12.21","format":"vst2","file":"Roland JP-80x0 Editor.dll","sha256":"1c0eabd7234abe12838f44173d617abdc8095d7b49c47b9317b578f260372007"},
+      {"slug":"roland-jp-80x0-editor-pc-vst3-v24.12.21","format":"vst3","file":"Roland JP-80x0 Editor.vst3","sha256":"ab2e71baf2e47b8b3dfcaf6244a8ee8411d2dba0c910ee3a9c6fd5bc9c4b5d13"}
+    ]},
+    { "version": "24.10.23", "generated": "2026-10-26T13:12:40Z", "entries": [
+      {"slug":"roland-jp-80x0-editor-pc-aax-v24.10.23","format":"aax","file":"Contents/x64/Roland JP-80x0 Editor.aaxplugin","sha256":"01ef005640d01b638652984a1f58f81cd5290378ad1e17f2de8548dc111fdb46"},
+      {"slug":"roland-jp-80x0-editor-pc-app-v24.10.23","format":"app","file":"Roland JP-80x0 Editor.exe","sha256":"3d27e21a267f57cb053ff01e6b1db337630ce24d838025d50a6ac62b228bcaa5"},
+      {"slug":"roland-jp-80x0-editor-pc-vst2-v24.10.23","format":"vst2","file":"Roland JP-80x0 Editor.dll","sha256":"9ff92f69822f97a11173dc90689f08bb73e0b8ebd07dea3f85f5bc16511fe074"},
+      {"slug":"roland-jp-80x0-editor-pc-vst3-v24.10.23","format":"vst3","file":"Roland JP-80x0 Editor.vst3","sha256":"ae0cb39d299e6c2289cad5ff5c366022bc3e621413a77b6fe2624c16e30d2d21"}
     ]}
   ]
 }
