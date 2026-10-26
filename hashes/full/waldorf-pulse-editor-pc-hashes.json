@@ -6,6 +6,96 @@
       {"slug":"waldorf-pulse-editor-pc-app","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"aa933b59795a1c19f45825b9daccb0ad4ce585c5ded461d26a76c912f8e74c87","zip_sha256":"ddd01ddd1568f71cdb9e7667dfc10b6a1fe08f68b740f0b9a055124a2fa9558f"},
       {"slug":"waldorf-pulse-editor-pc-vst2","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"474a8116f9b11b8b341274f7521836e487c522705a99ea1a19de6ed705609ff4","zip_sha256":"1e58e2baf8cd34f48bc132543385a3f72e2ab3d2ef125073516b59816358441c"},
       {"slug":"waldorf-pulse-editor-pc-vst3","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"2dca2674fb74a53922290490bad9c1323a6db04c3eee64d752fd8f5cc5f3e1a2","zip_sha256":"d1b65841d731e181772975d468bd69a8a863ec38205c537c0adf2fe00967445a"}
+    ]},
+    { "version": "26.01.25", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v26.01.25","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"613a1cb9eeb30fb84b01b32cc9c476165673a7f0a97fb6ad38a78c541d69cc63"},
+      {"slug":"waldorf-pulse-editor-pc-app-v26.01.25","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"34e6ce1e9ffee8173ecabdbec4bb720f422e9ad690aa3e25a6d8e1c4fa4f1ed3"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v26.01.25","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"97ee7e5ccbbfd7ec90ea188b59c9c7e20dfd66462d112ccec4a2f4405faaf374"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v26.01.25","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"5a2480714f83e33e13dcf6d27f2290720e044801fcc0c510f47beff3e1e9fd50"}
+    ]},
+    { "version": "26.01.23", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v26.01.23","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"74ced9a53630a6318d6a9876011d803dc4a0789508c3eba744b409882ee65099"},
+      {"slug":"waldorf-pulse-editor-pc-app-v26.01.23","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"22956279d47b1692fcaf5800d23b5292e1146a59b8c25f408f925acc03e2a7a5"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v26.01.23","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"7dcfc29d937288ebbe69c546ecaca7988fecf262ce577f677249e4b9576377e1"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v26.01.23","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"c6679dd9c8e4160cb758500405d3bb7a5676b067a08bffdc42bd875cba7c0696"}
+    ]},
+    { "version": "26.01.11", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v26.01.11","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"614d9f1dba12476715ee7a171a3dffe90d116f8385b360a9708590911f488a67"},
+      {"slug":"waldorf-pulse-editor-pc-app-v26.01.11","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"e02be919cc90cd8836b4f486fcb2754add3552101909fd4395daaae13b3cc516"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v26.01.11","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"a0ce6bd11a0752b11ef975b205bc7b2c5c70ad5343ffa3930295762106b6dd30"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v26.01.11","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"1e594fec22e17e1094279ab4a112f81306e2dc71ee36363e06372d14b8222295"}
+    ]},
+    { "version": "25.09.17", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.09.17","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"38370f7cca68d6ac6dc21079c5080feed541e0b3658a72ae29d7ebbb1c993e9b"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.09.17","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"8d3dadafd0d954ed5b13970c895ef5606e3dc4b052460b7efe39c88923b6ff97"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.09.17","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"76e63b9cc4e356c274a322e9b790d6946c963e6cf3ea194a8fc7d0291f30c786"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.09.17","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"a73b8f21a13eefd45051a5af17f799407cc93958709cf4ca82872ae202f9c180"}
+    ]},
+    { "version": "25.04.17", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.04.17","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"b51c2f43f33c1d7b0c0e91c577cdb87205b6dbaceeabb50fb55b9f1c0210da04"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.04.17","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"2699219fd215429610eed138d9e2a33480800cec6b784f7f59e3165dfb915fb6"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.04.17","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"519987930a56faedf033bbd26698b89f421544f27c74d0e668b006d1e164876c"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.04.17","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"03de7c131cbecdace6861ad3d1637b109369eca2dec35137770cbb81e9047549"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.04.06","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"ae71a8bbb7d2e5858737e14a5d9a068ba6d19f39a6fcc2c9a7318473b3b4ba28"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.04.06","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"388e94e7a596f73663657950c5fd52e914f63d53f8f4a58c20b3a9f70c81d903"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.04.06","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"a3676a3f70bb7dea94e5745fe4803e2d7f3959de619c9ac35542ac8fe4aa1498"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.04.06","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"a74256a40f8dc03aef030b3520c92895a3865beeb0766d6c5d4bc09d585d33e7"}
+    ]},
+    { "version": "25.04.03", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.04.03","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"cc0019f7ecad467e24fa65b50163a3b30e471c6b7b6fdfca1b1bde80eee3c979"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.04.03","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"d5333334acfddd9baa25c05f843bdd90af97bfb84cc690b66bdb2abf0cff9185"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.04.03","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"6e50cca55b15ceab6eaef1599267db5b61144fb4fb838d35a42dfc9181a5dc4b"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.04.03","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"593b7e4d6b1cbf117236090f3e4a9bb59dcc9688f038b7f37ddc7073f3b67274"}
+    ]},
+    { "version": "25.03.28", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.28","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"76a8229cd45cb11cc17d2d1ca97cb9e18b2d53886bda12455515ed887f233748"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.28","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"199df73c3b4f9110468f2d62891b9effe5d5da08b274f537af7a0191906c502c"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.28","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"e2145cceb952a8265b86011d83e51b7e3387250e5aae5fba865cddb46c0e3fd1"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.28","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"67707cc2d497cdc63a2c7b27507df08a3bf2171b36246ecb0a276e5decd4f1f7"}
+    ]},
+    { "version": "25.03.17", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.17","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"2c307f8323ebd959e32a80cde6d4b6cc8872e34d0983f48636745c0068cc3b74"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.17","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"a98856fbb49fdc48687af0a4011d5be01cd75d736e538ff950ee0f2672053db8"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.17","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"541e2be94a66f59c23eec720aba384dca4788bdb119c464be300cc2489604e08"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.17","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"57e32915fe7936b77c2db48a14df973141955e5b3cf130e82c4bf14d01f28ed3"}
+    ]},
+    { "version": "25.03.15", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.15","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"df42832ad04ab6c0c520a785fa8a7556ff76e2d1d5e1521d202bf88554313e1e"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.15","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"a69de2d083b58a6960e1216ec81a3199338f3605a298c905143ed46f1820bfc3"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.15","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"01295ea224c84b2656a69d406d16902d234189a150e26e38c30c5bf2c80cec8c"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.15","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"198fb9f64efe964c7c588d485e3ec8c66089adbd6e3e5232bd2f461bc10b4acb"}
+    ]},
+    { "version": "25.03.10", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.10","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"f95e5eb87d0d317e00654b371a2c009e10daf4e131595db45f5ea387717f8a0e"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.10","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"626030d7f03df6c9a9e1e689fdce813e2c31fa3db485b6cbe38a8026c4ca3df4"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.10","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"daf6701f52d88a99024643272910c71fe1e1af9608e2fc7f533bb4972d63c1ec"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.10","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"a78e21c6df7d0e841dc19d1dc941fbb7281366ec55999f5c2a43310c7a1af588"}
+    ]},
+    { "version": "25.03.09", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.09","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"9e8fd1d13980c81063d6544303e20255a8ab27c5731473db40e75856bcf72c82"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.09","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"47938b0581f6e263425ad44038c5bfff34877978178ec0ce19865e42383ef815"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.09","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"1f64faa336ab9801d901d5c9c366f01aebf0ff24c5218329f77ad50bed1d7a15"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.09","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"c5debb0b9346cfe910bd7882832b8b669f75a81a44e46c9b2c1bf98f59cd0e59"}
+    ]},
+    { "version": "25.03.06", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.03.06","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"a957017f05b1d4f5b5b4804c6bdb946d74bf1ed9857992d62480884c658e28c0"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.03.06","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"cb586732b5b66ae98fb3fe0812abfd25fd403fcdc736f6bfe845655bebf20999"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.03.06","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"5c9c5cff1b6a27234e22442dc04136b2a050cbe1fe5b474d2cd998f9df54a323"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.03.06","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"eaf2a4fd8569baa34f96644342de9dd751e420b6155b5120ac5b5c1747ce27aa"}
+    ]},
+    { "version": "25.02.21", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.02.21","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"65f663bf28e99c57656dec9de8ba70a6d7a9efef6dd14c2e22b39b2e3b70a1b7"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.02.21","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"09a22c686faaa428b211d85b4fc735e9ecf2b9cac95d596654a5a85f4f33ec67"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.02.21","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"45761f8353f93fe2769636d0b486fe69c251855449c30344ef145d5e2adb06f9"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.02.21","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"0ef3760705483930b3ee679d4438c5903e05cbae7a640f2163ef2f3199e9f8e4"}
+    ]},
+    { "version": "25.02.11", "generated": "2026-10-26T12:40:23Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v25.02.11","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"898b37791e5670e54c5672c1fc89d993daa9d772a924b73d1dcd44965b9205e3"},
+      {"slug":"waldorf-pulse-editor-pc-app-v25.02.11","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"52f71205e3887d9d42a5e1c7ff9c2631b0e0e9fbf6d07618830d9d0195b3f60f"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v25.02.11","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"1d279da3699e119dec006642400601c1ad8898b6dc9b9ef43b6377a428dd3154"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v25.02.11","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"8b71de3f8c60fb2aba426439a23790f34ae8f0f13d45383e883ddcd7cd4b9dff"}
     ]}
   ]
 }
