@@ -7,6 +7,111 @@
       {"slug":"tc-electronic-d-two-editor-mac-au","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"59b3075a4a8049a4d071ca1bdcb9d38cacb6964da760ee2116b7d025be50b408","zip_sha256":"22c9553d066b68791f3e1f6853c320fd620e78371c92b8123518130d4aa27a4d"},
       {"slug":"tc-electronic-d-two-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"fd29c9d99e0aae4d3d796c12d3db5eedd541553b77d7e77b1af82319e0b7165b","zip_sha256":"4902e397d312e5ada9abb40e9ae3006e72d3a3e5a3a0186eec347d4f6dbd771b"},
       {"slug":"tc-electronic-d-two-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"5c5eef71f20afbc177c5bc410ab63c89ffda5bb82baf054ac10d5b4ec338dfc7","zip_sha256":"b9f7cd1d1c8b681a71381087d6dbe8eeb848cfed7db8eb9a215b647e10a748e1"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v26.05.13","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"4cae4e61a0ae4c9a3974cc4909131cc1e81d33488200d7b7da23341b3a73c37c"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v26.05.13","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"6e0168d30b0f27943d4f13c1b14451938b835e8b766a5e82078724d9d6ebd415"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v26.05.13","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"eea8e5a9938219e1830bc1080ffdbd432136a59c490b7666f579b8af40d957ab"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v26.05.13","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"cbcbd1b358c3197509fd935ef17a51f9177c5f7afa8324b7dfb950c15e9ed889"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v26.05.13","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"3da4e6dd4bf79f9c41cb26b448740448113d6ae041cae43fe535526634597806"}
+    ]},
+    { "version": "26.05.11", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v26.05.11","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"c6eadf28fa7789f4f950230c5ab26f8a501982e029734dffd9b2459656b95000"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v26.05.11","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"a89a71ed794925fd21550fb9c6be6bb51cbe1a816b8deae51250b1faa446ee64"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v26.05.11","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"fca99d9da293aca92e7dc63344468833bc94d13a7cf376ee49437c8b1f1012c1"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v26.05.11","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"c57aa48630ad42101cc80f26f8cfa2db628abfa92ab580c8cc164cafb6988e88"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v26.05.11","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"1e26666b3ea362ee9b78336b399cd78b9705543569138956aae737257ca55b56"}
+    ]},
+    { "version": "26.01.27", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v26.01.27","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"6b3e77e2189c731d9c201c4e4ab1c276dc75463efc9a7c97e7b4815ff889eeb0"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v26.01.27","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"6c35df4b6933ef10edd818124f03d073afb633e12312ce837e67002bfb215dcf"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v26.01.27","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"29103b5ec2d1b163545884f5ceb03e4c3eed1449e7f77b9105bfd30a421953ae"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v26.01.27","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"cd962f7d1ea4a7fe844ce378bbc17dfa6c02cc67f307fad21538446f16ca77b4"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v26.01.27","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"8a397faf15519872d6af2cbae52c95bf1430227f983e5a5ee53f15fda59da02e"}
+    ]},
+    { "version": "25.05.01", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.05.01","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"92771908a5218c3f35512ca8dc0434ba7961497b341ea44621347d784bbec7a6"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.05.01","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"56c09c76320b627df5cb2a1c8ca438f00c230f24e5f99ea8f41bbb6649a17e3e"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.05.01","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"3365531267d61bf48fb1f50de6f6c80519ecdcb55ffa11ca9db0c0156bb5e4d6"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.05.01","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"4001ebfea8d76f7049b762a99ba99bbd306b5df50833e882c7dd4123e69928e1"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.05.01","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"6db1c9ea2926b3c88556de4872781f4ea727f1e63a21450af67b78726750834f"}
+    ]},
+    { "version": "25.04.20", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.04.20","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"78733d3b37fdd433f94bb728fd27b95591e6c335d947487bb7d17ce5efbbb150"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.04.20","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"55e4300d6f05dc1c471b81e1aa5b19488548531df8c62f6721754ebc246e0b13"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.04.20","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"902df3ca5ff21556700f13169c1cebeb015dc320f8c2947ab819193f33b7516a"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.04.20","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"1f8c03e8805bf981bad38393cdaee3a91701adb09bb35bb1a6d73e63bae4ffe8"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.04.20","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"dd83f1bfddd37f367668318b9e31b5fde83dc1a1764810159da6c87e9892ba13"}
+    ]},
+    { "version": "25.04.17", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.04.17","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"029c0dffb0d09201f3bfb7dabb50b8d623f959d0034b7f4d34b9c087cc0c5238"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.04.17","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"8876bb86717a986111c7b836c7162ab76bde3f8bbf1e8b3f5d9568c33d0346a5"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.04.17","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"986417848611caf1bbf1b594b115e79a82fa22ce15ff47c7705c5d0d3c71843b"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.04.17","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"d2e98cb4196bea9d48a344338f1d6273f8e3113d546f28c6b70ca354d489cec5"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.04.17","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"b2c7258c76ad544437ffaceb360ebf4af8ee451af55afea1bb1b4e4f32434f05"}
+    ]},
+    { "version": "25.04.16", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.04.16","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"b16e8a31515797bd4e72acd100fd5e41fc4c9a66dfa2880568ad059c60f885e3"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.04.16","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"8b689df5c266ddcda83bff154bf5f799ef3715a1757f2d3d3fc575f68763b437"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.04.16","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"39f1d23a82c57e5b36baf29392364094fb30c0bdce24ce33c9763b362040c249"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.04.16","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"a673ad3cbeb90086b41a9cfb8240f3593f79c9cfc99bd4618985c6b63d53d215"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.04.16","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"f622c1e6bb85105679fbd90b82281670f205e8eb28179d0af8c5ea9f06d3027d"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.04.06","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"eadf61b73076e7058e086e67e929213dbe7c91bb10066cea4c56b3205e994f45"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.04.06","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"9b606d03a0fbd2563b150ec68e776921ec2eee42dd576de6f0b3a31ab84ba419"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.04.06","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"d19c91ddee5714ff4b25f8afe66dafa828055cad4354881079f5aff8d6167a0e"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.04.06","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"33a8187171c06a9b949d5c9d30fa9bd29f15825bb836daea884bc53c6e859cdf"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.04.06","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"ce3d3baadaafb16a368cd6788394226d1ea5009dbe8bc8770614918f3e098ead"}
+    ]},
+    { "version": "25.04.03", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.04.03","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"481dedab147141f9ba1b0f31441ad04ccf75d565b5001327d1485dbfdd751388"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.04.03","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"37f5139637c360b8cbc964edb98a2064da671fac85bbbfb835120b2529f14d06"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.04.03","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"e97999da466c2c56e8fd184373cbd24574cb75f61ed233f069700b3a2fc13dc8"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.04.03","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"fab71b9733468148c25d13725c6db7e3e45946d3118d7342f0ae2567310e48f9"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.04.03","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"7b7a449ef6839b29763b10a200a1a96a0e2d85188ba1dee4cdfc77aeef2afc5c"}
+    ]},
+    { "version": "25.03.28", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.03.28","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"e54011e72fc184465ac07365b12b47b7403b0d7a0972e7dfdff598b5c3254644"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.03.28","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"013ecfa368d32d7b399c457a0a3943cfc4e2516c0b763cbd3ee036097746cd1e"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.03.28","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"bc9be191f79dc555b0242c3453e32cb0900c6c59c9687e5030723805e240eb6b"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.03.28","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"8fc8cd2a292a9934aa57791dd3148e0d178f5ab13407b5903c971cad2d8f7ed8"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.03.28","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"fe00474bd7862ba6f18a6325e2f32124097969403bbafe5a7fa12aa8f40d3f73"}
+    ]},
+    { "version": "25.03.18", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.03.18","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"f2386b62ecd903ba4ef8980beb9810ca6b910185c2d09b936b81526baceb4622"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.03.18","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"0be5d0810978667cdb01859fbc6e8806eb9dc3a6c48ec38841b1f0c64ddbacdb"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.03.18","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"e93909165ed649860395a2922ab1fee3e745fcdfa24c4e1a4e28d85119f16281"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.03.18","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"a122c86f224d3140b8de4819c846c38842e11ec96e88d437ee1753e864c26db5"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.03.18","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"dda452e15565360d69f61531ccd8c114ec8b434afddc64f0b4784b673ddc70a5"}
+    ]},
+    { "version": "25.03.17", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.03.17","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"eb9e1e66fc068c822c43c58db62364a6590e81875b4b65ecea42a5fb82884468"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.03.17","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"4ebb7dfd9518eeb5ec2066c88a0d0c2ca2f0f2ad5b28723236a07e7d06c2cfe1"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.03.17","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"6267be1deb20d25b275a4783d932adeb70414098d00e5c15df04c3a9b8bb8390"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.03.17","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"8cc32615dd4bba9b9a76092b2bf16f0d2ceb8da3884418a78436dfcaf1bbf1f1"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.03.17","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"46129845801d63aebc9956983b2615d28e635fb042dd89b0a4304314a990a792"}
+    ]},
+    { "version": "25.03.10", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.03.10","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"3a98edabada123f240da771e10e2d41ceb76963be0f76eaca9767e8dbb6481f6"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.03.10","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"06b1b3c8e052bff83272624d95286293d3ea379e93266d4e0fa3c957ebdc09c0"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.03.10","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"e8b90ae11b1dde754dadb778456567aefaad5a58ce3be2086cbaca5e16857da7"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.03.10","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"fc6eec49620a0d7e708b79a1e671269454a106e3e8940252a4474680879d5b90"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.03.10","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"df8fbc8d396393b9f0d037f206439a0534b70eaf34c8e16dee54df30268a364f"}
+    ]},
+    { "version": "25.03.09", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.03.09","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"0161b191b13ebcb902090a43a1041a64ec040b2efa555588b21ce55fd45cf9a3"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.03.09","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"aa1e9014dd5f6ad3c5bb693456ae703d5e1f6560e525a3107551d5fc8cbf2ce6"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.03.09","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"5e43449dcfc32de4658b81276880f53f2a688bd746357f8f9fc6c2ab2c98bd50"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.03.09","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"90afc42da1df28732f7427ba24e2f067b562dba1cd762628afdcad7709ade57d"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.03.09","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"9d7f47d8019e6c8b9e537e9eb9645c3d1f42ee6545e4affa17bcd6727cd9b3ab"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T12:43:20Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-mac-aax-v25.01.24","format":"aax","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"2a1d0b933f30ee5bddfc322e789c6bd4995f1059c90a09ea459288ae28c054d4"},
+      {"slug":"tc-electronic-d-two-editor-mac-app-v25.01.24","format":"app","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"090ee81954ec7888cf0521d3866718e627ab6cf0767e1348738e46958c1c10ca"},
+      {"slug":"tc-electronic-d-two-editor-mac-au-v25.01.24","format":"au","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"42fe34366d4b51c07edb549994cbd0d0390492690177ab18fb09bf40a34fd6df"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst2-v25.01.24","format":"vst2","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"76310fe02c2ad9b4fa8f814928c3bbccf363b0656652f4f5860b51a7dff0a3e5"},
+      {"slug":"tc-electronic-d-two-editor-mac-vst3-v25.01.24","format":"vst3","file":"Contents/MacOS/TC Electronic D-Two Editor","sha256":"3868be8f96ccbb21326822cce9fe3c928e0406321880cb7423547b3f582788d3"}
     ]}
   ]
 }
