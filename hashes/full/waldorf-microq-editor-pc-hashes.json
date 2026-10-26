@@ -6,6 +6,42 @@
       {"slug":"waldorf-microq-editor-pc-app","format":"app","file":"Waldorf microQ Editor.exe","sha256":"d06c60702240afd0d52e0c66b4b114679de45e4104245866eecb6961f19c44f4","zip_sha256":"a94add430aa7c5476cf68c60931c7ebaaab40b9594f1cd190b3a2d1d24646a57"},
       {"slug":"waldorf-microq-editor-pc-vst2","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"398c0da08273940a64e4cf37d76c76fd455504cd5ea34dbd4073c5828ca61bb4","zip_sha256":"0339e29ca3ca33a802d685ae4c9ca7be6ba1288abd0d2c4997b49f68c6b780ad"},
       {"slug":"waldorf-microq-editor-pc-vst3","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"acd8fd938725bda4415375e885592fc1120e12258588e5facae92444c871d536","zip_sha256":"025b014f7f2a6f95299707ec8d59c7db4358f51320377854c867d5a305e7bcff"}
+    ]},
+    { "version": "26.01.23", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v26.01.23","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"a000d9928550583c370e7e4a349ac30c2f4f670cf96142527164b34231e825ce"},
+      {"slug":"waldorf-microq-editor-pc-app-v26.01.23","format":"app","file":"Waldorf microQ Editor.exe","sha256":"fabe50296ca3b1bc4c250dcdd4052773309c7ac7236d01ee0c7951c310412ea9"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v26.01.23","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"1e38054f4f915e4ec440912ac02ef21d813d5ea5a3cc9e147ed57c280353722a"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v26.01.23","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"d74d841be26645f7acb3a54b498f559f669cf450b71d9e496694d48b8cd1ade5"}
+    ]},
+    { "version": "26.01.16", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v26.01.16","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"553506a49dfac2a7e6decf2795056247384f02c0db314c77cca06853755e7171"},
+      {"slug":"waldorf-microq-editor-pc-app-v26.01.16","format":"app","file":"Waldorf microQ Editor.exe","sha256":"c23e2f4ac4ae4aff9d9fe16c40c5dabe91c475340caafaeeefec466e122fd7e6"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v26.01.16","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"1e57992fcb835d74696affb86631bbef9e63ba1c0012c42d7c73fdc84239e600"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v26.01.16","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"bef7d8f98c4bd1b148b13b9c0900f9871d77baaf71c92c7a7583e648e5201cf7"}
+    ]},
+    { "version": "26.01.15", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v26.01.15","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"addd9dfb45c78df6c69f17c370391612adae99c1335ad8d9515afeed55250fc4"},
+      {"slug":"waldorf-microq-editor-pc-app-v26.01.15","format":"app","file":"Waldorf microQ Editor.exe","sha256":"64593335bcf02ea950d612283d376fe7a1b7fc17dca688c6a446d47682a0b868"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v26.01.15","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"8513af7c7176821c2151e91d338a8f3ff1332bc86a6b28d3b7ae42f310e33798"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v26.01.15","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"c6826ec622b1197ae44a027665dc2f66e5a4e989971abc564812e699f3653342"}
+    ]},
+    { "version": "25.09.13", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v25.09.13","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"768d10f4e4075f3034467f12537be43213cf489638fe6d286e920f1c287fd74b"},
+      {"slug":"waldorf-microq-editor-pc-app-v25.09.13","format":"app","file":"Waldorf microQ Editor.exe","sha256":"7a15986f8a684a5ba07da217db5e3217b53d136a985cc22bfaa78369d169e4f5"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v25.09.13","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"f7104bb6f560952e22b562c14b237c5c8d619bec81092d0f68e2df93873ea534"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v25.09.13","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"d3fbe3091fd732b4241b22da816e269a833fba50d7d3725ceeaf9ebec9ca0314"}
+    ]},
+    { "version": "25.04.17", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v25.04.17","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"ffcb56191bad39040416dd36ce0b0a7e928094f860ac95a8b4fd795e1db5fbfc"},
+      {"slug":"waldorf-microq-editor-pc-app-v25.04.17","format":"app","file":"Waldorf microQ Editor.exe","sha256":"0792665bb43762b39d5a0bcbd0ce64d6e7ccd3c8f94c1de6920878dd7877af15"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v25.04.17","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"0f133c29dc33b0a438d0724a9e1db3c6f640e2466dba87623ebb337718492abb"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v25.04.17","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"b6149b08d855281e5fb3a0b104e751503bc5731233bdab1c1b0184c5692f0af3"}
+    ]},
+    { "version": "25.04.09", "generated": "2026-10-26T12:24:47Z", "entries": [
+      {"slug":"waldorf-microq-editor-pc-aax-v25.04.09","format":"aax","file":"Contents/x64/Waldorf microQ Editor.aaxplugin","sha256":"4898c27aa3231c2f567ab7be00603e6f0817e5ce2a228654bec4da9b5263f90b"},
+      {"slug":"waldorf-microq-editor-pc-app-v25.04.09","format":"app","file":"Waldorf microQ Editor.exe","sha256":"eaa9d14c8e41ea236c843f9bf28b53fa279078d6c8d69bcb46b75c84c48e0132"},
+      {"slug":"waldorf-microq-editor-pc-vst2-v25.04.09","format":"vst2","file":"Waldorf microQ Editor.dll","sha256":"3b352721bedb46a452001d8d82470ee1311783cdee23bef5ca2e5eb7e92bd103"},
+      {"slug":"waldorf-microq-editor-pc-vst3-v25.04.09","format":"vst3","file":"Waldorf microQ Editor.vst3","sha256":"43a7ddca4554e949e8d11151df7df7fc83f8da1b81ec18cfdc185f80adfaada4"}
     ]}
   ]
 }
