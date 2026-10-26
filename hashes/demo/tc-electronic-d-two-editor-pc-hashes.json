@@ -6,6 +6,96 @@
       {"slug":"tc-electronic-d-two-editor-pc-app","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"6403c5aac81fe516d45ae5697ec4124b871bb5263fe3516eecced1bbe3d94709","zip_sha256":"1d789cf6413b687290ca927a2e082b2b81c1ee7e7edb8edde19e1c69cd1aa94f"},
       {"slug":"tc-electronic-d-two-editor-pc-vst2","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"1d18fbe75c36873009f76b0ab215ce72e280497a8284044ab4d03f120b40ddc0","zip_sha256":"01c01ce3d2e82e6eef0cc5a0f9cfbc735cfc5cc9682c42c7e57a0c9fe40be1be"},
       {"slug":"tc-electronic-d-two-editor-pc-vst3","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"0df29931ec43bc6c497889f5b8c2461a92ff62f7a8cd4301318a9bff9d00e3ff","zip_sha256":"debf49423dffac467ae1bd4e17a894c9835fc402b29556caf6443c81e38f9836"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v26.05.13","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"103352d8d13ce85b9719de4ab81fdb725d18bb84eed7a95ba6345f7bcb590bf4"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v26.05.13","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"f96f09104a8cde7eed38a5076120d650f746c2ce50b97a759893ac8f513e2e08"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v26.05.13","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"439fb61b7f28240191fece1d1f09680c14a91e50ef18b134428aa50bd596ed84"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v26.05.13","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"94341d80e75de455cf1d28cb586fe7f1b25241b73fff6634fef78a3e2bc4eac1"}
+    ]},
+    { "version": "26.05.11", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v26.05.11","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"2b0632befd56a1abffefd22d3151d05e6871d22278d097437524660e91ed7d28"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v26.05.11","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"dfe0fbe0029039313caff8aa965017f5b31073e12eae67d53c31f3b41ceda76c"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v26.05.11","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"315aa525b12f5f4ed6c4f9e518f3b9c0de490bc41763e778b7ae5cde1627f085"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v26.05.11","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"2b4be99e26bf16d1d0ec0abc43e4b464554c00201fe7a296f7035282720af8b7"}
+    ]},
+    { "version": "26.01.27", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v26.01.27","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"062ec9addaebd24a87f1243e3a85cb0ff4063f49b2e05987034daa8d5610cb49"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v26.01.27","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"06c22a1925b0181b159ae4026739e1ab7e1dfa47bc1bbcc5dd5772cd8a842cc0"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v26.01.27","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"2ea52b73e234f36646a3bf951ecfa95d343a35a1bdb99968d06ea32c26c69c31"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v26.01.27","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"175fe0cc81447deabe44bb284b2a170d4f85be7d3d65e228068fe92c20d6639c"}
+    ]},
+    { "version": "25.05.01", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.05.01","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"39361d5df8754d539985607c3955580b9e13651579eb0073a55965323b1fd8a1"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.05.01","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"471d9104e39ad4ef2d926d3df4c80e32fe4f2e5738e943b8622579447544cf03"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.05.01","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"97153e594ba7c3df65eb2dfc2a7151d6f89c4c7760360125410c2ba17c8059ef"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.05.01","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"fdd3aab8b122e8bd49934edb7023830280c4a6b51b1e87f8c9d5f5cdd6f25f84"}
+    ]},
+    { "version": "25.04.20", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.04.20","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"6938bbcf9719cfa858d2f11c0e5315ec5d09ef6aa4b9971d80e1549f8391c84d"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.04.20","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"aa8fb1787c8466938e33c15da4276205f288334b43d539ff106b2bcd0cbdba22"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.04.20","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"1559b528be756af77f74ba00fa509af850b073e4284fbe41ed9098cfe37f8cb3"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.04.20","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"cb41f1ffbb30a14dfb2fa535bb9bcb5f96353f6e123d50589070fed0f6c71af7"}
+    ]},
+    { "version": "25.04.17", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.04.17","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"f68175394707ff0c3631ecb4d945a581fbf7f93542dddded6e4cbcd53a696606"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.04.17","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"6cc8d77d8cb871c8bf1e91b4b9419d02fdcd50078e59f3e7ae64ff2c3446e8ce"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.04.17","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"d1a45e136e42e1b511dd0f869050f3884d0bce767d95c618a16dc9ce8baaf165"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.04.17","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"ce8f0d9f0ee27ae32e43e06d229fdd5d78eb2c85468ef6a1caeb1c9b7de313d7"}
+    ]},
+    { "version": "25.04.16", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.04.16","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"e9e90b8244f4c8acf4927915758cf1e2bdfe2e5bb38d798cf6c4baabf995a3b0"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.04.16","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"54a1eaff09a6ceac3914ec152d04d33430c2d76b292e3a98f4e05fb97ee150e0"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.04.16","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"eeea477216e50ec7e928a04098df9f2e16cf0d6ba529d30c42ef0c8840a92e52"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.04.16","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"2ce7a29b61c461f0694203f536c258745b0fe4c6a05c6a4fa0a1d5e160c3786f"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.04.06","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"9be395f7b30d08e5cc38337ff54cb4661d9b052f64fa7d29988bc489ecb9d57d"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.04.06","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"e69404d07aa1d6eeb802b043be390274f5bde775fa090a2c8137a1226b01d54e"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.04.06","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"c8d6fe0c85cf02a5cc309fc3e375368099bcf3a581f857621acb4ae6a83fec6e"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.04.06","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"3798ac3d6d3f37215284f5a09958467e238afa9aa4e41f326ec965e84d2092d0"}
+    ]},
+    { "version": "25.04.03", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.04.03","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"08ebf453603434700d0c022f8bad10d1d279065d4428b12df66ce2e216da8318"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.04.03","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"876e8da4ba07cb30e26c7704fcb290ba76a2cdff5efbdc621d45c7014a1c3a9b"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.04.03","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"3e35b1b052369ac3970015a62e05f3c5ff251d106633bd458f29cf070de9120b"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.04.03","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"73d633e2a1df59bf4d5bd0aa9450cad9e37cde2b0d5d530e1a2318d95d8b1286"}
+    ]},
+    { "version": "25.03.28", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.03.28","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"5cdf85c2c06ad2b4f36fc9228aa9fa0fbefdbc967c83b97acd59dd6010a3151f"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.03.28","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"de6e037a9ccee5069dfcffff6701ba3a041b5b9feed47e189424c61e792b6c4e"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.03.28","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"2cf705f63647b01efdb5b409c9a5541d426b4d4722bbc197986ad433dab5ecf2"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.03.28","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"bcffa6af7e65cbc0baa22d6c384f36dd9e7b8cbc8bfdb75da9dbfdd038a7f359"}
+    ]},
+    { "version": "25.03.18", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.03.18","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"84a77ce43ae1caa390b7a6ed7b637732fd2dadf3eb074f8e4dc0bbdf9b44e9aa"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.03.18","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"c8a20b48277185aee9db539c27db0d925b1ac9a5f036961c0d7eeace2bada901"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.03.18","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"a19d5dd27b8ac5530e36cd277c1f4447c62f9c38628887c6da3747d6f51c9538"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.03.18","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"03ce55f8e4c674119e60c7fdd972729d91f7ed69c3a606f4466b4c1311f13384"}
+    ]},
+    { "version": "25.03.17", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.03.17","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"f5f7573badb76091cc184d319003c042b7e6baed1309a3663959f3e21c948446"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.03.17","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"f9e49de9ff2e561021395aeeca6216eac20c6f3b4f656d41abf337f1baa25cda"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.03.17","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"a66a7d169be960bc2445c284ce209eecc0c3087d43ca614829d9b6c73095c1ca"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.03.17","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"30f839574e6c767e64c5f075b9a10f7ee0ae78acf3f69554b12300594a10e6b6"}
+    ]},
+    { "version": "25.03.10", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.03.10","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"1201f7faa04ba4d9b26a10df0a9f353a8a2365400599189e4b8f7a9d41f71c8f"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.03.10","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"3fb993450efb7d7142bab4daadb17685f37b4637b2c7361d02e1c10d8933789a"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.03.10","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"5dc5315c9167852a5e81ad31cf32b594d28842fb906da707816bb96c8a81c5fb"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.03.10","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"237acc1eb40dec3f2d5e5d7dcb880cbef91c604fbd410f689714c23124351a6f"}
+    ]},
+    { "version": "25.03.09", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.03.09","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"f509d184c36e1774e701f2f9b6fb41b4b75c4a7657bdfbb840eb5978ba5b59ea"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.03.09","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"0250aaba787d798234b8e4d323ab4280599e8b46a3950149b505cca9e8079e93"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.03.09","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"e66f46407c3133d9d3d5ac3c631167112a121b823bdd5a5ffd4e4a349b799877"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.03.09","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"e3046bd3f49f8b9e12da6fc03b628fdacb21d3b7933e8a4f3a7ca3aff8f4565d"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T13:01:25Z", "entries": [
+      {"slug":"tc-electronic-d-two-editor-pc-aax-v25.01.24","format":"aax","file":"Contents/x64/TC Electronic D-Two Editor.aaxplugin","sha256":"27f30c47ffc60fb21a3db3974b9843f4a37e5b19788614ad5f7a74c7f720dabc"},
+      {"slug":"tc-electronic-d-two-editor-pc-app-v25.01.24","format":"app","file":"TC Electronic D-Two Editor.exe","sha256":"bd4e59581e9223073cd97a2afdc6275bf042991ee26328427e885bd18c554aaa"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst2-v25.01.24","format":"vst2","file":"TC Electronic D-Two Editor.dll","sha256":"6aa74d17c1f52b54b69b32975dfcdc9374cf0b6b88c87fa63aae1965f8ff845e"},
+      {"slug":"tc-electronic-d-two-editor-pc-vst3-v25.01.24","format":"vst3","file":"TC Electronic D-Two Editor.vst3","sha256":"6f86f230483618b42f3e596977984206243d32c5d238d73153fabe2a385bdb7c"}
     ]}
   ]
 }
