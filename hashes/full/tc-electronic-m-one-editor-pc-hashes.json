@@ -6,6 +6,42 @@
       {"slug":"tc-electronic-m-one-editor-pc-app","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"e22e39700f1fda106e98a43b25a855f1f0cadbd2f6fa4565f9324e95a798595f","zip_sha256":"1a52739a53cc5fcc77a46438999aaaed4b2892b4717b73c73f8c97d0f7b422ac"},
       {"slug":"tc-electronic-m-one-editor-pc-vst2","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"2cf14e83b6a53e1abd48d69bdcb84aaa7488bc37d49709a382ff32b11e8fbc7d","zip_sha256":"f41fb189c90068b355dfb45c91894948568d1297f1bfe2fd579f265c33ad49b8"},
       {"slug":"tc-electronic-m-one-editor-pc-vst3","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"05be9fad365ffae1e5be3944cf8b844e6a75a5fc231a432d235d1ac708aaf2c5","zip_sha256":"6662bae6b48a407dc5d90c6ad55419b7a2a0268fd34c2defd36a33394e38880e"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.13","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"ee63cf55f0f242c94ccd5c4154a52f8e108e32febf2441d45d36cb87c38f0c15"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.13","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"5315a232c41ebe558bce6246d967c52962da6e40f87d6e7a828dff6ff64e457d"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.13","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"63cc696ec4c664141d37610a435cd288eafbb47062f312137c70ef9fba9fc267"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.13","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"24efe35d0471ef4e7aba5b9cb9ff4d2026751d842b449d496b53c5391777e2bf"}
+    ]},
+    { "version": "26.05.11", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.11","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"d89022e1c8c17d9b2edcd0395ab7b81614042b57d42424580ffc078168198f65"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.11","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"16b6f430da6b3317d01777619b4518641b2cb525269c60acdca5f5459f2951c0"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.11","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"4b91bc280fb6b3814b1f8f4f54fe61581b1a34fa1931b2db96e5b565e61a9c59"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.11","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"a2735ff94495156092f740c7ce12c7c663985a6a699fe3b3e09fada720a76338"}
+    ]},
+    { "version": "26.05.09", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.09","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"42fc62a2e1084e84f7264e890fd0043bba126e8d1f5ee76de76337cfee0884e6"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.09","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"e1978fd3d9005b785a55bbd5a5d480a57d5fc530dba4c99b9a9d56fbe07640de"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.09","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"596095af5e84052e0db9f4c3dbf7c1d020ede779d67fe55aa3a035363c645763"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.09","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"7f9a5af2d95c2f0d5231804df0e3dd4cb09f74e770b9908b9384ee4f8eeab24f"}
+    ]},
+    { "version": "26.05.03", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.03","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"dd03abcff6c14bb87dc9feb3973eacb752d3cb14b13980fd5f19f1232736f1f2"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.03","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"eea6c7a30739c5a23ca12404e5c89a84a6de15c38d69e82d9c00044ae16f772e"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.03","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"2569394425428940d4122d4558a9b4fdab199338f4d84d01c9559e44dd174709"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.03","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"8a3a761697cea0ed16797ef7f929548f4f863e7cc32eea2cd8a289370d2ba9c4"}
+    ]},
+    { "version": "26.05.01", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.01","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"c08b6cee0698029b112ad170bf9d83253dfcdbb2f455a67946eccae531d0c963"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.01","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"89adc42b4541d46c74336a2fb8d758cc87b668bf7312a8cebb2dc1238395f536"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.01","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"c900d5d836bf612db7accd050fb94e7bd17b52d69b99061bcc85e06f1583e5c8"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.01","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"7180f14f2a65983b33001bc45f1ab716d1a97c1000e860b4fa91f57e9fea2c65"}
+    ]},
+    { "version": "26.04.26", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.04.26","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"e21759366043c3321e74637e286647b894616a93c57d41f205f33efc59fbd36d"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.04.26","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"b12be460d794d04d9f15fc9af6051972a8c4acef3aa5fe652b45ef909017ee74"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.04.26","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"cc66cbaad3122f4f8473f6fbbcf8346b8bf4fa9e8af8b8735ab4e670d1f8fab1"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.04.26","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"52ba068233ad8640db8ce484a14662ec406fa306bfd0ba5337da72b79866b775"}
     ]}
   ]
 }

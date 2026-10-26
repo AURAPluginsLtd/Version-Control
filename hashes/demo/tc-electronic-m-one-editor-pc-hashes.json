@@ -6,6 +6,48 @@
       {"slug":"tc-electronic-m-one-editor-pc-app","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"b3c757fd6246cd422e7113070dcb7f2e062f252528f6a32ed4b7ee802d2ef23d","zip_sha256":"649c24f3351ee01e9b31f8635f18c49c37ca2d6230d177314ea3fa53dcf85826"},
       {"slug":"tc-electronic-m-one-editor-pc-vst2","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"3adf78ffc2776f7cacecfcb08561d55313bc83c7e6679526a1b7b5169cf3af7a","zip_sha256":"10b3587e547728377a0ddfa915e6af98e764d04e727fae3a80ffa6268f03d50c"},
       {"slug":"tc-electronic-m-one-editor-pc-vst3","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"f26905216e35d6165ddff9d3c1cbf79414bcb3b9eb41dbb7691ebacc461cfe62","zip_sha256":"e8a1393c4d4b0f1e58284606575e500404dfce5c7b52702f6e47b4a57ebbb2c0"}
+    ]},
+    { "version": "26.05.14", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.14","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"8abb16d5f8ae5140c930ab14b27f2ad4188324d876c0e9a1004a7e7014a10a68"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.14","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"a8d784147ddc047916dc0502a6011bb1b2222d65c14f7fd3afad44b3096130b8"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.14","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"ce68caa0155483f3deed5e165f8f89c496172f9f84f1b863254dde1386c1e5e5"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.14","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"4b757f92b5b85818f19a511aa8898d285aa5d2e278b1c081135de7a3a1bbb5cd"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.13","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"c23e3b3f28419082ddd3a92f45a426774fa37522244037cb1be472a8dfce6aff"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.13","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"6bb4781cf97f3b251d5851ea9ae08e401af0879518f4f0bf166d54c24aec0456"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.13","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"77001fbadcf46bfba947aa5224e9eff925e27187d731354c01f951d3a67bde47"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.13","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"6ee1878fcd1ccc6f891b45da79f592902ed75f3a3bb9f0d2cb98ad9f4cdf3da1"}
+    ]},
+    { "version": "26.05.11", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.11","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"b6ba63ede04644e4d9f16233375457d91f784fdd8eb7f268567e9e69078c7b00"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.11","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"ff07666d3c77ed3f2d9feb950c3d057aff9125908677490d12e38902f9a5b512"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.11","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"24de68a71a21b8fb141d12d7b0ee07d48f813023fbcb2ccd83949f06bc8bcceb"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.11","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"8529df534cd8c75828d9f6b2f50ea92dee721441684b4a9bf5ca8165380da0a9"}
+    ]},
+    { "version": "26.05.09", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.09","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"033157a08f7bbc25197f5336b465435db7f94ff241e186fe0b8dc50fac70277e"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.09","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"420650ce923d2e7cf192c078ce0baa1992155e48a0031d31d36d6b7a2497fe33"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.09","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"962f6e76ec1231fbfa52a50c17bf2284e23b1e7ec03943cc323d490b343fef53"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.09","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"027e2eb77196c3dbc7e3f2206661d8ffb1037f327f738b185a18f57e950956f0"}
+    ]},
+    { "version": "26.05.03", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.03","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"3ac074d5b379a6205b61b2adedfacd2d1a5008f6eefc41aa564bdf35004e6dcf"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.03","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"a8ec6634c7970b1c1d8a0ca03682f6f07fcc818d0a11799c413736e54742f5f0"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.03","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"0d23b9c818d10e165cc36c63726950f704a9ed4f62bb93c8103d41be904fa33d"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.03","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"ecc09630b5006bec3e5e3d3bd15eb865fa28cf5786267b3795e3a472b3e90b2d"}
+    ]},
+    { "version": "26.05.01", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.05.01","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"b7fb4223fffe6edd3a313e5352c34fb978e056d4ec999079eeac758afbafc1be"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.05.01","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"4c491cbb7415f3b493f4c427b89451e0a3f57478b4e35a4d1e266d7923f19c03"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.05.01","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"3f8c53fce3a3e36fce6c866b732b2f701df388d2cbc50aae5770d600cc1006a0"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.05.01","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"98a724268b5528d81cff3db40a2244a7a98470b18c2467be741fd2fa8f82dd01"}
+    ]},
+    { "version": "26.04.26", "generated": "2026-10-26T12:59:23Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.04.26","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"086006d5fc5fa08db4c6e558c9a1583eeb8fa84d1eaf29c11d4995c8c898faba"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.04.26","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"1b2cd6d88fc6984bfe9024e8cf5897b3ddcadba3d240ea6adf95372cd93cf836"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.04.26","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"27e18cb6740526062284be89bf9a5469b9707e52d7e1f378be868c898e30632b"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.04.26","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"2b7df5d2427756720c2a789ca2ac9847d6849290f363c8fd4302913ffa94686b"}
     ]}
   ]
 }
