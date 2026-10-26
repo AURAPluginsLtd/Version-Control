@@ -6,7 +6,12 @@
       {"slug":"tc-electronic-m-one-editor-mac-app","format":"app","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"b3a12d4a0efa8115288b06893e174cb0d83376aa389a5ba3754095a932101a77","zip_sha256":"0cbaaa1983a625676b044c345a344ef88064cff05f347d7ef32a75669342dfd2"},
       {"slug":"tc-electronic-m-one-editor-mac-au","format":"au","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"7b7dfc621b94f929f0188fb058fdb794b85594821c31b29662af277ef77c0fcb","zip_sha256":"fdbf66a4dfc12771806a86618cd73acff3b1877eae1c77e70a2cddcb94537878"},
       {"slug":"tc-electronic-m-one-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"05ea4d287f851efa03a16cdad7ee3db64116ef1e702be6a47978186961407dc8","zip_sha256":"8aee002987f9d458b5ecb7b19ba5b4d7ad1a74bb00a8397a27875c37565975db"},
-      {"slug":"tc-electronic-m-one-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"87f5759e86f76143e3921778433558bd4ff76e8f6b34be06cef68b176911c061","zip_sha256":"bd5beaf479b521ba11d71d4effcb14a97431d12364167f31136b00b4d84d0cfc"}
+      {"slug":"tc-electronic-m-one-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"87f5759e86f76143e3921778433558bd4ff76e8f6b34be06cef68b176911c061","zip_sha256":"bd5beaf479b521ba11d71d4effcb14a97431d12364167f31136b00b4d84d0cfc"},
+      {"slug":"tc-electronic-m-one-editor-mac-aax-v26.05.14","format":"aax","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"fd9066db66b23ec7b76586d602fcdea5762833750602365cc62f82f14ac9e4cd"},
+      {"slug":"tc-electronic-m-one-editor-mac-app-v26.05.14","format":"app","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"50d9cba01ceed58b2eb0a2e0ddc6632f032376d9621cc28dbf2ec735ac27ff51"},
+      {"slug":"tc-electronic-m-one-editor-mac-au-v26.05.14","format":"au","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"9eb45ff63badc026160ab3d3baa277f6df69839cdb1ba0d156a00db50ee28c94"},
+      {"slug":"tc-electronic-m-one-editor-mac-vst2-v26.05.14","format":"vst2","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"722e23ce103f315857d4e6fce9c856dd6414415370db21cd232ad1ae69a0ae89"},
+      {"slug":"tc-electronic-m-one-editor-mac-vst3-v26.05.14","format":"vst3","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"c817a9bdf3e6a01e23784466d9894c28740ea917eb65c5486e202bd215b59701"}
     ]},
     { "version": "26.05.13", "generated": "2026-10-26T12:35:02Z", "entries": [
       {"slug":"tc-electronic-m-one-editor-mac-aax-v26.05.13","format":"aax","file":"Contents/MacOS/TC Electronic M-One Editor","sha256":"e103501b8151f4ebf38ce8a0cfabc5988c6eef84eadb8b2d46139f93b7b4c495"},
