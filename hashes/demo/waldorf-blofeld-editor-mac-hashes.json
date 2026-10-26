@@ -7,6 +7,83 @@
       {"slug":"waldorf-blofeld-editor-mac-au","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"222aabcbc02f7d508cf271b70532575ffc4caa9c9bfb7617e66f254ba12384da","zip_sha256":"b56910080e7057e400e15c350f0e26c241d81dc6141a0081179aa444b2ae9b90"},
       {"slug":"waldorf-blofeld-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"57eda9b484fb951d8424bc7466edce43efd978ee15d45b44c26acc23d71ac688","zip_sha256":"bb197b247abe2b906295cb64f989fc19c4ce95e8399d46c8ea120e03c55498b2"},
       {"slug":"waldorf-blofeld-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"0525c9db138c1ff3e0fea5d3360fc4cd90d7b81048a413636bb6800cf87e5546","zip_sha256":"7fd5929028d96a4b50ae5521b24cbd7186635f4c1cc7a8f3290e73044f6be3a5"}
+    ]},
+    { "version": "26.01.23", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v26.01.23","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"bcb5a2c4ba9e95ae5063f53e585c845453237539987a3a2ee6fe9adf0a118f89"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v26.01.23","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"875c24395ff3a10d1a986df3b8f43206224caeeba33420ceb92469123ba7d6e8"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v26.01.23","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"8a887dcc6fb99a5d84fc65fecee1e3c0e6780fb5bfc7b984d4747a4c1d340e64"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v26.01.23","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"1d22cb447c2564e54c25d15d52b384db49c24f2f739a4ecde4abd1f2130cf4c2"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v26.01.23","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"20c3f9572e7ef729a8cf9610ec8b496e1379113f0a08f5fb5af7a77729d9d505"}
+    ]},
+    { "version": "26.01.14", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v26.01.14","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"6edbda6b85e4009cb1518ea82e6a68cbc02d176b387c75491adb7b0c7f299e55"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v26.01.14","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"68a24e301616e41252148a36e63fe8cba8dcd6de0967ef878d4cbc73842970e1"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v26.01.14","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"e27feb7186cb05c55c02dc38e1b3a02c651f70c1739255173248c1a2d52f222d"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v26.01.14","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"6787ecf0e76e3d606a2050eaccfb3e9f67b905a69ca72eb1d64742821914895b"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v26.01.14","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"86919ced7bdd5865a219306ede282de3199368cf638cef1be4ba464f9696c07a"}
+    ]},
+    { "version": "26.01.11", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v26.01.11","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"c267d5a9b661a2b11b22cfbdb4b925e738687534ed53ee945e6096c704cf222c"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v26.01.11","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"0aa8c629781bad4617f4244a264c7abea41ad2ad0f2f0c8a0d9a80730055ef8b"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v26.01.11","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"f66595fe9b3d4f30fd481198a42a7bbd164988eb49ae04576ef9f92a6e15f7cb"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v26.01.11","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"f0aa590edd8eaaf2c5fe7e784b1c7e3a2e5dd2e29e42d60d7eb2920efa4849cb"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v26.01.11","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"28cfb20582c8a7e54b0d1300ee9f9e14f930c9bf4300fad5298a2815faf77dd1"}
+    ]},
+    { "version": "25.09.13", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.09.13","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"53bbafe9ca11dd590966ef33d47ff29e433c89f1e52cad0bf4ee343d91df50ca"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.09.13","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"28f83e7e302652f0a00a6126a7f490b0fe6bf5a513645a262bb4c8641518cc4a"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.09.13","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"dca55065581dbe89d7cf4f8e3d0128bbb531999a7477affa7b0bb87d5282f32a"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.09.13","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"a2e6ac4aff55d1f69a6ed02d1f4ce17bfa75b25b4f0bc07362b340fbc4744fdc"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.09.13","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"f34ce4b5b652e1e7ecdc20c9ba45c903044dfe59380d3617ff2f325954fa9c7c"}
+    ]},
+    { "version": "25.04.20", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.04.20","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"f9de6ea74338481385268a8a88a513e5b602a81c1a66dc5c25cafb0d775b496e"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.04.20","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"2cd742cf44a0ee8304b9fd1c8c8b676d5e565e6dd0ad7e8b2c23fef5ddf9ed59"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.04.20","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"6312e1fbc201f4242392a29dd4e2e56e5a7d2793bb77c87e10ebcbfd2e81a51c"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.04.20","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"3710e5ae054b11993387edc3be6459590e4d41928edbaa3d05467036b6a47943"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.04.20","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"4f23fd2a0f154b95918f124242d11f19a7aa5b5d737cc73c704d89538fa2dd9d"}
+    ]},
+    { "version": "25.04.07", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.04.07","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"2026c67799e31b308a068409007507aaed8ef75c10dc1344d00d96c6928da5af"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.04.07","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"3fbf2d7b1288b1d228a12bdee7a060a4a52cfb594cfda1128b07f9fbe2bfbd50"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.04.07","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"d2c0f8ebb95d45e8b498346d889860930420badd827061e4c7a570955f125bd9"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.04.07","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"0ed86ca7e64c516635ba37725018ededd81926174754158c309de4221ef0ea7d"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.04.07","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"80d96e2d4d30fa5d9fdb4401b9a7e868972f8a4b443ac7452231737185fca2e6"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.04.06","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"b5b89253ee8a93ddc31effee95b853ac05c1a87c1f835ecee05fca10c93eb16c"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.04.06","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"38f946319e8c0f7e4ce3b2c57b64d9af3679d65bf321bbd2cbada7df4b1b14c8"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.04.06","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"eba8bb9a50eb3406350a56d71c91793fa4edf6096189ded12191d169712b44e9"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.04.06","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"bb7d6449ffa89020d9cb95a6ebb88f00c898f565912dcc78240032e42c77fc15"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.04.06","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"c0b8d5f2bea7f38f5d908556613d448f5c58d96f1d0e874d3e385623fbaa5a54"}
+    ]},
+    { "version": "25.04.03", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.04.03","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"b13c2e4af69665e4f8fd91fa8b237e1476743dfa36bc28efdecf2e6f280d3bb5"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.04.03","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"815579ba6061ea45067368e5baf5278ed2a59ead0241b43ab890f8f627dea5e1"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.04.03","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"1359225d6a55ff73c021c97efe0b0083e3f693605f8115c6865cd4b59029e7c3"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.04.03","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"775a8cb6752784b902838acaa8334bcdbd78566b3e8b1ced9c453328b99ab876"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.04.03","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"99b2ec2e5fdd2052aa1f9cb719627c30da66eb43149554e670f6c566c12b57a3"}
+    ]},
+    { "version": "25.03.28", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.03.28","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"2cf9a8a338801a4df1ad677204f4e58213ad9e835ea78033cc735307c5b1b699"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.03.28","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"5ab1ee895d3baaabb34c97d08738cf0015eb4dae81e3e3be4b71ad0f85aa19dc"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.03.28","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"881c9d1a048d43a8385cfd373b83c4fc90915993d16515e205b003f386df9d8c"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.03.28","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"597bf50953295efc811447a684f782bdf1a70e96ea27290cb609e937a484fdd2"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.03.28","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"8183ab00190602c453d11934375f9cb0e2b8e952c7397bef10a85b3c8b6ab9eb"}
+    ]},
+    { "version": "25.03.27", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.03.27","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"f9f108baa86e58ccebe622db06657ed83957cfed06d528999217d75c15f5628e"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.03.27","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"e687da7b48f251db0ceef4c27f8faa7958996d7ad9af9eebd291214c7d8932ad"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.03.27","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"9c2ba47f6f233aef4ccf54e375fb75efaa058389d64fce01ac64f030ea73798d"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.03.27","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"195b13d039f3c79dc4f14ae63a174b3ff7fc7cfe5b55a7aa5bc1f5df94e89690"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.03.27","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"b79912295e60898696d1b5db8d0118726611c63db6dafc4cfd5b9085f4ab9c76"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T11:58:19Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-mac-aax-v25.01.24","format":"aax","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"dbffae4a8c84b2a57ce2fb25066fa6c0d117166ee39b2c549960db8b52d474c0"},
+      {"slug":"waldorf-blofeld-editor-mac-app-v25.01.24","format":"app","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"ea67c2ca0d3ed382f881d4bfcb7e350249a76703ebd2af8c137b59d538761de0"},
+      {"slug":"waldorf-blofeld-editor-mac-au-v25.01.24","format":"au","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"6cadb8ec769751fb21dd609fa285b420bafc574494cd06cae82435b6570d345c"},
+      {"slug":"waldorf-blofeld-editor-mac-vst2-v25.01.24","format":"vst2","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"ca5d37ab079d37bff8440420d4024e4a525253b40528da020dfa88690acc97db"},
+      {"slug":"waldorf-blofeld-editor-mac-vst3-v25.01.24","format":"vst3","file":"Contents/MacOS/Waldorf Blofeld Editor","sha256":"3fb51febe003da974a81cec392e1397069d75c6fca480f63728b2d7530b3f765"}
     ]}
   ]
 }

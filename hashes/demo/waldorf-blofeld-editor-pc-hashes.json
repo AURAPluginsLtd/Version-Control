@@ -6,6 +6,72 @@
       {"slug":"waldorf-blofeld-editor-pc-app","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"412f7eea102621a06789a2a82ba455fddf06a37d83ec54d8cce3d1b8620c3a27","zip_sha256":"405f00e0f9fd1e41695050970978ee0230151513455670e0bbe78b4c567d724e"},
       {"slug":"waldorf-blofeld-editor-pc-vst2","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"996a0a6a1a632c264317d8c4b6710fa631b485f2302263e039a2594c5689587f","zip_sha256":"b077edfcaea6d760171bbb56488155a9daa3e891156bc4f2f2c7dde883b94e16"},
       {"slug":"waldorf-blofeld-editor-pc-vst3","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"a22fc6fff47047634c531f57d66f02d8cca5e071ec0433105cf0507f536840f9","zip_sha256":"066ed4a76f1b0e3c0134f263ac38b57fbb4854a3d707e609104b26e72ecb1300"}
+    ]},
+    { "version": "26.01.23", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v26.01.23","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"39041aa481c4f644f4268bf56612d75c08dad59e6c9cd8067036d98533d2c8c6"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v26.01.23","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"cd717c63fc80c6300f08779da001f1ab11157b28826536041c7cdb3c6f6a596a"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v26.01.23","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"f583eadec39c3433502e41fc7f2fa4a92d715a299c98ce71ffef3944a9c581d1"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v26.01.23","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"107a3a33d32162a3539c73a3e844438bc9c4bf13e4b47162b5155cb2523354bd"}
+    ]},
+    { "version": "26.01.14", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v26.01.14","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"251da38fb3d56ce38bd840b6347ad61eb11be9f1af3c04e332843391a6866d6e"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v26.01.14","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"eab05bee489cc72b1560545c0c8bc42f1ae284fa2b0d9cf291e67968df1053a7"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v26.01.14","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"2ce468e71874cf783bf8f590e15437562d36dc4d0b449dde6a3cf30a5d199534"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v26.01.14","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"08ad1db349fea615d42c1ecf850c3549bf97e1fb82a762037402efcd1ebe31f0"}
+    ]},
+    { "version": "26.01.11", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v26.01.11","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"d74c4f417c50e9fbf5cf03ff669dea5d91c0ddfd78f238928e0b583c6e8f93f5"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v26.01.11","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"336a4444fd73ddd5c834582da699066f278c905b569ac6a29124fd27bb84b38b"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v26.01.11","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"ab2b0fb4169e3e25babeb6d7f0b767471c76ec23ff7d65e10d0467e0ef02ea8b"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v26.01.11","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"e75f5412f7f77b49357c185ebb02c0ef6d3b373b77108ba8f179aa0d46493aed"}
+    ]},
+    { "version": "25.09.13", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.09.13","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"479dab21426561ac82bffdb5bbe4609ac8b859246e9cb9c66845d317929d10a3"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.09.13","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"fd22aa40b874f63806dfb3c49b0916d6f5cc9f32bb477a9d98c92aba64b59b9c"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.09.13","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"6b5a5bda52839fca3adb47fd4a252408b639ec18c61c7f864161257cc7305500"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.09.13","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"b50685d3954054ab91fe29be029763f2b5be32d20471a266c8b240d8ca240b2b"}
+    ]},
+    { "version": "25.04.20", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.04.20","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"d3946beb7826d5a3d6d3035f4d4d1a16584ed62420e8fcf5bd63b3242f30420c"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.04.20","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"ff3ddf13cf39f1d10ff9a406d77df8dfa01d31c8ea1d72ef901fe10c966413fd"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.04.20","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"0c065ddb09031477e7dcd238d11acd883a815c4a72640fa347312af034f6f2bb"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.04.20","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"a93cee081259f3f0673358a22118bf21e80737060b3e2e90c1be7ccc400e1373"}
+    ]},
+    { "version": "25.04.07", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.04.07","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"26f419b2497bbd4eed3036e753089053af889aae9e3013bb2f641a9cb17ff443"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.04.07","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"2cd89be207335f69e2ae4f5c170c56adea37c0355392cb0fcecf79d7bafd269e"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.04.07","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"037f1cf0d25ef35c5d325af3cd3f098cb516c397a8fd20c35f9f9c5a31788723"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.04.07","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"0e890450de6adbb89d04e8bfc263fc1498f5504da9d96f209d3500b1d1c831f1"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.04.06","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"6944f68da4e6f2fba56a2fedc1dc29ed9676d895d8ce58cea56bf605fa58b668"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.04.06","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"110353a7c283e2bc3ce4ead87768bd214503df1f3ad51bb0155b213778f3912e"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.04.06","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"f26aac3ef04fccba4a6ebc86dfea2664956190d6f2d6b37ddb321784387a2e1c"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.04.06","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"b74bdcf7a9e310a366d5eaad25f0fe44a99e38336567f9fdafc82e7ef2c930e7"}
+    ]},
+    { "version": "25.04.03", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.04.03","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"026fd52e1a77e32b22721a206ed4ea4cb22fe16bea2fb4e026a25e6bc03b9303"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.04.03","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"34b848f9ca4541aede51db987922d0b7d018828515a7224ce3c5b909465761de"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.04.03","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"f78db73eb959390cd591a6fec87a315a5096c5cf3e4b86a3803f1622c7d8b569"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.04.03","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"987238d51f963e89c3f7f647ecbdb74f178b359140bb79986b146b7c60054f50"}
+    ]},
+    { "version": "25.03.28", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.03.28","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"a708a0f507770f8d5b230b1bab627262b938af15e61e6ae1cb50e5fc548230e4"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.03.28","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"fc26642a6e40009cfc05bea261cb1cf261dd1b8ece13d0390b330c51b5d272d2"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.03.28","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"050d44d5ca366e7333f69ffbc4624d13975844a46458937c442954229dbb8934"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.03.28","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"0d89d71401f700ea413822f0bf34460ffe663827b01044219c2080d5bf533493"}
+    ]},
+    { "version": "25.03.27", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.03.27","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"901f362d85e35e2149d5f8c5950f7daa1420edf24763e3bc2faa02f23ee4f788"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.03.27","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"039e8f594c598e4c08f41814995a31d11e47b6ea69b4e85d65e80aaf8f6354cb"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.03.27","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"36680515c88a7d87b045c5cc493b3af42d2d080654e3cea167fd425161474699"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.03.27","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"57db08377b176b254cb331ac3d9d7cdff9866a59bec3c24a360a705170a104b3"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T11:55:45Z", "entries": [
+      {"slug":"waldorf-blofeld-editor-pc-aax-v25.01.24","format":"aax","file":"Contents/x64/Waldorf Blofeld Editor.aaxplugin","sha256":"0292fd71493f213dce1d1c92955806312ad9f0cfb3913d1dda9c1e1912ab96c9"},
+      {"slug":"waldorf-blofeld-editor-pc-app-v25.01.24","format":"app","file":"Waldorf Blofeld Editor.exe","sha256":"c168dac069d9133ecf9edc18d4001d38fa110d37691f1b560c6c69ac6f4e35b9"},
+      {"slug":"waldorf-blofeld-editor-pc-vst2-v25.01.24","format":"vst2","file":"Waldorf Blofeld Editor.dll","sha256":"954b1e9bef13d1f6619d1a2ef5c33b872cefce11df644462f6fc36568c38d70d"},
+      {"slug":"waldorf-blofeld-editor-pc-vst3-v25.01.24","format":"vst3","file":"Waldorf Blofeld Editor.vst3","sha256":"dff001dd62f88cd64affbc01ed642003c2982d472121ee946eb13222ecbbddef"}
     ]}
   ]
 }
