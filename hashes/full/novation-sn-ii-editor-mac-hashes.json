@@ -7,6 +7,69 @@
       {"slug":"novation-sn-ii-editor-mac-au","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"e51d925e87e2c3157b40ca99d12c5cfd38964f41f870ca63c0f24e30e3734a8e","zip_sha256":"d3152016c1ae2b96552e840c3383b363344bcb14d137976e2a804f16042c0684"},
       {"slug":"novation-sn-ii-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"3ed1b113da2d11022cb6c79fa6dd3d67311444c9eb83071ebbc458666971194e","zip_sha256":"6309dbc3ac4d5cea09ff8168cbf44a815322df94f1cf2b19345c212a45a978a5"},
       {"slug":"novation-sn-ii-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"9d143b341e885e6ad450e72971d7923a29c72011feaf83df38adc7b6be64e325","zip_sha256":"35f3e454871608b43f6c850adb0d130521daa9a39831c44f74446ea7aa64d375"}
+    ]},
+    { "version": "26.01.24", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.24","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"049aa09bf7a5fbff717ead84dbba42e1b767e0be05886799c1b9ddc463a76695"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.24","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"a8de5b492bdb68d9533063bc4bffa4503d2c119d0802ead2532dc3cb2b03bf3a"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.24","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"22f37df4f2d5023ef86132df96a8465a9c995b8c63bc872bb78d8e3629c535dc"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.24","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"9750fb888c21f2e55d745f6cdb8e2497bcf428def58846df1d9c8769adad5d96"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.24","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"fe8d7367fd6cbc41e47b40e5a22efb6fd82d6a734205e59aedbdc9d3b7334dbc"}
+    ]},
+    { "version": "26.01.21", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.21","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"4f694b79d021dfe69bc7c581411cd974bcc120693dc14b9f4ab5392335fdfaf4"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.21","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"0cc62f7005ce5d6c2b377fbca5b8e3f8114bc4e888f2de02160d4795ef2e9a36"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.21","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"a45080bea40874794cf7ef80639e711616669b4638fc88612ad3f808f7b8de59"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.21","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"512d3eef1bca62c3ea79c7ee013db45a8f6ee925398681b02ec85757f37555ae"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.21","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"ca02bf829f596c74c0cc4d54ba747276ea76b290e1e338a99aca564441b8cdff"}
+    ]},
+    { "version": "26.01.20", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.20","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"b88aa9c28e4a29c77a4fe6a903d4ea32756d90df549e78779bc8dd40bfc58a73"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.20","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"b133b39518226259e841c436ad6b581477f303b7b4301a4ae594714c11808934"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.20","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"a06f621060699a850f8833620572a344cf74f90dcb17c72772dde33afa59306b"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.20","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"ecc9ed71c9527a3d385a0fdceebed672aad779aae39f250ce3568f34a758f78d"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.20","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"1b691790874c2a843dfb55862cc8e6ddbcbc96ab4b4ff6e1ea632bd1ea6bd033"}
+    ]},
+    { "version": "26.01.17", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.17","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"a14f68f8eb874e69e7a00e5b7152278eb10fc6dbd4ed7bd259cbe65004ac14dc"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.17","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"58315957dc8c4c037f036930eaa99913963e9b3eb606f283695a160b32ca1a30"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.17","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"948185f6d44364cc8f62053b3d1d994529a03577128bfa3270f1643211e39eae"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.17","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"5dc58d1d72aaf3a7cce2a72b149c6acb08e23e5e1d1cdaaa2d21dbfe51f04821"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.17","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"5ea9e2384ab50a1144ff6a84052daabb1be2387b5476587b6960e6ac75273c4e"}
+    ]},
+    { "version": "26.01.16", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.16","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"4a4603841207a153d6b13807c6a352f49ba60be28f63f10e5590b0b6071dda9b"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.16","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"458651c6b5927bd37cc35f8ef9b4d3eaf0ae12bc732a180a9afdd0a76ba67459"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.16","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"00980f8246a573c39152852abbc007d6c49095cdd0cc3c344611c087bec62f21"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.16","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"248048b7b2eb41632c4c695b6ddddb47c9bdc64edf83c2c638548bc585fee1e0"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.16","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"2dd9f1e9aae91cd2c7a31ddd849e763ae46fd73dedfa819049c352f9ce5efe92"}
+    ]},
+    { "version": "26.01.15", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.15","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"53d3316ce3358d8979b794c63564372b1fc7f5186978fb7f98c4377eec24eadb"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.15","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"b49d9486971fd2d3f97b15a747b304cc06a48ddc46daa3bb9f32277d1218c294"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.15","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"a49616fb4a17899b954f44d52ad41cc40b6b02e8d10ebd0dc436a6c79dd02eb2"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.15","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"ea78dee901e888af7a39420ddbe17a508fcba6089563463dc2dd2e08c8e5a702"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.15","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"3c395eb642274e7d2b0ed0168ea8445bd54d23cd50bd05c20aa2a00ed6855c2f"}
+    ]},
+    { "version": "26.01.10", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v26.01.10","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"66662acf3c2108f25a67bcd6c480dbb12ce387c272ce312c8f143e57be84ea21"},
+      {"slug":"novation-sn-ii-editor-mac-app-v26.01.10","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"3aa6e848402bd9ea4fb9d084a6e87f1b6ac1c45f9bd3a4d6e0f751d2c65db9b2"},
+      {"slug":"novation-sn-ii-editor-mac-au-v26.01.10","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"f097fb26f44eae28c43784ef71ec22e535d45ed2d6b1e037ca1e375e86e5c38e"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v26.01.10","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"15395c6f2a6bba45ccd1e1cfa1de966e4da50216b5cb613f40f320b3312f6c61"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v26.01.10","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"a315d443e0ead797fd166246fc8545016eca8e0dd8ec22949285a61e7fd0578b"}
+    ]},
+    { "version": "25.07.08", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v25.07.08","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"51e61facc401c749cd0dff73eaccca27f799dca584e2f63397301c6ea07942c9"},
+      {"slug":"novation-sn-ii-editor-mac-app-v25.07.08","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"3867cfcfdba9aaf3a78ac0288568254625a2c1809b6494686769cb15f7bab0ab"},
+      {"slug":"novation-sn-ii-editor-mac-au-v25.07.08","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"3732971c538d733a00d6233fe1ec74a5425cd4456c19fae384cf045367d2d49e"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v25.07.08","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"998e19f1f42f98fc13dafca3666f4db9cd051515badfcd0585642bab7c5311ad"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v25.07.08","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"df544f9c8cbef3a4dbe502d91d98cae0429d085c7c33edebbddc7b8773722bd8"}
+    ]},
+    { "version": "25.06.30", "generated": "2026-10-26T12:46:00Z", "entries": [
+      {"slug":"novation-sn-ii-editor-mac-aax-v25.06.30","format":"aax","file":"Contents/MacOS/Novation SNII Editor","sha256":"23599510a5879d85a2ce5998f4285146789dfa43591bc956fc01b62935dfb6af"},
+      {"slug":"novation-sn-ii-editor-mac-app-v25.06.30","format":"app","file":"Contents/MacOS/Novation SNII Editor","sha256":"bbca2a3e10fb3721767ff7b42f1fe5a9f7cf88295599cb9d597d710bfa59026a"},
+      {"slug":"novation-sn-ii-editor-mac-au-v25.06.30","format":"au","file":"Contents/MacOS/Novation SNII Editor","sha256":"ca257398af8b9bf99e7e8bbc67dd7ebcc08772b7ccb50c0577cd3f77c3ceffea"},
+      {"slug":"novation-sn-ii-editor-mac-vst2-v25.06.30","format":"vst2","file":"Contents/MacOS/Novation SNII Editor","sha256":"fc39cf9425660980a1f73d7aa54de8fb5709fe64936c9ed94b35d9f1022fa8b1"},
+      {"slug":"novation-sn-ii-editor-mac-vst3-v25.06.30","format":"vst3","file":"Contents/MacOS/Novation SNII Editor","sha256":"88a779a3297e7e01cc0cdd5f04a7aa6e058d6527a3085eadffbba8cef80b4fc7"}
     ]}
   ]
 }
