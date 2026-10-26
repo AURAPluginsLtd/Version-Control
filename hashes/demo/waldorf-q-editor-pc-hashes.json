@@ -6,6 +6,78 @@
       {"slug":"waldorf-q-editor-pc-app","format":"app","file":"Waldorf Q Editor.exe","sha256":"69352ea86767e195650a15a5f5933a903957668e15f8ccdca70304e663efdd83","zip_sha256":"a07509cbe5886885b02535440bb1f6ef1d2cbe25d046c38cbd53f6b594f707c3"},
       {"slug":"waldorf-q-editor-pc-vst2","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"d61aa4cbdf2f2893a49b615f819f94d5f1941d0c0b6be10ee9ac860b351b62a4","zip_sha256":"2ef186aefb8a55f2289da016a9f470549843a70d885dd875692fcc6c852c9358"},
       {"slug":"waldorf-q-editor-pc-vst3","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"9e57c8df918d97b70ac68be9501346a28cf2f661ad091112342da1cfd4dda761","zip_sha256":"5e10879521a70353fb19e2725996e088a57a58585f53903f63472cf13c152acc"}
+    ]},
+    { "version": "26.01.21", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v26.01.21","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"38a1064841416036c61a87d774b03ce0cc944db21b853659bb6eecc368d8b0be"},
+      {"slug":"waldorf-q-editor-pc-app-v26.01.21","format":"app","file":"Waldorf Q Editor.exe","sha256":"3a4b63ecc07d768015f768c831a7d86dd71c148b1e1ba8bc0e3e1801a563d93b"},
+      {"slug":"waldorf-q-editor-pc-vst2-v26.01.21","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"9f9f6b3b5cde028e123c5813136f73193b1c76ad8c975f506d3adf024927b1a8"},
+      {"slug":"waldorf-q-editor-pc-vst3-v26.01.21","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"c089a6fe3ec8c41992d0580cf68f61db6966888f297706246101151d244bbaea"}
+    ]},
+    { "version": "26.01.14", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v26.01.14","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"88798cade99b059e448b4a879535252442321677d85f7a07ddcacdc31fb52fbe"},
+      {"slug":"waldorf-q-editor-pc-app-v26.01.14","format":"app","file":"Waldorf Q Editor.exe","sha256":"c46a5fd46e576b4bb7dec91d78a24fcaf77b7804e63245b32a9b21096ff7d3d2"},
+      {"slug":"waldorf-q-editor-pc-vst2-v26.01.14","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"95a5364f4c2d04dba9812a082418002158cf9649fd7ca7e517fdf991fddf3fdc"},
+      {"slug":"waldorf-q-editor-pc-vst3-v26.01.14","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"fa1a9c75de359acac4ea08713453b0160d3d5af79b52f09aea83a05255adac8a"}
+    ]},
+    { "version": "26.01.12", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v26.01.12","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"7fa1e12dfff63e996905a43d756afcab5d06585d840ff57c36320fd4ca24b0ac"},
+      {"slug":"waldorf-q-editor-pc-app-v26.01.12","format":"app","file":"Waldorf Q Editor.exe","sha256":"b7b24738ad2cd7da7a87cc265c71f33514c8d349cd963ae0db037171fd581029"},
+      {"slug":"waldorf-q-editor-pc-vst2-v26.01.12","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"abcb8b256f5cae97993364bee313d4a2418a50a0d87f0280819e1d7ad501f2ce"},
+      {"slug":"waldorf-q-editor-pc-vst3-v26.01.12","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"953060afc120ed916c581fcb707ebdd1d632c3e45e7d000bc8c266d224455f71"}
+    ]},
+    { "version": "25.09.13", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.09.13","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"019c9c38ce10d529d4aff4ec6f434402636d0678a82e373da1dcda74d1fea88b"},
+      {"slug":"waldorf-q-editor-pc-app-v25.09.13","format":"app","file":"Waldorf Q Editor.exe","sha256":"054676847959f708e7b9315e048f9e401290b943f521a6a8676f8ca8a24c1c5a"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.09.13","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"d58b1b167c4633325dfc79e9916f836ec75b06f17ddcd022abb96d133696666c"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.09.13","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"3fdc4e47b48585912baac98b98cf145a685d4f67139d1dd0e8e32ea24d59db39"}
+    ]},
+    { "version": "25.07.09", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.07.09","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"d339285c1e8188fef9f495a83b84d6f1444cae770be5a0dff936551598c7d0ca"},
+      {"slug":"waldorf-q-editor-pc-app-v25.07.09","format":"app","file":"Waldorf Q Editor.exe","sha256":"e1d6ec940cd8ad782a7c6b29fd2b1d6cb2c8677c413af154f440f6dcfe074ad4"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.07.09","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"2779544bb252ee868403d419e2929887f82fae68660404c018820b6674ff32da"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.07.09","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"af088fb5bba0acdb3c66e55b4c4023f11f2530aca340c53d1180a26041e9ed78"}
+    ]},
+    { "version": "25.04.27", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.04.27","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"5049b8998b78834b3217cc19783d2b27a4b1e40a736564645811d8d6ab6b0bc9"},
+      {"slug":"waldorf-q-editor-pc-app-v25.04.27","format":"app","file":"Waldorf Q Editor.exe","sha256":"008facc08fb871d3f8a134dec49c612aeff5ad9b5b23aca73a03303234d0e582"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.04.27","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"278523583a89fd787cb9834ab84b9ff71155afc25b26013183ea80975d13b61b"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.04.27","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"e48567cd3edd6bb2f119a59199ad574ac154ccdff9a8a0e8e02c0372cd874e85"}
+    ]},
+    { "version": "25.04.07", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.04.07","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"ba67d0e85badf5bf3dac87ad41f2175a14f7d6a216de3fd570108f459172970e"},
+      {"slug":"waldorf-q-editor-pc-app-v25.04.07","format":"app","file":"Waldorf Q Editor.exe","sha256":"7bdf92ee98f31ec275c6cae4110feb3bd4c0949f680fde0e9b5134caa2562c19"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.04.07","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"6dbcf3c356536d2b42dc7588d5a4d845feb0f531585fffa664f2ec46a4099c19"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.04.07","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"c3a0b597396a447d554ce1d2dc7451e683d69c354def113be7fcf3578173dee9"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.04.06","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"7fe658df9306c53a6789fafb7fc5101cc735163306ebf8fc1682b15707ef2b08"},
+      {"slug":"waldorf-q-editor-pc-app-v25.04.06","format":"app","file":"Waldorf Q Editor.exe","sha256":"106f6982fe731bf7c1ffcf77ac059c99600a8495ee6cddd3c8669b4861e1be6a"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.04.06","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"8f3eb8f0778fd08bf381f473007db54cf05a6a1fb237ea82657aa990fc71a9d5"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.04.06","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"5fdcc2b9431ecd435821711653e63bede53bca23ee0c33f8f3b86fa733a0b46d"}
+    ]},
+    { "version": "25.04.05", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.04.05","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"269da47914531dafe8d8f5b2d2e4b3d8f9480cc0ff4ead669f83e96789be7fe4"},
+      {"slug":"waldorf-q-editor-pc-app-v25.04.05","format":"app","file":"Waldorf Q Editor.exe","sha256":"58c8ef3661ead76d508b0d2ba51fcdfb9025b3fec3d8dc74ca0337ad0d60ef25"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.04.05","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"734838cd55df2113e430f3eae8233f9c19b4721b4b4fd1d83e97c0e1040b0763"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.04.05","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"8b178264c0c6f9ee70933d5be572642bf124ff9602e83e72bdc2df8546b39f9b"}
+    ]},
+    { "version": "25.02.26", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.02.26","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"32e6f49e52419420bab73d9963b02add503251a66705fe413245904c5ab75719"},
+      {"slug":"waldorf-q-editor-pc-app-v25.02.26","format":"app","file":"Waldorf Q Editor.exe","sha256":"f6c677d85ec960b222067a29c5e969df46df7aaf547037c4f57f0e64390aa8b7"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.02.26","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"5d3f8340cb4d7b98d9a42f8ef2cad10ec2e7ea3e5cac71f5f2706ec4a398b5fb"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.02.26","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"e84a2e6b3e823678b1554c1679f2ba3d6101a03e7500c1def794965a890abbc9"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.01.24","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"d4142cb554e00689fa17d0451a973047460970592344b2cdce766802768a60e5"},
+      {"slug":"waldorf-q-editor-pc-app-v25.01.24","format":"app","file":"Waldorf Q Editor.exe","sha256":"9c39759c35c06a8e54396b9dd745cf86d098b4f54d2803cd5e178d56a93bd3d9"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.01.24","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"e82ab7e2bb990291b8470d7ec90d715ddabec052652e43d57d2bcdc02b6d965c"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.01.24","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"14c0f50aaf1bcd1210f7a426545f3f237c4600ede04586346dbac8f8f0de9daf"}
+    ]},
+    { "version": "25.01.09", "generated": "2026-10-26T12:30:14Z", "entries": [
+      {"slug":"waldorf-q-editor-pc-aax-v25.01.09","format":"aax","file":"Contents/x64/Waldorf Q Editor.aaxplugin","sha256":"a3ccab272f2a7c49ee3e961c604c87829c8b366d11bed15f5e0d2f46eef74bf6"},
+      {"slug":"waldorf-q-editor-pc-app-v25.01.09","format":"app","file":"Waldorf Q Editor.exe","sha256":"ca26483a93b147ea0e2b98522ecb90cbec8150b8c7a46fabe39fdc1bdf641b7a"},
+      {"slug":"waldorf-q-editor-pc-vst2-v25.01.09","format":"vst2","file":"Waldorf Q Editor.dll","sha256":"36e27c27e953b8b9b3cc8f36a0218f945014de5fe2fe6e5a1c921ba7f2a9bea5"},
+      {"slug":"waldorf-q-editor-pc-vst3-v25.01.09","format":"vst3","file":"Waldorf Q Editor.vst3","sha256":"9f844425f10f397d1f3251cfbdd62c86f871f9e77323cd80ac93e97575a6b1aa"}
     ]}
   ]
 }
