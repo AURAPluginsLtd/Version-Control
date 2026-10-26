@@ -7,6 +7,90 @@
       {"slug":"waldorf-q-editor-mac-au","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"d53d3d56765c9248b904c749318d62861b53e0dbcd055dc1fcf76662992c3690","zip_sha256":"ca56d8e308bcd14017183949b3ffbb352531fb992247ad939c2d3bdf053c5af1"},
       {"slug":"waldorf-q-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"50211373fa2200a3317bde4c302aa27f0660633e95ac39e5387689be3ba36b81","zip_sha256":"52b5fef1d3cb95b8edc06e4f71788e41125976447675914274892335de016ca4"},
       {"slug":"waldorf-q-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"8b2bc37228fb6dd80a0826692b38ed76a7f8205fb4d96b91dae2fe09a4396422","zip_sha256":"52073fc359f879b3955d0a11195cbb196bc5f5c501043edd4c48f6fde6552941"}
+    ]},
+    { "version": "26.01.21", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v26.01.21","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f66ce9d920036e1ff3d5997f77b8c6c7e49ec9960c67820ab16c56b694a6cbde"},
+      {"slug":"waldorf-q-editor-mac-app-v26.01.21","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"562a80706969f0e58a910c294d147c9ae99c71a918f3f5282af2aac5c61e58c6"},
+      {"slug":"waldorf-q-editor-mac-au-v26.01.21","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"8c7bab569cf65588183387cd445dca080a6ad2af90314f018234141e283f6be4"},
+      {"slug":"waldorf-q-editor-mac-vst2-v26.01.21","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"66cc1614cf869dbad27c7410846c5a574c910e706fdfa5ae3675f7c7794df8fa"},
+      {"slug":"waldorf-q-editor-mac-vst3-v26.01.21","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"4a0ae0a9a08d3e3c4f455cc7e636da46f16a4329c99da92e2e0578f6f41ce56e"}
+    ]},
+    { "version": "26.01.14", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v26.01.14","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"30c90b676f53cba6366a6b71e93f221c0ab68d1bf133d2ac443705bde510ba33"},
+      {"slug":"waldorf-q-editor-mac-app-v26.01.14","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"007bba053357c9e674524ad0bcd14eea5e3dc71d3dc7fb151cfa5c352dbb420b"},
+      {"slug":"waldorf-q-editor-mac-au-v26.01.14","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"7721f004c0b3fd96af441239726f7ed604feaeb18699fb93b77ac67295adb7f7"},
+      {"slug":"waldorf-q-editor-mac-vst2-v26.01.14","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"0f084d23ef57b59560518912b5f62f1727f3e9edce7406116ad8b52f13565c02"},
+      {"slug":"waldorf-q-editor-mac-vst3-v26.01.14","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f2f50ce8c635b861724e94c675b403bc22fe641b4faeffa4052a0e6d3b6c3d7f"}
+    ]},
+    { "version": "26.01.12", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v26.01.12","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"c23cb62faf506ab86108a928d6af7b8915022986e401a69cefdcb64c839d27a5"},
+      {"slug":"waldorf-q-editor-mac-app-v26.01.12","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"6343d1790151772b910066834749f08a5e726fdcebc4adbae41088d1c3cba5aa"},
+      {"slug":"waldorf-q-editor-mac-au-v26.01.12","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"00c7fc758fb79042927d570c651737debe3df8d124eb612510e855d380f6e184"},
+      {"slug":"waldorf-q-editor-mac-vst2-v26.01.12","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"58ffaf0e3c4a05d3493f131605957e8e3aebdeff82243389205a1a6250ace08a"},
+      {"slug":"waldorf-q-editor-mac-vst3-v26.01.12","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"15a13c3a2e719d18bf62aa8c8f9a4da55b6df4c9740b17385cbe7c205199f2eb"}
+    ]},
+    { "version": "25.09.13", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.09.13","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"cef9277d1dd7c479905007019b0366be48049e5e7d7d5cde5f03e55a9dc36cbf"},
+      {"slug":"waldorf-q-editor-mac-app-v25.09.13","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"519bd25491f9fb18f9d6f19a3ad114e0a3bbbbb9d740227a2ba4f6c6297dd3f7"},
+      {"slug":"waldorf-q-editor-mac-au-v25.09.13","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"171f1584d6d591ae68584d40002f16c2ef4b11bec4855301211585ea984a48b2"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.09.13","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"b4ca7c58f92ef721262c8413d87d9dd44e1dc21e558c74cef73935826d0f90e6"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.09.13","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"4f959a5f66e31b00afacf38338c39154458aea0733a15e1cd0636c712ded6c5e"}
+    ]},
+    { "version": "25.07.09", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.07.09","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"ac3aedfb255e5d838520887035ea6158848ebadee10af42c1e6daa263f31ef7f"},
+      {"slug":"waldorf-q-editor-mac-app-v25.07.09","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"d9bcc22d962e92e449b1ae8dc36e687c28b4d8721c1c3dccc29f12a2a82c0074"},
+      {"slug":"waldorf-q-editor-mac-au-v25.07.09","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f3510b69c76fa17736084e1a7a4e51c7c2138cb31d98603b5c18ced266aaacfd"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.07.09","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f8e043c96d4cdc0c85a506de7d2ed7ae1bb8b8bf12b2eae028ce38925b16e996"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.07.09","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"6620eabbef4099ef39abdb87066ee412060734b034b5afcf78c772eafcccba9e"}
+    ]},
+    { "version": "25.04.27", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.04.27","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"593e7a4e92a0fcff8d163c2c8e5e08f0f6013d9f7ef59c2e87f14aa4f4246c14"},
+      {"slug":"waldorf-q-editor-mac-app-v25.04.27","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"884b403e5d5e0b69ec5bacc5441dcf9505f4d21edb33c15f0ccd567556025eb7"},
+      {"slug":"waldorf-q-editor-mac-au-v25.04.27","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"e69e7a2b1ce9e26d38d6b88b4c52457668898838124fe5f85aad8a65829dfb94"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.04.27","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"6f76a92fbf6d7cd22bc16c8eedb7db3615e128b7d91008dd72ef5e4baf91466c"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.04.27","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f64845c3de3c5551371bae1089b0568395f8cc209528f9ad84433e535237c63d"}
+    ]},
+    { "version": "25.04.07", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.04.07","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"a44c652ddf62a6b5904d492bb5b1bdf8b2f70003c276870bafeaa331bfc5fefa"},
+      {"slug":"waldorf-q-editor-mac-app-v25.04.07","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"e1547d8a546e6f06ba7db75c2d962a66b720a9b5d2359fe1a95f7c1f763982be"},
+      {"slug":"waldorf-q-editor-mac-au-v25.04.07","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"28a5ea19f0e82b129feeb03ef62f76206c51194f9dcf790daaeb4926b9b3f756"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.04.07","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"24fbea2ae02d743415cf9dc24f74842fb4be35c554b6a702f57772b5b1a67bed"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.04.07","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"74a0ef315ad6b1107e23b8bbd78c2621c9c717cff6174118cdac66b10dbf77d9"}
+    ]},
+    { "version": "25.04.06", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.04.06","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"2fab242053ca5d5e7dca8b2cff9bcfc0b4f6f499994635442fd7a06dbfce3186"},
+      {"slug":"waldorf-q-editor-mac-app-v25.04.06","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"839440091bf9dc6bf365ef4d55358fb935e722fe0b08e88d13727f035c0c9900"},
+      {"slug":"waldorf-q-editor-mac-au-v25.04.06","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f3f47023b843efd80ca8665eea2ada24d7c3c8e93cb5721a7a5a40ad910c8af1"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.04.06","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"fcf89f2622360903d1043c6004b7a73122b4ad3b385f562e5a97837c3af72861"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.04.06","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"759dd14ad7a89d1d996e78eed90a88b90bbb6b150ea10256b195f3f3be16700b"}
+    ]},
+    { "version": "25.04.05", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.04.05","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"7fca2e5f979165d6223fd2e6ee9a85844e3c8eb81a0912f4b163dab0d8bc64dc"},
+      {"slug":"waldorf-q-editor-mac-app-v25.04.05","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"157e5322dc2977f5ab973b2b78259c429a755969a765371116ebd3593988e521"},
+      {"slug":"waldorf-q-editor-mac-au-v25.04.05","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"f46f7592806f52d7656b71ce03abce7d9eb2a1944cd3e6a6077cbae9fd1ae10e"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.04.05","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"83b2af21cf86f35ad144a5563db9ada59c3d3ba64463a857e009d62cfe35ac8e"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.04.05","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"0b5152d34becb7d924a50c32a43df0d1ae677fa2f9efc39f6e83178c092dd669"}
+    ]},
+    { "version": "25.02.26", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.02.26","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"47d477b0de60f5aa1f74247a84ffa66a9390db23dac87c84a61990eed03a0f68"},
+      {"slug":"waldorf-q-editor-mac-app-v25.02.26","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"5206e7c39e7462ca817698baeaa13c811cb0272711a241f3c17afb17e4e4c93d"},
+      {"slug":"waldorf-q-editor-mac-au-v25.02.26","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"ed70c7cdfc92c8d41b78936d72dbe8427ecbf4ef26c16ae8831ec9aee2e2e45b"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.02.26","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"c010a29dc29edb8a0ead8fa0f78d390ca940a4aa56bff56fceb7baea5ed76021"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.02.26","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"35ab57ac077e8c821f424586f8dfbfc1f3bd8c6c76f07cc53d0266333f486deb"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.01.24","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"bce344e1c5401d62024300f43548431c2015c8e1bcb0b9bf4ede5c69f452ff98"},
+      {"slug":"waldorf-q-editor-mac-app-v25.01.24","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"41779b19796301592f691dcd66b13db81c6970762fce412e2cc187125752e391"},
+      {"slug":"waldorf-q-editor-mac-au-v25.01.24","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"34cbca5a794b74fbe0463cf312296c841d0833265cb75e925ae533ce5bc40349"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.01.24","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"81c8e2c6416b6e3b13600163d709eb85ef6bf305a9414fbca4701973779e4cc8"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.01.24","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"2b5ac485540ca454e0edbfa29892db2a2e3a9ddcc6066001bb036cabf424cd72"}
+    ]},
+    { "version": "25.01.09", "generated": "2026-10-26T12:17:35Z", "entries": [
+      {"slug":"waldorf-q-editor-mac-aax-v25.01.09","format":"aax","file":"Contents/MacOS/Waldorf Q Editor","sha256":"95001435966a124df7460fc98961d016f1226cb68abf03dd7ad4ab86f37ea577"},
+      {"slug":"waldorf-q-editor-mac-app-v25.01.09","format":"app","file":"Contents/MacOS/Waldorf Q Editor","sha256":"bf717a147aaf73e97bdfd71809d8e8b3a596621eb5bc4df444bed7931fd8acf2"},
+      {"slug":"waldorf-q-editor-mac-au-v25.01.09","format":"au","file":"Contents/MacOS/Waldorf Q Editor","sha256":"4494b87445e82de4599cc12900ecbaabe2ad1fb022865a17280d64261d0f1911"},
+      {"slug":"waldorf-q-editor-mac-vst2-v25.01.09","format":"vst2","file":"Contents/MacOS/Waldorf Q Editor","sha256":"cfc274a30c5108c1602efe180426f93495afef2aa3ad8f59059b9c60d6a238f7"},
+      {"slug":"waldorf-q-editor-mac-vst3-v25.01.09","format":"vst3","file":"Contents/MacOS/Waldorf Q Editor","sha256":"6e233438fb63e224662d480b6429ab0c442531e836a175b15d417a6ba259bb4e"}
     ]}
   ]
 }
