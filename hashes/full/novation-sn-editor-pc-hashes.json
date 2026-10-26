@@ -6,6 +6,54 @@
       {"slug":"novation-sn-editor-pc-app","format":"app","file":"Novation SN Editor.exe","sha256":"e33b32519c0eae9381625e6c2451cc33ea123450f950ebaf1f7f630e3b56b06b","zip_sha256":"3a056223a29dcc3678a66bd8ead5aec830e8117f75ce0e0c6e7d638ccd3af136"},
       {"slug":"novation-sn-editor-pc-vst2","format":"vst2","file":"Novation SN Editor.dll","sha256":"1da2c4948a6a7a74ef3274fc79a85f59e6ab6a04b984d99f4b512e41e9cb72d8","zip_sha256":"66517e06b823dcd646b7b21fbc921fb0a4e1b8384671c7e780a7bf70654656c1"},
       {"slug":"novation-sn-editor-pc-vst3","format":"vst3","file":"Novation SN Editor.vst3","sha256":"2a64229fdbb62f665f3f7acf17cfaf4be9415368a20d7e7c1bb1f14058e73ff3","zip_sha256":"1da6e5a16ba6720cfe2e6c871a2f8cb56b900020596a345f7471a03185a1fc0f"}
+    ]},
+    { "version": "26.01.25", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.25","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"9231d388328fc9197696203bdb60d27ae1b885c2c0018013d5549a9e8501b92d"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.25","format":"app","file":"Novation SN Editor.exe","sha256":"eefd9133e91bacd6be83b11917ba3dc735cb02a040adce8319e6f5de16f802aa"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.25","format":"vst2","file":"Novation SN Editor.dll","sha256":"915a6234d685a1250c1b813ccc62ccda10adfd25fb32e24b4620e0d47594c5e9"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.25","format":"vst3","file":"Novation SN Editor.vst3","sha256":"40258379c9201f6660013d231ef2d2ce04e325d69100761178da22c3d91dd303"}
+    ]},
+    { "version": "26.01.24", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.24","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"f2e312d62dca3f340cbaffccb2464c4fa14955bc86bba716bc495f9308a4b1ee"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.24","format":"app","file":"Novation SN Editor.exe","sha256":"f93a6b2dab7dc47a192ee3dec72df6078db977d49135f4b048a971dedab9544a"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.24","format":"vst2","file":"Novation SN Editor.dll","sha256":"b2b4f51f56e9386c9473600f9a286bf5db4fc68042cf8f8d766ff235235e4028"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.24","format":"vst3","file":"Novation SN Editor.vst3","sha256":"a7edba4c1b4870876fbfdb3a2f3ae4065ba0603e88f8f76cb503acb354d82518"}
+    ]},
+    { "version": "26.01.21", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.21","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"c8bda41f39ab6e12aca8dc61f4872e6fe8442b278ebb13793dd8063fbec40538"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.21","format":"app","file":"Novation SN Editor.exe","sha256":"ebe3669e5932d80fc691d433bfa2e1859e875b0d49f85e63fcc21159e71c31f1"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.21","format":"vst2","file":"Novation SN Editor.dll","sha256":"f94370217bd93bb9b3b38346ba8b93402dcd5c2bbd4e1675abf46848cc0c3a81"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.21","format":"vst3","file":"Novation SN Editor.vst3","sha256":"7cab0333f1a1c8f6aa941276f55461b242e527d51f6bbdef18cf75f07dfab4ea"}
+    ]},
+    { "version": "26.01.20", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.20","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"46834011420b136fdf6b3d647364bd4dcd9107dec3156415e4ae7ed914e4ee32"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.20","format":"app","file":"Novation SN Editor.exe","sha256":"aa442c7c1adc70d304a53207f944fe932de0fc0ab85d8144ad827fcf721abb4d"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.20","format":"vst2","file":"Novation SN Editor.dll","sha256":"27a3bb1fb07a1d3b35007f71cfd5341e31f31c8796611ec8f9acb1232601c68a"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.20","format":"vst3","file":"Novation SN Editor.vst3","sha256":"e31f05ea840944ef6d46d7987b59528370f0eae7f8a2dc0ace764fbd43a7ff9e"}
+    ]},
+    { "version": "26.01.17", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.17","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"05697d57dbeee76023521cb235747bcadb3d280ed9b46f57a51b511623ff4fb8"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.17","format":"app","file":"Novation SN Editor.exe","sha256":"a9aacffad3f4bd5c8bae2709765c323a20b631af8f79c7f9ded1f331cf81fe64"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.17","format":"vst2","file":"Novation SN Editor.dll","sha256":"d3b406960a9e3901971f3100b0af169573a2fdb91fd37fa223478a4630991942"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.17","format":"vst3","file":"Novation SN Editor.vst3","sha256":"7b495452a18220e0d5b473e2b9d1b9a90657e19bba36c17e1cf6c34e78fedb98"}
+    ]},
+    { "version": "26.01.16", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.16","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"fcee46f15ff4032514704f3f56b524b7162931491e77d7ff11f862e58bc91e13"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.16","format":"app","file":"Novation SN Editor.exe","sha256":"fc2a648ce5d4dd9ee362683835d2e13d6b30d0787d3b4298a85ce2c60c121f78"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.16","format":"vst2","file":"Novation SN Editor.dll","sha256":"f8f3e77daba847b049b1b50f56e56174cc36f80970fb6d2713b918e9fb144d16"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.16","format":"vst3","file":"Novation SN Editor.vst3","sha256":"9e15296cf0dc71824b8f3c1a2525ea256854a1a21aa2761e94176909ce53fb5a"}
+    ]},
+    { "version": "26.01.15", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.15","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"abeafec3289fabbc81672b494516ec2b5eeb15e1f8bb6738e38a3b18bbcb8c49"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.15","format":"app","file":"Novation SN Editor.exe","sha256":"faa04f1c642eb23df52a1f09bf39a194daf7d88e74778aa993a608a0c87d57e3"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.15","format":"vst2","file":"Novation SN Editor.dll","sha256":"7a92e816d6a73fbf117ff81ee506db2b776d01cd9b29c24f8de9000561de06a2"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.15","format":"vst3","file":"Novation SN Editor.vst3","sha256":"a9023f000748b798addd1e1970270fcd183a5d862988e75f7b1eb6a15e7975f6"}
+    ]},
+    { "version": "26.01.10", "generated": "2026-10-26T12:52:54Z", "entries": [
+      {"slug":"novation-sn-editor-pc-aax-v26.01.10","format":"aax","file":"Contents/x64/Novation SN Editor.aaxplugin","sha256":"5e089964255b8c097aedb82c42f51ec856ffec5c7d753eb714723012ace89dfe"},
+      {"slug":"novation-sn-editor-pc-app-v26.01.10","format":"app","file":"Novation SN Editor.exe","sha256":"adf6ddbb061e41133e724b14e644bbdf5681db6fffb531493d35a1ebf34e50fb"},
+      {"slug":"novation-sn-editor-pc-vst2-v26.01.10","format":"vst2","file":"Novation SN Editor.dll","sha256":"2c2afdb9846dd9df6e159c421c58e13f5e6ac466ea018c93e01b6aaa04968752"},
+      {"slug":"novation-sn-editor-pc-vst3-v26.01.10","format":"vst3","file":"Novation SN Editor.vst3","sha256":"bf02ea002da002b8b7c5e7c987e61a867d937bd01fbde60398a917091e00b513"}
     ]}
   ]
 }
