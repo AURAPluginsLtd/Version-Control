@@ -7,6 +7,69 @@
       {"slug":"access-virus-editor-mac-au","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"f822533b0144dd94c7f06601ba534500b9b95d48a6cdb037bc364666b2273acf","zip_sha256":"e07db149145d008c617e822ece00fc1aba6e36aab0a6390ecd4b9ce45dced990"},
       {"slug":"access-virus-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"1bf97c9305f9fbbbafae187f68cdc68f4376da22821d006ce60ed1972f0485f8","zip_sha256":"0528f5f52ba48c0fff4cf11614a7f201aea8b5a49dcc786fb2b1f28ad7c034fb"},
       {"slug":"access-virus-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"06f0286775957717bb4317d2db98d2b28ef9dd6230290f2435f2ff5d93ffe9f9","zip_sha256":"ee0b6686af3e18339456f50c429517089327567c14784b513bf9e37dc8316270"}
+    ]},
+    { "version": "26.06.08", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v26.06.08","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"d93155eee6f3c7e8c84e4877d00f8d9f695805337e2fdaeaa98ded8dc63387f7"},
+      {"slug":"access-virus-editor-mac-app-v26.06.08","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"2b6926d9bd1e13897ccb533303a567cfc84e0ceba478d75d01642dcb79bdbff7"},
+      {"slug":"access-virus-editor-mac-au-v26.06.08","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"e9003a9df394ee3c3fed9157de44222584605f1b011842c47c64fefded17dc3c"},
+      {"slug":"access-virus-editor-mac-vst2-v26.06.08","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"67252af15990daed2ace3990941a96fb98e88a51109b6a61d271db12f1bb6ddb"},
+      {"slug":"access-virus-editor-mac-vst3-v26.06.08","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"04a028b19ea8fe0bde8b64bdcfec094823fa5c34c29485b44cff60c96d7aeb1d"}
+    ]},
+    { "version": "26.05.17", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v26.05.17","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"4bded82160e202ce0bf2c37d966cd07b0ec86bec6fb42e5a8e5fcd0e12779c41"},
+      {"slug":"access-virus-editor-mac-app-v26.05.17","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"52491d76594350af1e6972095edb343122fa409fa4de31d2d243575c20e0a1ef"},
+      {"slug":"access-virus-editor-mac-au-v26.05.17","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"c1fe87c14756f35de23d9c70df2bae2d9ef2bccb296a85ec1cc24de26fb781fc"},
+      {"slug":"access-virus-editor-mac-vst2-v26.05.17","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"8c5df1033c45ec4afe5285c92c21f45a966ccac0f42c42e073d20498465e64e5"},
+      {"slug":"access-virus-editor-mac-vst3-v26.05.17","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"906ac9cca67a24f5b637188ac82956762463756288080ec729157cf040b647e7"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v26.05.13","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"6b7cd22d408eaf003c76e51bbfda6401d6e7ca4a0a6d4a1f80e4418e5cb96cc3"},
+      {"slug":"access-virus-editor-mac-app-v26.05.13","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"e43026fdeb61e95b011c36ed1c61deb13024907a8f9af834f4635d274fcc4dae"},
+      {"slug":"access-virus-editor-mac-au-v26.05.13","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"f9198118196e61cf0ed9ef33ef78174bbae5a23c57d194f225996637be4af326"},
+      {"slug":"access-virus-editor-mac-vst2-v26.05.13","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"8922efbb0e61d259a5711afc8d13fd25028e7a24bca0b27232d1dfee55161f91"},
+      {"slug":"access-virus-editor-mac-vst3-v26.05.13","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"b5722619691b5c78ced5d9910fb13f2ca6e0bb5de3cf38855277ad603d9ee60a"}
+    ]},
+    { "version": "26.05.03", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v26.05.03","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"a7020c135d1f1c99b7bf667290cd744714b1cbf990fda7f4021bf6bf7d89faec"},
+      {"slug":"access-virus-editor-mac-app-v26.05.03","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"4eb2970aa88308c92544d348ce815761684bce94506c4bf0871feec736cdc398"},
+      {"slug":"access-virus-editor-mac-au-v26.05.03","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"dac8d95a9d5fc8e359f797b2066b425d75bc034f9d7b54b3ee39a9696efecd16"},
+      {"slug":"access-virus-editor-mac-vst2-v26.05.03","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"c55f31b7ec54328ea74eb43193111c6d1d7e6fde61222cecc245bff89ce6f36c"},
+      {"slug":"access-virus-editor-mac-vst3-v26.05.03","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"1089579c0cda936f708f08137683f33ad2f86eef9f32ce6c060b425dc06025cf"}
+    ]},
+    { "version": "26.03.02", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v26.03.02","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"6b364c07862ffef2f66c458fc93019f05c4900795307a34862bede532af4b105"},
+      {"slug":"access-virus-editor-mac-app-v26.03.02","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"b5f729374d537192064b3bec96f45a2fa3bd8841dafbb83bdceb0571182cfb50"},
+      {"slug":"access-virus-editor-mac-au-v26.03.02","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"b2d94e28b35d6388a9986536027be3a85e6e2f50a61acf7199d221f8b9807347"},
+      {"slug":"access-virus-editor-mac-vst2-v26.03.02","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"bacba631a04c5dfd799578112223af6d3b0df67d911b96c0c23b36e7ef165943"},
+      {"slug":"access-virus-editor-mac-vst3-v26.03.02","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"dbca718043ff8c797d1fa3acd5d1f397b2c9e1f5f02bdfd0942d1c551c11121f"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v25.01.24","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"dca741487202e4f0f983d9ca0830f9fedfc82d34d1ca0a21177e89eefe53470b"},
+      {"slug":"access-virus-editor-mac-app-v25.01.24","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"4d75bbcd7bf1c9f3e5df78ddd0db42bdbc7e47c306b25ce811193168ccf7fdd4"},
+      {"slug":"access-virus-editor-mac-au-v25.01.24","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"0a66cdea47564c1e1874c1bf8b206bf5f1c49c1bc49f1c3ea78d61d906015536"},
+      {"slug":"access-virus-editor-mac-vst2-v25.01.24","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"96597e655a3765c7132c67389c6f13a0469e1915d39d0792f22e4b6186453430"},
+      {"slug":"access-virus-editor-mac-vst3-v25.01.24","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"2d1412d1915d874d141f254f7c8d07b58e68728d7cec9f55540ca5430c0c318a"}
+    ]},
+    { "version": "24.12.21", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v24.12.21","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"c73197cebba6e054252566f44b20645b85c76799e192e063ae14df45fcdaf08c"},
+      {"slug":"access-virus-editor-mac-app-v24.12.21","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"b2e4ce8e9ab76ae47576368749e51ec08afba481274b186ba094b3d43d14a9b0"},
+      {"slug":"access-virus-editor-mac-au-v24.12.21","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"49da0af7611e5e3f9bb6294ca815a2bf7e897a1a308a3ea7452c11f682327f47"},
+      {"slug":"access-virus-editor-mac-vst2-v24.12.21","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"5d0422e7a938390228d092a20875bdb21952d90c7d4c93ba1b6189df2c930347"},
+      {"slug":"access-virus-editor-mac-vst3-v24.12.21","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"54a8ba8bb7a48fa014759b350b270515c1f1317736cc4b8901b82c652f1d7068"}
+    ]},
+    { "version": "24.10.22", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v24.10.22","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"df66ed45762a6edcea021216bd96e3cb63c153a8ee3a9d318e7b9e49037ab3f1"},
+      {"slug":"access-virus-editor-mac-app-v24.10.22","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"1424b857c8e23ec20888aa853b6630831d538a3cf3e19a30f344c44cbb14d662"},
+      {"slug":"access-virus-editor-mac-au-v24.10.22","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"9fcde86d75857493de3e2a5bdffd277eed508872a1e29d101265007ba4095b2b"},
+      {"slug":"access-virus-editor-mac-vst2-v24.10.22","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"cfee98fd25a86681b6adb2fabf3d148b2f63a01bcdfe9843c056925a219be11b"},
+      {"slug":"access-virus-editor-mac-vst3-v24.10.22","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"06871f60c253ea66ed3d775342b88451982871dba5366b74c66d15d1ff7a5ab7"}
+    ]},
+    { "version": "24.10.18", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-v24.10.18","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"952aabcf7998233cea6a74361deb473a0ef55306f44a0a1d5edbf1dcadfb1a49"},
+      {"slug":"access-virus-editor-mac-app-v24.10.18","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"9fdeffac5f868b0a3fbf18d82af6d8971d1bb15c4f7c5def37356aa673bbbfcb"},
+      {"slug":"access-virus-editor-mac-au-v24.10.18","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"b0a511939f560003ad16315c738e4282d2b78dcd1e9f7f1f95e93c05da290dd8"},
+      {"slug":"access-virus-editor-mac-vst2-v24.10.18","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"0b46126b5404c56726c0cb814cfe96943cffe11110881952609047cc8df8272f"},
+      {"slug":"access-virus-editor-mac-vst3-v24.10.18","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"0d5c9d8b58a8ca31de57b14da7e0a36ab20031202d5868bfa2c92264d29d73e1"}
     ]}
   ]
 }

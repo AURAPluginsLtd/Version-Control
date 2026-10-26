@@ -6,6 +6,60 @@
       {"slug":"access-virus-editor-pc-app","format":"app","file":"Access Virus Editor.exe","sha256":"43f08b1b367f6003ce6318e7a25937940dfb1d26620debcea86a3d51067175a2","zip_sha256":"670073038e9a0c370d1b6f03eef2da4f8ad58859a64afc119e72d62d2861e600"},
       {"slug":"access-virus-editor-pc-vst2","format":"vst2","file":"Access Virus Editor.dll","sha256":"70596d1cb8937ca7bb2c1ee44193731e50aa12cbb4410e231e873d3370a845df","zip_sha256":"e50a017d22a54fcb4820e1a3a3cab48cdcc3cf09d3cb4ef6e11daa13a600cec2"},
       {"slug":"access-virus-editor-pc-vst3","format":"vst3","file":"Access Virus Editor.vst3","sha256":"171ccd440af7e5dbe96ea0d4d301e4c9bbd859b318de7728f35322c21371f8c0","zip_sha256":"ee860f7c8400af9ad865ac66744b5e4db490c6ba7efb7b2f092ff99766b71b87"}
+    ]},
+    { "version": "26.06.08", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v26.06.08","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"6d433cab093d358b77ba54a3629151c3ee0c5ee30e4efe9694d311a355ce34de"},
+      {"slug":"access-virus-editor-pc-app-v26.06.08","format":"app","file":"Access Virus Editor.exe","sha256":"afa8712b4ef816cbdd187f741d12597d561476c48e4c7747daaa5d8f1b8cc975"},
+      {"slug":"access-virus-editor-pc-vst2-v26.06.08","format":"vst2","file":"Access Virus Editor.dll","sha256":"e563da37bb2c6735e41ee05b61accf74348071bf0c2e190c5962fd74702ed9bf"},
+      {"slug":"access-virus-editor-pc-vst3-v26.06.08","format":"vst3","file":"Access Virus Editor.vst3","sha256":"90cd407fa6aa13797c148ab096cba27ed8398fe5cd287e25ceacdf935fc94674"}
+    ]},
+    { "version": "26.05.17", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v26.05.17","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"07d414b1154dea6bbb0297e9325d60eb167dad1a0cae3be0b3e1d854e5e894fe"},
+      {"slug":"access-virus-editor-pc-app-v26.05.17","format":"app","file":"Access Virus Editor.exe","sha256":"64251e84e501418ee870ba20e6588cb661c63db9d6c99c9ec050e52719b17a9f"},
+      {"slug":"access-virus-editor-pc-vst2-v26.05.17","format":"vst2","file":"Access Virus Editor.dll","sha256":"1b71e6ad5e4c7e5a43e6d9df5e8b16b6aea7b05e519708c06eca4cdd7844add9"},
+      {"slug":"access-virus-editor-pc-vst3-v26.05.17","format":"vst3","file":"Access Virus Editor.vst3","sha256":"bd5c2f80ba799f1eb4fe43eb07355827c96a60aa4d940e4308fef73167b685d7"}
+    ]},
+    { "version": "26.05.13", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v26.05.13","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"3c6d3a01aef0270ec2ad1263b94685c58bbdfba9396842c8b213d5e6222446d8"},
+      {"slug":"access-virus-editor-pc-app-v26.05.13","format":"app","file":"Access Virus Editor.exe","sha256":"b10dbec58c1190df94b38b3bb79dd9db51983f55d0f0332d4f9b14173ee5176c"},
+      {"slug":"access-virus-editor-pc-vst2-v26.05.13","format":"vst2","file":"Access Virus Editor.dll","sha256":"5c3c517a3d42aea21c3ea106335f4d043ca5219af1e354308a06f3b22d07ca66"},
+      {"slug":"access-virus-editor-pc-vst3-v26.05.13","format":"vst3","file":"Access Virus Editor.vst3","sha256":"89218c2a2ce825633313d8804f959afff4aa4f4aa99c95b74f1ae2e8b4bdb89e"}
+    ]},
+    { "version": "26.05.03", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v26.05.03","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"f4c5d3a9fecc331b12f8183543fc3093bfe73ad05ad745211651fff09d082e28"},
+      {"slug":"access-virus-editor-pc-app-v26.05.03","format":"app","file":"Access Virus Editor.exe","sha256":"8b4da9e6bde8ec9ebff0a6224f9fe3e4462b1c8e57a4d7f1099f803b95e106d0"},
+      {"slug":"access-virus-editor-pc-vst2-v26.05.03","format":"vst2","file":"Access Virus Editor.dll","sha256":"22743d6d893d59e2de3a4816d533fd685bf27bceff67e3e0931186de9cb4658e"},
+      {"slug":"access-virus-editor-pc-vst3-v26.05.03","format":"vst3","file":"Access Virus Editor.vst3","sha256":"d8fbef9162046889b9a498290ba092c1714ef163bba1d77e4e592d332bce0f89"}
+    ]},
+    { "version": "26.03.02", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v26.03.02","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"e5aa6869cc05efd4d5f59b5156273acfe31ed92e82d396cb5029aec7f39d7637"},
+      {"slug":"access-virus-editor-pc-app-v26.03.02","format":"app","file":"Access Virus Editor.exe","sha256":"79cbef170b15b9e45020dc3eff81088d912abbeae7e6e77d7c9222930a3e8578"},
+      {"slug":"access-virus-editor-pc-vst2-v26.03.02","format":"vst2","file":"Access Virus Editor.dll","sha256":"9784bdb418e2416a18aa17196d3dde3d60ce419872ca5809a727fd96b2f130a9"},
+      {"slug":"access-virus-editor-pc-vst3-v26.03.02","format":"vst3","file":"Access Virus Editor.vst3","sha256":"e38ab5524cd32f2a0e14d5d154b6126c20ba255629dc3928cf8fd8351f05371d"}
+    ]},
+    { "version": "25.01.24", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v25.01.24","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"05119134c88f039842fc15f098bca3618d864d1d2b29649d074034b7f8dd0b38"},
+      {"slug":"access-virus-editor-pc-app-v25.01.24","format":"app","file":"Access Virus Editor.exe","sha256":"f6e8c7cb0761104b6be9ad5f844f4f1298d6af0c6ce0725644b8b9040f3e6c8b"},
+      {"slug":"access-virus-editor-pc-vst2-v25.01.24","format":"vst2","file":"Access Virus Editor.dll","sha256":"120f71dd1fef6df1f46f2c354ee1d86fbbfa6f394bb8bb82bb93a3f48a60171b"},
+      {"slug":"access-virus-editor-pc-vst3-v25.01.24","format":"vst3","file":"Access Virus Editor.vst3","sha256":"337e6b6937c1a584ae3818d478d78d7f47a089691897baaabe2bd81e73cd173e"}
+    ]},
+    { "version": "24.12.21", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v24.12.21","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"d864be9884213a10a20ee0c36cb40677f304e177085348c48ba945122e4d8b68"},
+      {"slug":"access-virus-editor-pc-app-v24.12.21","format":"app","file":"Access Virus Editor.exe","sha256":"fece69599946f940b3384840a085651faf5ce6e0301b41c94e7ab39468fab299"},
+      {"slug":"access-virus-editor-pc-vst2-v24.12.21","format":"vst2","file":"Access Virus Editor.dll","sha256":"1b6d64db4167bc0c1344473cb497580884c703d058a1432d7a0dc81100083018"},
+      {"slug":"access-virus-editor-pc-vst3-v24.12.21","format":"vst3","file":"Access Virus Editor.vst3","sha256":"725920d2027d67873bc8a1d4731d3170687480cd4b4e13cbf4b7706ccd31b7d4"}
+    ]},
+    { "version": "24.10.22", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v24.10.22","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"4543ab82192b109351f709030aa6fc144b0c12f08d96e2f7d669c17e3675e515"},
+      {"slug":"access-virus-editor-pc-app-v24.10.22","format":"app","file":"Access Virus Editor.exe","sha256":"11a681bc73c16a071ab9aaddeffa487577095e142777efc1f1b6e93f1cf7fe84"},
+      {"slug":"access-virus-editor-pc-vst2-v24.10.22","format":"vst2","file":"Access Virus Editor.dll","sha256":"b38790359f7f1d18b356a9a6e1db4b0663c43f1ad20749445d44ce9318e523e6"},
+      {"slug":"access-virus-editor-pc-vst3-v24.10.22","format":"vst3","file":"Access Virus Editor.vst3","sha256":"0096f4c58ed05483e2ecf15f106d1122891f5813856b78f17e2004d0f308de8e"}
+    ]},
+    { "version": "24.10.18", "generated": "2026-10-26T03:57:18Z", "entries": [
+      {"slug":"access-virus-editor-pc-aax-v24.10.18","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"6d93c5f7ef141eac8f652e1c2d81f61fa96e9a3e5b0f179305a533f988b9191b"},
+      {"slug":"access-virus-editor-pc-app-v24.10.18","format":"app","file":"Access Virus Editor.exe","sha256":"fd1a964d1352aa4e99e78873175031a4a72a212ba2b9f621dd376922f9350f2b"},
+      {"slug":"access-virus-editor-pc-vst2-v24.10.18","format":"vst2","file":"Access Virus Editor.dll","sha256":"ceda8e371be43dd40ab6647e0c1356681f2253e8dd035393bf1bf398c1952007"},
+      {"slug":"access-virus-editor-pc-vst3-v24.10.18","format":"vst3","file":"Access Virus Editor.vst3","sha256":"2568f303b962789f6de342a5ca42dcc1207199201a8f998ab449877e54c926d8"}
     ]}
   ]
 }
