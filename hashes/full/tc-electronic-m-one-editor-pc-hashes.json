@@ -42,6 +42,12 @@
       {"slug":"tc-electronic-m-one-editor-pc-app-v26.04.26","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"b12be460d794d04d9f15fc9af6051972a8c4acef3aa5fe652b45ef909017ee74"},
       {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.04.26","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"cc66cbaad3122f4f8473f6fbbcf8346b8bf4fa9e8af8b8735ab4e670d1f8fab1"},
       {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.04.26","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"52ba068233ad8640db8ce484a14662ec406fa306bfd0ba5337da72b79866b775"}
+    ]},
+    { "version": "26.06.29", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"tc-electronic-m-one-editor-pc-aax-v26.06.29","format":"aax","file":"Contents/x64/TC Electronic M-One Editor.aaxplugin","sha256":"38931714d2abef00419bfc9c1295eb4745c56e057e111c613b64af245e78333b"},
+      {"slug":"tc-electronic-m-one-editor-pc-app-v26.06.29","format":"app","file":"TC Electronic M-One Editor.exe","sha256":"d9e92a8767f574a90fd18b18855294f4ba2599eea2c1832a9371337e60fc7c38"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst2-v26.06.29","format":"vst2","file":"TC Electronic M-One Editor.dll","sha256":"d0faca511846a60a687dae61a5c2672fa73c80bf9538d01009f21677427050d6"},
+      {"slug":"tc-electronic-m-one-editor-pc-vst3-v26.06.29","format":"vst3","file":"TC Electronic M-One Editor.vst3","sha256":"b7ee4f4ca58051fb86e2a41d6c568a006af435a5e21aae5a2232ac81ba9e6e76"}
     ]}
   ]
 }

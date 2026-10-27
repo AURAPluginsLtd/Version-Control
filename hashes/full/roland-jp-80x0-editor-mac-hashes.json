@@ -28,6 +28,13 @@
       {"slug":"roland-jp-80x0-editor-mac-au-v24.10.23","format":"au","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"7ab5f3fdd4c842c1dc0e2d7da3add73e00e9a2f72fd7abcdd888701d929a812e"},
       {"slug":"roland-jp-80x0-editor-mac-vst2-v24.10.23","format":"vst2","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"be359f4f0d2c5871be69ffe4873ec16c0bac26105b67c993d776c2e3108b9ee0"},
       {"slug":"roland-jp-80x0-editor-mac-vst3-v24.10.23","format":"vst3","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"3d5ec0fb92057dbf9e10a23bc818d1cfa7ac535b597ca2d458c1acb389a449e6"}
+    ]},
+    { "version": "26.06.29", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"roland-jp-80x0-editor-mac-aax-v26.06.29","format":"aax","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"f080b1618fc56bd9681f5fb172030dc3515c597af627fdf21a02f6adca21437b"},
+      {"slug":"roland-jp-80x0-editor-mac-app-v26.06.29","format":"app","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"3bfa49d351e608ee9a9a554715a654a08d1ff87d525bedf4aceae302b3305abf"},
+      {"slug":"roland-jp-80x0-editor-mac-au-v26.06.29","format":"au","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"e901d4c764c1f78866524b2957b69eab03952e609418021f2ced30379ea58ffb"},
+      {"slug":"roland-jp-80x0-editor-mac-vst2-v26.06.29","format":"vst2","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"1221918514a1b31cb8c6ba78be7c5939322bac512c4d5e660c39d920b7fe001c"},
+      {"slug":"roland-jp-80x0-editor-mac-vst3-v26.06.29","format":"vst3","file":"Contents/MacOS/Roland JP-80x0 Editor","sha256":"4faf402d83278b4bf1d1281dc1e0760d9fe54394610c4a99f0adae126130147f"}
     ]}
   ]
 }

@@ -112,6 +112,13 @@
       {"slug":"waldorf-pulse-editor-mac-au-v25.02.11","format":"au","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"4e4469b0b81c61fcc77a462725e560c96933470f5fa3dddf4eb51611807e8b4e"},
       {"slug":"waldorf-pulse-editor-mac-vst2-v25.02.11","format":"vst2","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"def9086becbbdc9d85e5482548e67d50b7737909e61a7c8dc51a891b22321379"},
       {"slug":"waldorf-pulse-editor-mac-vst3-v25.02.11","format":"vst3","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"9baf766bce06010e4bc49c1e2232fd61dbbefbdce39257f22b0dfb794878cdd6"}
+    ]},
+    { "version": "26.01.28", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"waldorf-pulse-editor-mac-aax-v26.01.28","format":"aax","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"a09ed657f998434f8a1a927c1fa95ed80b2bde81ba167939ec5bb02cc7ddabc2"},
+      {"slug":"waldorf-pulse-editor-mac-app-v26.01.28","format":"app","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"3256658e14c0d4432fb257bf2c0df22bf588b5960ea87b9bf72924a00442fe63"},
+      {"slug":"waldorf-pulse-editor-mac-au-v26.01.28","format":"au","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"095e5f752b5efe4bfba491e42747bbec13233370b54456c3b4fa5bdd2c520664"},
+      {"slug":"waldorf-pulse-editor-mac-vst2-v26.01.28","format":"vst2","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"4fdbf77901d52266452e927913801d8b385a0cb14d25e26aa83e8f8e56ab012c"},
+      {"slug":"waldorf-pulse-editor-mac-vst3-v26.01.28","format":"vst3","file":"Contents/MacOS/Waldorf Pulse Editor","sha256":"1b29f1819e18a60b5bc10559c298975ddd01ce463474303e6933072d346127a7"}
     ]}
   ]
 }

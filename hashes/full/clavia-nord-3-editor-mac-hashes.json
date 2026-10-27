@@ -21,6 +21,13 @@
       {"slug":"clavia-nord-3-editor-mac-au-v26.04.02","format":"au","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"3fef83cfecfc16941dd92cf7d5d62a397b128a4909cb735cc1a6b75940186cf0"},
       {"slug":"clavia-nord-3-editor-mac-vst2-v26.04.02","format":"vst2","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"aa60c078b49a5757287ecf41cb7b38ced401b35689e85592c9333bb6ab1d7089"},
       {"slug":"clavia-nord-3-editor-mac-vst3-v26.04.02","format":"vst3","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"33072afd1112f4bcbbe18779180cb189504932c69bbd8ca92e33208f0a8d7243"}
+    ]},
+    { "version": "26.06.29", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"clavia-nord-3-editor-mac-aax-v26.06.29","format":"aax","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"deeded853daa3cdb67f381be75ca91c7e838a31e8d3e6980bfbe414f4bfeb94c"},
+      {"slug":"clavia-nord-3-editor-mac-app-v26.06.29","format":"app","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"a54ffb98b8eb036d6688adeda866e65ad9496005be9d2d0f18370e75e3d29798"},
+      {"slug":"clavia-nord-3-editor-mac-au-v26.06.29","format":"au","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"a66f4fc7dde34aa49783085401fbef1e434d3a12d02313f428e72eff5ae66d6d"},
+      {"slug":"clavia-nord-3-editor-mac-vst2-v26.06.29","format":"vst2","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"d88d842e49a8278de71754b6b62083762feaecd9be65200b4a38c323abcc16e1"},
+      {"slug":"clavia-nord-3-editor-mac-vst3-v26.06.29","format":"vst3","file":"Contents/MacOS/Clavia Nord 3 Editor","sha256":"ba2eb4061c447fee8a98682bfa54fe59a1ae3eb24eb1438a5d7c00d20b2903c9"}
     ]}
   ]
 }

@@ -96,6 +96,12 @@
       {"slug":"waldorf-pulse-editor-pc-app-v25.02.11","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"52f71205e3887d9d42a5e1c7ff9c2631b0e0e9fbf6d07618830d9d0195b3f60f"},
       {"slug":"waldorf-pulse-editor-pc-vst2-v25.02.11","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"1d279da3699e119dec006642400601c1ad8898b6dc9b9ef43b6377a428dd3154"},
       {"slug":"waldorf-pulse-editor-pc-vst3-v25.02.11","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"8b71de3f8c60fb2aba426439a23790f34ae8f0f13d45383e883ddcd7cd4b9dff"}
+    ]},
+    { "version": "26.01.28", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"waldorf-pulse-editor-pc-aax-v26.01.28","format":"aax","file":"Contents/x64/Waldorf Pulse Editor.aaxplugin","sha256":"42920b929845435d8f486670943f32cc2f6fdf5c6257ff2125aa920ad3a32ef8"},
+      {"slug":"waldorf-pulse-editor-pc-app-v26.01.28","format":"app","file":"Waldorf Pulse Editor.exe","sha256":"b9e5fdd6b89323e700b522914358d6e399676213dfe70bb01a03358ccba492f5"},
+      {"slug":"waldorf-pulse-editor-pc-vst2-v26.01.28","format":"vst2","file":"Waldorf Pulse Editor.dll","sha256":"417c599e385d510020f41e6c89557367f8ecc00b5122b36245dfd720d6c2f1ac"},
+      {"slug":"waldorf-pulse-editor-pc-vst3-v26.01.28","format":"vst3","file":"Waldorf Pulse Editor.vst3","sha256":"1ad1ce189a6240f5a22366f96107be453fe81bbd6c444eaeb0a58730323e7c55"}
     ]}
   ]
 }

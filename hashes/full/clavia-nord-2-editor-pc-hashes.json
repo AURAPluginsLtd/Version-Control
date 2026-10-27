@@ -66,6 +66,12 @@
       {"slug":"clavia-nord-2-editor-pc-app-v25.05.29","format":"app","file":"Clavia Nord Editor.exe","sha256":"60128b5d2b8acee916aead38777c39c6c8e3a82e9ddc85cafa82e43b01ac8484"},
       {"slug":"clavia-nord-2-editor-pc-vst2-v25.05.29","format":"vst2","file":"Clavia Nord Editor.dll","sha256":"ebd3e121746c70b200cf6e39be37e25738e1191889a35d62f575b57c00b07bdf"},
       {"slug":"clavia-nord-2-editor-pc-vst3-v25.05.29","format":"vst3","file":"Clavia Nord Editor.vst3","sha256":"d363c534e91f9257891c9511470e8731d9a76b1a05b7ff590f9d3d6954641164"}
+    ]},
+    { "version": "26.06.29", "generated": "2026-10-27T22:15:45Z", "entries": [
+      {"slug":"clavia-nord-2-editor-pc-aax-v26.06.29","format":"aax","file":"Contents/x64/Clavia Nord Editor.aaxplugin","sha256":"5fc37c83b7a25ca0f181a3b2322c5fcc61012ddb5e50c9ae158276380b51f8d5"},
+      {"slug":"clavia-nord-2-editor-pc-app-v26.06.29","format":"app","file":"Clavia Nord Editor.exe","sha256":"3e9f00fbfeeced719d38191df489cbdd40f59419866132864034a6bf71190495"},
+      {"slug":"clavia-nord-2-editor-pc-vst2-v26.06.29","format":"vst2","file":"Clavia Nord Editor.dll","sha256":"5ca92004c540091bf94b24a8ce11c79d8cb5b62595ee6e51d7fcb3c042cfaf22"},
+      {"slug":"clavia-nord-2-editor-pc-vst3-v26.06.29","format":"vst3","file":"Clavia Nord Editor.vst3","sha256":"aba66e6de7aa2b5881f9aefbeb40e66ebb3ace06e5294d66afaa69c6d9c23114"}
     ]}
   ]
 }
