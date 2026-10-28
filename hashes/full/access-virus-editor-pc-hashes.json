@@ -14,7 +14,8 @@
     { "version": "3.0.0", "generated": "2026-10-28T16:54:15Z", "entries": [
       {"slug":"access-virus-editor-pc-aax-beta","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"e52238e4f6020e41c342ea46afa2a2fc165ad96366fedb82dc39aaf4fc846e67"},
       {"slug":"access-virus-editor-pc-app-beta","format":"app","file":"Access Virus Editor.exe","sha256":"2270164d4e969f9967ed67e83d03ed03dec47bbdd4474a33a8063f780c881532"},
-      {"slug":"access-virus-editor-pc-vst2-beta","format":"vst2","file":"Access Virus Editor.dll","sha256":"33e1aa8c7ebb7694f9480b43609337863d3ec28e20e804bbef1ef6fe521d0d49"}
+      {"slug":"access-virus-editor-pc-vst2-beta","format":"vst2","file":"Access Virus Editor.dll","sha256":"33e1aa8c7ebb7694f9480b43609337863d3ec28e20e804bbef1ef6fe521d0d49"},
+      {"slug":"access-virus-editor-pc-vst3-beta","format":"vst3","file":"Access Virus Editor.vst3","sha256":"1425082f394b264a5b4748a41733ea4a3ed29fbd8112e9e148848b94061eea25"}
     ]},
     { "version": "26.06.08", "generated": "2026-10-26T03:57:18Z", "entries": [
       {"slug":"access-virus-editor-pc-aax-v26.06.08","format":"aax","file":"Contents/x64/Access Virus Editor.aaxplugin","sha256":"6ad04f32c7ef148d60ee5c8e2ce7121f0ce5a3531535de9904467b917222baa6"},
