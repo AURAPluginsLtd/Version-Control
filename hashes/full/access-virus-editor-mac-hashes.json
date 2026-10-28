@@ -8,6 +8,13 @@
       {"slug":"access-virus-editor-mac-vst2","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"6b2fa311e69e4d0f0981a706a2de8921c68fd304b0194a902ab645e879ef995a","zip_sha256":"17c017d22df5c649829c813965f0f1e16cac82e9978f0884eb72808f0cbabe8d"},
       {"slug":"access-virus-editor-mac-vst3","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"b3d9d19dca0a1d0e975c6b8bbde0cba5f02c170e9157b723d777f1e20bee6931","zip_sha256":"2ade4a26dd0354f585778ce472fa899b5c582005538378fb0a7afefde97b8140"}
     ]},
+    { "version": "26.09.23", "generated": "2026-10-28T16:51:38Z", "entries": [
+      {"slug":"access-virus-editor-mac-aax-beta","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"68349f81626d4c54798eedc4b9b19370f871f27d7536d73ae66369e2da76b44f"},
+      {"slug":"access-virus-editor-mac-app-beta","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"7818229226fe472cb66f31f2b47168baefb6e25f182ef7d3c1de023db1318291"},
+      {"slug":"access-virus-editor-mac-au-beta","format":"au","file":"Contents/MacOS/Access Virus Editor","sha256":"8e834dde54b80cc95e1e1c47a6afe792de14103903592a2d3221ecde67049601"},
+      {"slug":"access-virus-editor-mac-vst2-beta","format":"vst2","file":"Contents/MacOS/Access Virus Editor","sha256":"707774fd8d95fd375573078cbe41aee50f61b4a710636439fbc233926f73122c"},
+      {"slug":"access-virus-editor-mac-vst3-beta","format":"vst3","file":"Contents/MacOS/Access Virus Editor","sha256":"79dd8f2cbec1f870ade5e6b0b55350e981ea4818d768c6d32b57eb0c4d566149"}
+    ]},
     { "version": "26.05.17", "generated": "2026-10-24T21:26:29Z", "entries": [
       {"slug":"access-virus-editor-mac-aax-legacy","format":"aax","file":"Contents/MacOS/Access Virus Editor","sha256":"e497f0d76f8a7f663bc088daef1e724f329481b97008a0bdedeea6c46fb8d73e","zip_sha256":"68a1a50bef786ecee3e9043dd8cf357c3e5bd40c4368849c920228ff73d96ab5"},
       {"slug":"access-virus-editor-mac-app-legacy","format":"app","file":"Contents/MacOS/Access Virus Editor","sha256":"3bf309b4638e7ccc751ac2ff966bfedba0e809a9ba5b2cd3f4480aa14306c789","zip_sha256":"d2905c1434850f2fb70960c847c8d39e8b70efe653dfa477b34281b2fad579e1"},
