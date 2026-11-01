@@ -1,4 +1,4 @@
-<strong>Version 26.10.31</strong>
+<strong>Version 26.11.01</strong>
 
 [new] Initial Release.
 - Browse every AURA Plugins editor in one place, with search, oldest-to-latest sorting and Synthesizers, Effects and On Sale views.
